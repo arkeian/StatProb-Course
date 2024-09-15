@@ -57,7 +57,7 @@ print(float_cucumbers_per_person)
 
 # Page 11
 haiku = "The old pond,\nA frog jumps in:\nPlop!"
-haiku ="""
+haiku = """
 The old pond,
 A frog jumps in:
 Plop!
