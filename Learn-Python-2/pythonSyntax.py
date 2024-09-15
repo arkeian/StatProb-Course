@@ -49,6 +49,7 @@ print(total_cost)
 
 # Page 10
 cucumbers, num_people = 100, 6
+
 whole_cucumbers_per_person = cucumbers / num_people
 print(whole_cucumbers_per_person)
 
