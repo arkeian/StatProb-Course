@@ -106,7 +106,7 @@ print("Ah, so your name is %s, your quest is %s, " \
 # Page 16
 # Write your code below, starting on line 3!
 
-my_string = "Kita pasti pernah mendapatkan cobaan yang berat, " \
-            "seakan hidup ini tak ada artinya lagi."
+my_string = "Kita pasti pernah mendapatkan cobaan yang berat," \
+            " seakan hidup ini tak ada artinya lagi."
 print(len(my_string))
 print(my_string.upper())
