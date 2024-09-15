@@ -1,7 +1,7 @@
 # Page 1
 """
-Tidak ada kode untuk Page 1 di sini karena belum
-ditugaskan untuk membuat sebuah blok kode.
+(ID) Tidak ada kode yang disertakan di dalam Page 1 karena belum diinstruksikan untuk membuat sebuah blok kode.
+(EN) No codes are included within Page 1 because this page has yet to give the learner any instructions.
 """
 
 # Page 2
@@ -37,8 +37,8 @@ else:
 
 # Page 6
 """
-Tidak ada kode untuk Page 6 di sini karena hanya
-ditugaskan untuk uji coba blok kode Page 5.
+(ID) Tidak ada kode yang disertakan di dalam Page 6 karena instruksinya hanya menjalankan blok kode Page 5.
+(EN) No codes are included within Page 6 because this page instructs the learner to run Page 5's block of code.
 """
 
 # Page 7

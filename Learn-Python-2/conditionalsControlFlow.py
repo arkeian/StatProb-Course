@@ -1,7 +1,7 @@
 # Page 1
 """
-Tidak ada kode untuk Page 1 di sini karena tugasnya hanya
-menjalankan program dan tidak membuat sebuah blok kode.
+(ID) Tidak ada kode yang disertakan di dalam Page 1 karena instruksinya hanya menjalankan program.
+(EN) No codes are included within Page 1 because this page instructs the learner to run the given program.
 """
 
 # Page 2
@@ -61,9 +61,8 @@ bool_five = isinstance(12 / 3, float)
 
 # Page 5
 """
-Tidak ada kode untuk Page 5 di sini karena tugasnya hanya
-membaca tabel operasi boolean dan tidak membuat sebuah
-blok kode.
+(ID) Tidak ada kode yang disertakan di dalam Page 5 karena instruksinya hanya membaca tabel operasi boolean.
+(EN) No codes are included within Page 5 because this page instructs the learner to read the boolean operations table.
 """
 
 # Page 6
