@@ -97,6 +97,6 @@ else:
 
 word = original.lower()
 first = word[0]
-new_word = "%s%s%s" % (word, first, pyg)
+new_word = "%s%s%s" % (word[1:len(word)], first, pyg)
 
 print(new_word)
