@@ -1,24 +1,16 @@
 # Page 1
-# Set the variable brian on line 3!
-
 brian = "Hello life!"
 
 # Page 2
-# Assign your variables below, each on its own line!
-
 caesar = "Graham"
 praline = "John"
 viking = "Teresa"
-
-# Put your variables above this line
 
 print(caesar)
 print(praline)
 print(viking)
 
 # Page 3
-# The string below is broken. Fix it using the escape backslash!
-
 'This isn\'t flying, this is falling with style!'
 
 # Page 4
@@ -80,13 +72,9 @@ the_machine_goes = "Ping!"
 print(the_machine_goes)
 
 # Page 12
-# Print the concatenation of "Spam and eggs" on line 3!
-
 print("Spam " + "and " + "eggs")
 
 # Page 13
-# Turn 3.14 into a string on line 3!
-
 print("The value of pi is around " + str(3.14))
 
 # Page 14
@@ -104,8 +92,6 @@ print("Ah, so your name is %s, your quest is %s, " \
 "and your favorite color is %s." % (name, quest, color))
 
 # Page 16
-# Write your code below, starting on line 3!
-
 my_string = "Kita pasti pernah mendapatkan cobaan yang berat," \
             " seakan hidup ini tak ada artinya lagi."
 print(len(my_string))

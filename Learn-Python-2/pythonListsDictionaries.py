@@ -1,6 +1,5 @@
 # Page 1
-zoo_animals = ["pangolin", "cassowary", "sloth", "komodo dragon"];
-# One animal is missing!
+zoo_animals = ["pangolin", "cassowary", "sloth", "komodo dragon"]
 
 if len(zoo_animals) > 3:
   print("The first animal at the zoo is the " + zoo_animals[0])
@@ -31,7 +30,6 @@ zoo_animals[3] = "komodo dragon"
 suitcase = [] 
 suitcase.append("sunglasses")
 
-# Your code here!
 suitcase.extend(["shirts", "trousers", "medicines"])
 
 
@@ -68,10 +66,9 @@ frog = animals[6:]
 animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
 duck_index = animals.index("duck")
 
-# Your code here!
 animals.insert(duck_index, "cobra")
 
-print(animals) # Observe what prints after the insert operation
+print(animals)
 
 # Page 8
 my_list = [1,9,3,8,5,7]
@@ -82,7 +79,6 @@ for number in my_list:
 # Page 9
 start_list = [5, 3, 1, 2, 4]
 
-# Your code here!
 square_list = sorted([num ** 2 for num in start_list])
 
 
@@ -94,7 +90,6 @@ residents = {'Puffin' : 104, 'Sloth' : 105, 'Burmese Python' : 106}
 
 print(residents['Puffin']) # Prints Puffin's room number
 
-# Your code here!
 print(residents["Sloth"])
 print(residents["Burmese Python"])
 
@@ -103,7 +98,6 @@ menu = {} # Empty dictionary
 menu['Chicken Alfredo'] = 14.50 # Adding new key-value pair
 print(menu['Chicken Alfredo'])
 
-# Your code here: Add some dish-price pairs to menu!
 menu["Nasi Padang"] = 4.50
 menu["Nasi Liwet"] = 4.00
 menu["Nasi Goreng"] = 4.50
@@ -123,10 +117,9 @@ zoo_animals = {
 }
 # A dictionary (or list) declaration may break across multiple lines
 
-# Removing the 'Unicorn' entry. (Unicorns are incredibly expensive.)
+# Removing the 'Unicorn' entry.
 del zoo_animals['Unicorn']
 
-# Your code here!
 del zoo_animals['Sloth']
 del zoo_animals['Bengal Tiger']
 zoo_animals['Rockhopper Penguin'] = 'Tristan da Cunha'
@@ -152,7 +145,6 @@ inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 # Sorting the list found under the key 'pouch'
 inventory['pouch'].sort() 
 
-# Your code here
 inventory['pocket'] = ['seashell', 'strange berry', 'lint']
 inventory['backpack'].remove('dagger')
 inventory['backpack'].sort()

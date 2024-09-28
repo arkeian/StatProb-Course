@@ -79,7 +79,6 @@ big_string = "The product was " + str(product)
 
 # Page 14
 skill_completed = "Python Syntax"
-#The amount of points for each exercise may change, because points don't exist yet
 exercises_completed, points_per_exercise, point_total = 13, 5, 100
 point_total += exercises_completed * points_per_exercise
 print("I got " + str(point_total) + " points!")

@@ -5,17 +5,10 @@
 """
 
 # Page 2
-# Define your spam function starting on line 5. You
-# can leave the code on line 10 alone for now--we'll
-# explain it soon!
-
 def spam():
   """Prints 'Eggs!' to the console."""
   print("Eggs!")
 
-
-
-# Define the spam function above this line.
 spam()
 
 # Page 3
@@ -24,18 +17,15 @@ def square(n):
   squared = n ** 2
   print("%d squared is %d." % (n, squared))
   return squared
-  
-# Call the square function on line 10! Make sure to
-# include the number 10 between the parentheses.
 
 square(10)
 
 # Page 4
-def power(base, exponent):  # Add your parameters here!
+def power(base, exponent):
   result = base ** exponent
   print("%d to the power of %d is %d" % (base, exponent, result))
 
-power(37, 4)  # Add your arguments here!
+power(37, 4)
 
 # Page 5
 def one_good_turn(n):
@@ -55,8 +45,6 @@ def by_three(number):
     return False
   
 # Page 7
-# Ask Python to print sqrt(25) on line 3.
-
 print("sqrt(25)")
 
 # Page 8
@@ -65,20 +53,17 @@ import math
 print(math.sqrt(25))
 
 # Page 9
-# Import *just* the sqrt function from math on line 3!
-
 from math import sqrt
 
 # Page 10
-# Import *everything* from the math module on line 3!
+# Import *everything* from the math module
 # Not recommended
-
 from math import *
 
 # Page 11
-import math # Imports the math module
+import math
 everything = dir(math) # Sets everything to a list of things from math
-print(everything) # Prints 'em all!
+print(everything)
 
 # Page 12
 def biggest_number(*args):
@@ -98,15 +83,11 @@ smallest_number(-10, -5, 5, 10)
 distance_from_zero(-10)
 
 # Page 13
-# Set maximum to the max value of any set of numbers on line 3!
-
 maximum = max(1, 1.000008, -1)
 
 print(maximum)
 
 # Page 14
-# Set minimum to the min value of any set of numbers on line 3!
-
 minimum = min(1, 1.000008, -1)
 
 print(minimum)
@@ -117,9 +98,6 @@ absolute = abs(-42)
 print(absolute)
 
 # Page 16
-# Print out the types of an integer, a float,
-# and a string on separate lines below.
-
 i, j, k = 3, 3.14, "Three Point One Four"
 print(type(i))
 print(type(j))

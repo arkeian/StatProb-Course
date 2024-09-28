@@ -12,7 +12,6 @@ webster = {
   "Dab": "A small amount."
 }
 
-# Add your code below!
 for key in webster:
   print(webster[key])
 
@@ -24,7 +23,6 @@ for num in a:
     print(num)
 
 # Page 4
-# Write your function below!
 def fizz_count(strings):
   count = 0
   for string in strings:
@@ -36,7 +34,6 @@ def fizz_count(strings):
 for letter in "Codecademy":
   print(letter)
     
-# Empty lines to make the output pretty
 print()
 print()
 
@@ -97,7 +94,6 @@ prices = {
   "pear": 3
 }
 
-# Write your code below!
 def compute_bill(food):
   total = 0
   for item in food:
@@ -121,7 +117,6 @@ prices = {
   "pear": 3
 }
 
-# Write your code below!
 def compute_bill(food):
   total = 0
   for item in food:
@@ -149,7 +144,6 @@ prices = {
 
 print(compute_bill(shopping_list))
 
-# Write your code below!
 def compute_bill(food):
   total = 0
   for item in food:

@@ -29,7 +29,6 @@ bool_five = False
 bool_one = False    # We did this one for you!
 
 # (10 + 17) == 3**16
-# Remember that ** can be read as 'to the power of'. 3**16 is about 43 million.
 bool_two = False
 
 # 1**2 <= -1
@@ -156,13 +155,13 @@ def black_knight():
     if answer == "'Tis but a scratch!":
         return True
     else:             
-        return False # Make sure this returns False
+        return False
 
 def french_soldier():
     if answer == "Go away, or I shall taunt you a second time!":
         return True
     else:             
-        return False # Make sure this returns False
+        return False
     
 # Page 14
 def greater_less_equal_5(answer):
@@ -178,7 +177,6 @@ print(greater_less_equal_5(5))
 print(greater_less_equal_5(6))
 
 # Page 15
-# Complete the if and elif statements!
 def grade_converter(grade):
     if grade >= 90:
         return "A"

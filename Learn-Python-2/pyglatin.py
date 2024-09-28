@@ -10,13 +10,11 @@ print("Pig Latin")
 # Page 3
 print('Welcome to the Pig Latin Translator!')
 
-# Start coding here!
 original = input("Enter a word: ")
 
 # Page 4
 print('Welcome to the Pig Latin Translator!')
 
-# Start coding here!
 original = input("Enter a word: ")
 
 if len(original) > 0:
@@ -27,7 +25,6 @@ else:
 # Page 5
 print('Welcome to the Pig Latin Translator!')
 
-# Start coding here!
 original = input("Enter a word: ")
 
 if len(original) > 0 and original.isalpha():
