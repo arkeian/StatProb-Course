@@ -45,9 +45,6 @@ parrot = "norwegian blue"
 print(parrot.upper())
 
 # Page 8
-"""Declare and assign your variable on line 4,
-then call your method on line 5!"""
-
 pi = 3.14
 print(str(pi))
 
@@ -58,16 +55,9 @@ print(len(ministry))
 print(ministry.upper())
 
 # Page 10
-"""Tell Python to print "Monty Python"
-to the console on line 4!"""
-
 print("Monty Python")
 
 # Page 11
-"""Assign the string "Ping!" to
-the variable the_machine_goes on
-line 5, then print it out on line 6!"""
-
 the_machine_goes = "Ping!"
 print(the_machine_goes)
 
