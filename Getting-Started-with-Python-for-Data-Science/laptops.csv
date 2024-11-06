@@ -1,0 +1,816 @@
+problem,brand,repair_status,event_year,age,percent_problem_fixed
+power/battery,dell,repairable,2019,7,29.47
+unknown,medion,end of life,2019,9,48.08
+multiple,hp,end of life,2019,6,60.0
+configuration,hp,repairable,2018,3,67.74
+operating system,samsung,fixed,2019,9,59.72
+integrated screen,microsoft,repairable,2019,5,30.88
+operating system,toshiba,fixed,2019,7,59.72
+configuration,apple,fixed,2019,2,67.74
+unknown,acer,repairable,2020,5,48.08
+system board,acer,fixed,2019,6,31.58
+configuration,acer,fixed,2018,5,67.74
+case/chassis,dell,repairable,2019,8,40.0
+integrated screen,hewlett packard,end of life,2019,7,30.88
+unknown,acer,end of life,2017,10,48.08
+operating system,unknown,repairable,2019,5,59.72
+configuration,hp,fixed,2019,6,67.74
+ports/slots/connectors,compaq,end of life,2019,3,40.0
+unknown,asus,fixed,2019,7,48.08
+case/chassis,hp,end of life,2019,4,40.0
+unknown,alpha,repairable,2017,12,48.08
+integrated keyboard,hp compaq,repairable,2018,14,28.57
+unknown,apple,end of life,2019,11,48.08
+integrated screen,samsung,fixed,2019,5,30.88
+ports/slots/connectors,apple,repairable,2018,5,40.0
+case/chassis,lenovo,end of life,2018,11,40.0
+boot,toshiba,end of life,2019,10,31.82
+virus/malware,hp,repairable,2020,12,70.59
+power/battery,dell,fixed,2018,2,29.47
+internal storage,toshiba,repairable,2019,15,53.33
+configuration,compaq,fixed,2018,8,67.74
+unknown,medion,end of life,2018,13,48.08
+boot,asus,repairable,2020,10,31.82
+power/battery,hp,repairable,2019,5,29.47
+operating system,asus,fixed,2020,5,59.72
+internal storage,toshiba,fixed,2019,19,53.33
+performance,acer,fixed,2018,9,62.5
+integrated screen,lenovo,repairable,2018,4,30.88
+integrated screen,samsung,end of life,2020,8,30.88
+operating system,geo,fixed,2019,0,59.72
+overheating,thinkpad,repairable,2019,7,71.43
+power/battery,hp,repairable,2019,4,29.47
+boot,fujitsu,fixed,2020,12,31.82
+operating system,asus,fixed,2020,2,59.72
+ports/slots/connectors,apple,repairable,2019,9,40.0
+performance,asus,repairable,2019,8,62.5
+boot,lenovo,fixed,2019,7,31.82
+ports/slots/connectors,dell,fixed,2019,5,40.0
+unknown,apple,end of life,2017,6,48.08
+power/battery,dell,fixed,2018,6,29.47
+configuration,asus,end of life,2019,7,67.74
+case/chassis,lenovo,unknown,2019,4,40.0
+operating system,toshiba,fixed,2020,10,59.72
+system board,apple,repairable,2019,5,31.58
+performance,samsung,fixed,2019,8,62.5
+unknown,acer,repairable,2018,8,48.08
+power/battery,msi,fixed,2019,3,29.47
+integrated keyboard,hp,repairable,2018,5,28.57
+performance,hp,fixed,2017,2,62.5
+overheating,hp,fixed,2020,4,71.43
+integrated keyboard,akoya,fixed,2019,3,28.57
+power/battery,toshiba,fixed,2020,10,29.47
+power/battery,lehovo,fixed,2019,6,29.47
+performance,lenovo,fixed,2019,12,62.5
+unknown,fujitsu,fixed,2019,8,48.08
+case/chassis,dell,repairable,2019,4,40.0
+operating system,acer,repairable,2019,4,59.72
+unknown,unknown,fixed,2019,5,48.08
+integrated screen,lenovo,unknown,2018,5,30.88
+unknown,asus,repairable,2017,1,48.08
+configuration,acer,fixed,2018,8,67.74
+operating system,dell,fixed,2019,11,59.72
+internal storage,asus,repairable,2018,5,53.33
+integrated screen,toshiba,fixed,2019,5,30.88
+overheating,hp,repairable,2019,4,71.43
+boot,medion,fixed,2019,4,31.82
+configuration,unknown,repairable,2020,3,67.74
+integrated keyboard,unknown,repairable,2019,2,28.57
+operating system,asus,repairable,2019,7,59.72
+unknown,acer,repairable,2018,1,48.08
+unknown,unknown,fixed,2018,18,48.08
+configuration,microsoft,fixed,2019,1,67.74
+power/battery,packard bell,end of life,2019,10,29.47
+unknown,unknown,fixed,2018,1,48.08
+internal storage,apple,fixed,2019,4,53.33
+operating system,toshiba,repairable,2019,8,59.72
+ports/slots/connectors,apple,repairable,2020,4,40.0
+configuration,asus,fixed,2019,6,67.74
+configuration,lenovo,end of life,2019,3,67.74
+power/battery,apple,fixed,2018,6,29.47
+unknown,acer,end of life,2019,5,48.08
+unknown,hp,repairable,2019,8,48.08
+power/battery,hp,repairable,2019,9,29.47
+integrated keyboard,apple,repairable,2018,7,28.57
+integrated keyboard,toshiba,repairable,2018,5,28.57
+unknown,asus,repairable,2020,6,48.08
+performance,lenovo,fixed,2019,4,62.5
+case/chassis,lenovo,fixed,2020,12,40.0
+unknown,apple,end of life,2020,7,48.08
+integrated media component,apple,repairable,2018,6,42.86
+configuration,lenovo,fixed,2019,1,67.74
+power/battery,compaq,repairable,2019,7,29.47
+operating system,hp,fixed,2020,10,59.72
+power/battery,hp,fixed,2019,4,29.47
+power/battery,apple,fixed,2018,4,29.47
+performance,hp,fixed,2018,6,62.5
+unknown,lenovo,fixed,2020,4,48.08
+unknown,apple,repairable,2019,4,48.08
+ports/slots/connectors,lenovo,fixed,2019,10,40.0
+operating system,toshiba,repairable,2019,8,59.72
+unknown,asus,repairable,2019,4,48.08
+power/battery,dell,repairable,2019,5,29.47
+boot,apple,repairable,2019,15,31.82
+unknown,hp,fixed,2017,10,48.08
+operating system,samsung,fixed,2020,7,59.72
+unknown,hp,fixed,2020,5,48.08
+power/battery,apple,fixed,2019,2,29.47
+power/battery,packard bell,end of life,2020,7,29.47
+unknown,acer,fixed,2020,2,48.08
+power/battery,asus,end of life,2019,2,29.47
+overheating,sony,repairable,2020,8,71.43
+virus/malware,apple,fixed,2019,4,70.59
+operating system,asus,repairable,2018,8,59.72
+power/battery,toshiba,end of life,2019,10,29.47
+integrated keyboard,asus,repairable,2019,5,28.57
+overheating,asus,fixed,2020,10,71.43
+power/battery,apple,end of life,2019,10,29.47
+power/battery,apple,repairable,2019,4,29.47
+case/chassis,lenovo,repairable,2019,2,40.0
+performance,sharp,fixed,2016,12,62.5
+overheating,apple,fixed,2020,7,71.43
+overheating,apple,fixed,2020,7,71.43
+integrated media component,hp,repairable,2018,5,42.86
+ports/slots/connectors,sony,repairable,2019,7,40.0
+power/battery,sony,end of life,2019,12,29.47
+internal storage,hp,fixed,2019,12,53.33
+unknown,apple,fixed,2019,4,48.08
+power/battery,fujitsu technology solutions,end of life,2018,5,29.47
+integrated screen,apple,repairable,2019,5,30.88
+configuration,asus,end of life,2019,8,67.74
+ports/slots/connectors,fujitsu,repairable,2019,16,40.0
+configuration,samsung,fixed,2020,3,67.74
+integrated keyboard,samsung,fixed,2018,6,28.57
+unknown,acer,repairable,2017,4,48.08
+operating system,asus,fixed,2019,8,59.72
+virus/malware,toshiba,fixed,2020,4,70.59
+power/battery,hp,repairable,2020,7,29.47
+configuration,hp,fixed,2018,5,67.74
+internal damage,asus,end of life,2019,2,36.36
+internal damage,apple,repairable,2018,2,36.36
+configuration,packard bell,fixed,2017,2,67.74
+virus/malware,acer,fixed,2019,5,70.59
+unknown,medion,repairable,2019,7,48.08
+power/battery,toshiba,repairable,2017,5,29.47
+integrated screen,apple,end of life,2019,5,30.88
+integrated keyboard,asus,repairable,2019,2,28.57
+integrated keyboard,medion,repairable,2019,5,28.57
+integrated keyboard,toshiba,fixed,2019,12,28.57
+internal storage,apple,fixed,2019,9,53.33
+other,vaio,fixed,2019,10,66.67
+unknown,lenovo,fixed,2019,0,48.08
+configuration,acer,fixed,2018,5,67.74
+overheating,dell,fixed,2020,8,71.43
+integrated optical drive,fujitsu,fixed,2020,6,75.0
+internal damage,apple,end of life,2019,5,36.36
+boot,hp,repairable,2020,6,31.82
+configuration,asus,fixed,2020,8,67.74
+ports/slots/connectors,asus,repairable,2019,0,40.0
+unknown,hp,fixed,2020,1,48.08
+power/battery,apple,fixed,2019,4,29.47
+integrated screen,toshiba,repairable,2018,8,30.88
+overheating,asus,repairable,2018,2,71.43
+virus/malware,toshiba,fixed,2019,5,70.59
+performance,samsung,fixed,2019,8,62.5
+unknown,acer,fixed,2018,5,48.08
+boot,unknown,repairable,2019,4,31.82
+unknown,unknown,end of life,2018,18,48.08
+unknown,apple,repairable,2017,6,48.08
+integrated keyboard,lenovo,fixed,2019,9,28.57
+configuration,asus,repairable,2019,9,67.74
+integrated optical drive,hp,fixed,2019,5,75.0
+integrated screen,hp,fixed,2019,3,30.88
+operating system,acer,end of life,2019,7,59.72
+internal damage,lenovo,fixed,2019,2,36.36
+ports/slots/connectors,asus,repairable,2019,7,40.0
+power/battery,lenovo,fixed,2019,4,29.47
+unknown,e-machines,fixed,2017,5,48.08
+system board,apple,repairable,2019,7,31.58
+configuration,unknown,fixed,2020,3,67.74
+overheating,compaq,fixed,2018,8,71.43
+other,acer,fixed,2018,5,66.67
+performance,hp,fixed,2019,6,62.5
+integrated screen,toshiba,fixed,2019,6,30.88
+system board,acer,repairable,2018,12,31.58
+performance,dell,repairable,2019,15,62.5
+performance,toshiba,fixed,2019,5,62.5
+integrated screen,toshiba,end of life,2019,5,30.88
+configuration,hp,repairable,2019,2,67.74
+virus/malware,lenovo,fixed,2018,0,70.59
+configuration,microsoft,repairable,2020,2,67.74
+performance,sony,fixed,2020,4,62.5
+operating system,samsung,fixed,2019,4,59.72
+integrated keyboard,hp,repairable,2019,8,28.57
+integrated keyboard,asus,fixed,2019,4,28.57
+power/battery,samsung,repairable,2019,6,29.47
+other,hp,fixed,2017,10,66.67
+internal storage,dell,fixed,2020,10,53.33
+internal storage,unknown,fixed,2019,4,53.33
+unknown,asus,repairable,2019,2,48.08
+power/battery,unknown,fixed,2019,10,29.47
+unknown,intel,fixed,2017,0,48.08
+power/battery,lenovo,repairable,2019,5,29.47
+integrated screen,toshiba,repairable,2019,19,30.88
+power/battery,apple,repairable,2018,8,29.47
+unknown,acer,end of life,2017,10,48.08
+ports/slots/connectors,asus,fixed,2019,9,40.0
+integrated keyboard,toshiba,fixed,2020,3,28.57
+operating system,lenovo,fixed,2020,15,59.72
+power/battery,acer,fixed,2019,5,29.47
+overheating,acer,fixed,2019,10,71.43
+integrated screen,apple,repairable,2019,4,30.88
+configuration,hp,repairable,2018,1,67.74
+integrated screen,toshiba,fixed,2018,5,30.88
+ports/slots/connectors,hp,repairable,2018,7,40.0
+integrated screen,toshiba,end of life,2019,10,30.88
+boot,hp,fixed,2019,8,31.82
+power/battery,apple,repairable,2019,2,29.47
+performance,acer,fixed,2019,10,62.5
+multiple,unknown,fixed,2020,5,60.0
+integrated screen,sony,repairable,2017,4,30.88
+configuration,toshiba,repairable,2019,3,67.74
+unknown,lenovo,repairable,2018,6,48.08
+unknown,lenovo,end of life,2018,3,48.08
+unknown,acer,fixed,2020,6,48.08
+unknown,dell,repairable,2018,5,48.08
+integrated screen,asus,fixed,2019,4,30.88
+configuration,unknown,fixed,2019,2,67.74
+power/battery,hp,repairable,2019,9,29.47
+performance,lenovo,fixed,2019,2,62.5
+unknown,unknown,end of life,2019,3,48.08
+boot,acer,end of life,2019,9,31.82
+unknown,dell,fixed,2018,6,48.08
+performance,hp,fixed,2018,6,62.5
+unknown,apple,fixed,2020,8,48.08
+integrated screen,acer,repairable,2018,10,30.88
+unknown,dell,fixed,2017,7,48.08
+unknown,packard bell,fixed,2017,8,48.08
+unknown,dell,end of life,2020,12,48.08
+unknown,dell,repairable,2019,13,48.08
+boot,dell,fixed,2019,7,31.82
+performance,dell,fixed,2018,8,62.5
+boot,acer,fixed,2018,10,31.82
+internal damage,apple,fixed,2019,6,36.36
+performance,asus,fixed,2017,5,62.5
+configuration,unknown,fixed,2020,3,67.74
+ports/slots/connectors,apple,repairable,2019,5,40.0
+operating system,asus,repairable,2018,5,59.72
+power/battery,apple,repairable,2019,2,29.47
+integrated screen,clementoni,end of life,2019,4,30.88
+internal damage,toshiba,end of life,2019,6,36.36
+integrated keyboard,acer,repairable,2020,3,28.57
+unknown,acer,end of life,2018,4,48.08
+case/chassis,acer,fixed,2019,6,40.0
+configuration,samsung,repairable,2018,5,67.74
+overheating,acer,fixed,2020,15,71.43
+power/battery,acer,repairable,2018,5,29.47
+power/battery,apple,repairable,2019,4,29.47
+power/battery,apple,repairable,2019,2,29.47
+unknown,unknown,fixed,2018,5,48.08
+integrated screen,dell,repairable,2018,1,30.88
+configuration,hp,repairable,2020,5,67.74
+internal damage,ibm,unknown,2019,11,36.36
+unknown,acer,end of life,2018,4,48.08
+case/chassis,asus,repairable,2018,3,40.0
+internal storage,apple,unknown,2018,8,53.33
+power/battery,apple,fixed,2018,4,29.47
+internal storage,sony,end of life,2019,7,53.33
+power/battery,siemens,end of life,2017,10,29.47
+power/battery,acer,fixed,2020,5,29.47
+case/chassis,samsung,repairable,2019,11,40.0
+unknown,toshiba,fixed,2017,3,48.08
+internal damage,apple,fixed,2020,4,36.36
+system board,hp,fixed,2019,8,31.58
+power/battery,toshiba,repairable,2018,10,29.47
+operating system,hewlett-packard,repairable,2020,6,59.72
+integrated screen,microsoft,repairable,2019,1,30.88
+overheating,fujitsu,fixed,2019,8,71.43
+integrated screen,hp,repairable,2020,6,30.88
+operating system,hp,fixed,2020,1,59.72
+integrated screen,toshiba,fixed,2019,3,30.88
+unknown,samsung,end of life,2017,5,48.08
+multiple,hp,fixed,2019,0,60.0
+unknown,unknown,fixed,2019,1,48.08
+unknown,apple,repairable,2019,10,48.08
+other,fujitsu,fixed,2019,1,66.67
+power/battery,fujitsu technology solutions,repairable,2019,29,29.47
+boot,dell,fixed,2019,10,31.82
+operating system,acer,fixed,2018,9,59.72
+multiple,dell,fixed,2020,11,60.0
+unknown,dec,end of life,2018,11,48.08
+operating system,acer,end of life,2019,16,59.72
+ports/slots/connectors,lenovo,repairable,2018,5,40.0
+boot,toshiba,end of life,2019,4,31.82
+ports/slots/connectors,samsung,repairable,2018,3,40.0
+configuration,ace,repairable,2019,0,67.74
+configuration,dell,repairable,2017,5,67.74
+power/battery,hp,repairable,2018,7,29.47
+integrated keyboard,lenovo,repairable,2019,6,28.57
+unknown,hp,repairable,2018,4,48.08
+unknown,hp,fixed,2017,2,48.08
+integrated keyboard,lenovo,repairable,2019,2,28.57
+virus/malware,samsung,fixed,2019,4,70.59
+integrated screen,acer,end of life,2019,5,30.88
+unknown,acer,repairable,2020,0,48.08
+operating system,toshiba,fixed,2019,7,59.72
+performance,asos,fixed,2019,8,62.5
+integrated screen,google,repairable,2019,2,30.88
+operating system,toshiba,fixed,2019,9,59.72
+unknown,acer,fixed,2018,4,48.08
+integrated screen,apple,repairable,2019,4,30.88
+unknown,asus,fixed,2018,2,48.08
+integrated keyboard,lenovo,end of life,2019,10,28.57
+case/chassis,hp,fixed,2019,5,40.0
+integrated keyboard,apple,repairable,2019,7,28.57
+integrated screen,unknown,repairable,2019,2,30.88
+boot,apple,repairable,2019,5,31.82
+performance,lenovo,repairable,2019,4,62.5
+unknown,dell,fixed,2019,10,48.08
+unknown,cybermaxx,repairable,2017,19,48.08
+internal storage,unknown,repairable,2020,15,53.33
+unknown,packard bell,fixed,2019,8,48.08
+case/chassis,asus,fixed,2017,4,40.0
+case/chassis,dell,repairable,2018,2,40.0
+boot,dell,repairable,2019,2,31.82
+performance,packard bell,fixed,2020,10,62.5
+internal storage,samsung,end of life,2017,6,53.33
+power/battery,apple,repairable,2019,8,29.47
+unknown,compaq,repairable,2017,16,48.08
+system board,lenovo,repairable,2020,5,31.58
+power/battery,dell,end of life,2019,5,29.47
+internal damage,asus,fixed,2017,3,36.36
+configuration,asus,fixed,2019,2,67.74
+unknown,fujitsu technology solutions,repairable,2017,11,48.08
+performance,sony,fixed,2017,7,62.5
+integrated screen,zoostorm,fixed,2020,2,30.88
+internal damage,toshiba,end of life,2019,4,36.36
+configuration,apple,repairable,2019,2,67.74
+power/battery,apple,repairable,2019,4,29.47
+configuration,hp,fixed,2019,4,67.74
+operating system,hp,fixed,2019,8,59.72
+configuration,toshiba,fixed,2020,10,67.74
+configuration,unknown,fixed,2017,3,67.74
+performance,lenovo,repairable,2019,1,62.5
+power/battery,sony,repairable,2017,15,29.47
+virus/malware,acer,repairable,2019,4,70.59
+configuration,hp,fixed,2019,2,67.74
+integrated screen,hp,repairable,2019,1,30.88
+overheating,toshiba,fixed,2019,6,71.43
+power/battery,apple,repairable,2019,9,29.47
+power/battery,hp,repairable,2020,10,29.47
+unknown,hp,fixed,2018,7,48.08
+system board,hp,fixed,2019,1,31.58
+virus/malware,dell,fixed,2019,13,70.59
+power/battery,unknown,end of life,2018,8,29.47
+power/battery,hp,end of life,2020,9,29.47
+integrated screen,hp,repairable,2019,2,30.88
+ports/slots/connectors,dell,fixed,2019,5,40.0
+integrated screen,toshiba,fixed,2019,5,30.88
+configuration,acer,repairable,2018,6,67.74
+power/battery,packard bell,fixed,2019,8,29.47
+integrated screen,hp,fixed,2020,0,30.88
+performance,toshiba,repairable,2019,9,62.5
+internal storage,toshiba,repairable,2019,2,53.33
+configuration,hp,fixed,2018,3,67.74
+unknown,asus,fixed,2019,10,48.08
+multiple,dell,end of life,2018,5,60.0
+operating system,packard bell,fixed,2019,4,59.72
+power/battery,asus,repairable,2017,10,29.47
+configuration,moto-flex,fixed,2019,2,67.74
+configuration,samsung,fixed,2019,5,67.74
+unknown,dell,fixed,2020,6,48.08
+integrated screen,lenovo,fixed,2018,3,30.88
+unknown,asus,unknown,2018,7,48.08
+ports/slots/connectors,samsung,fixed,2019,7,40.0
+unknown,fusion 5,end of life,2019,4,48.08
+unknown,samsung,fixed,2018,7,48.08
+integrated screen,hp,repairable,2019,6,30.88
+performance,sony,fixed,2018,5,62.5
+unknown,packard bell,fixed,2017,12,48.08
+power/battery,erazer,fixed,2018,4,29.47
+power/battery,unknown,end of life,2018,5,29.47
+operating system,packard bell,fixed,2019,6,59.72
+configuration,lenovo,fixed,2019,0,67.74
+ports/slots/connectors,hp,fixed,2019,2,40.0
+boot,toshiba,fixed,2019,9,31.82
+unknown,fujitsu technology solutions,fixed,2018,12,48.08
+other,lenovo,fixed,2019,3,66.67
+configuration,unknown,fixed,2019,3,67.74
+boot,unknown,repairable,2018,6,31.82
+operating system,apple,repairable,2020,8,59.72
+unknown,asus,fixed,2018,3,48.08
+unknown,toshiba,repairable,2019,6,48.08
+operating system,toshiba,repairable,2019,5,59.72
+configuration,compaq,repairable,2018,11,67.74
+operating system,asus,fixed,2018,5,59.72
+boot,acer,repairable,2019,5,31.82
+integrated screen,asus,fixed,2018,2,30.88
+integrated keyboard,unknown,repairable,2019,5,28.57
+performance,dell,repairable,2019,15,62.5
+unknown,unknown,fixed,2019,6,48.08
+configuration,medion,end of life,2019,13,67.74
+integrated screen,lenovo,repairable,2019,19,30.88
+performance,unknown,repairable,2018,5,62.5
+overheating,hp,fixed,2017,3,71.43
+integrated screen,acer,repairable,2017,2,30.88
+boot,sony,repairable,2019,5,31.82
+unknown,apple,end of life,2019,4,48.08
+power/battery,hp,repairable,2019,7,29.47
+operating system,compaq,end of life,2019,8,59.72
+integrated keyboard,hp,fixed,2019,5,28.57
+integrated screen,hp,repairable,2019,4,30.88
+unknown,lenovo,repairable,2018,4,48.08
+unknown,toshiba,fixed,2018,14,48.08
+operating system,asus,repairable,2018,5,59.72
+overheating,apple,fixed,2018,9,71.43
+multiple,lenovo,fixed,2020,7,60.0
+ports/slots/connectors,unknown,repairable,2018,5,40.0
+operating system,sony,fixed,2019,10,59.72
+internal damage,unknown,unknown,2019,2,36.36
+internal storage,toshiba,fixed,2019,10,53.33
+operating system,hp,repairable,2018,0,59.72
+integrated screen,apple,repairable,2018,3,30.88
+virus/malware,acer,repairable,2019,0,70.59
+configuration,hp,fixed,2017,4,67.74
+boot,acer,fixed,2018,5,31.82
+integrated keyboard,lenovo,repairable,2019,10,28.57
+power/battery,hp,repairable,2019,5,29.47
+unknown,acer,repairable,2017,12,48.08
+operating system,dell,repairable,2019,5,59.72
+performance,toshiba,fixed,2018,5,62.5
+ports/slots/connectors,samsung,repairable,2019,5,40.0
+unknown,toshiba,repairable,2019,7,48.08
+integrated screen,compaq,end of life,2019,16,30.88
+unknown,medion,fixed,2018,5,48.08
+operating system,lenovo,fixed,2018,8,59.72
+boot,unknown,fixed,2020,5,31.82
+unknown,acer,fixed,2018,3,48.08
+unknown,fujitsu technology solutions,repairable,2019,3,48.08
+configuration,lenovo,fixed,2019,4,67.74
+integrated screen,lenovo,fixed,2018,6,30.88
+overheating,apple,fixed,2018,6,71.43
+boot,apple,fixed,2019,4,31.82
+system board,sony,fixed,2018,3,31.58
+performance,sony,fixed,2018,8,62.5
+integrated pointing device,apple,fixed,2019,5,50.0
+performance,lenovo,fixed,2018,3,62.5
+operating system,lenovo,fixed,2019,6,59.72
+overheating,toshiba,fixed,2018,6,71.43
+power/battery,acer,fixed,2019,10,29.47
+operating system,sony,fixed,2018,10,59.72
+unknown,acer,fixed,2019,7,48.08
+unknown,packard bell,fixed,2018,7,48.08
+internal storage,hp,fixed,2020,6,53.33
+internal storage,acer,fixed,2019,8,53.33
+power/battery,asus,repairable,2018,3,29.47
+performance,acer,repairable,2019,1,62.5
+configuration,hp,fixed,2019,4,67.74
+boot,apple,fixed,2019,4,31.82
+system board,gateway,fixed,2018,8,31.58
+boot,hp,repairable,2019,2,31.82
+configuration,medion,fixed,2018,18,67.74
+boot,hp,fixed,2020,10,31.82
+configuration,dell,fixed,2019,10,67.74
+unknown,apple,repairable,2017,5,48.08
+performance,lenovo,repairable,2019,3,62.5
+configuration,asus,end of life,2017,1,67.74
+boot,asus,repairable,2018,2,31.82
+multiple,lenovo,end of life,2019,2,60.0
+integrated screen,apple macbook pro,repairable,2019,4,30.88
+configuration,hp,fixed,2019,3,67.74
+ports/slots/connectors,apple,fixed,2019,4,40.0
+configuration,asus,fixed,2020,7,67.74
+unknown,acer,fixed,2018,4,48.08
+configuration,compaq,fixed,2019,10,67.74
+overheating,hp,fixed,2020,12,71.43
+unknown,packard bell,repairable,2019,3,48.08
+unknown,dell,fixed,2018,6,48.08
+operating system,hp,fixed,2020,10,59.72
+unknown,packard bell,repairable,2018,6,48.08
+internal damage,lenovo,fixed,2019,1,36.36
+unknown,asus,end of life,2017,7,48.08
+integrated screen,sony,repairable,2019,7,30.88
+unknown,asus,fixed,2020,7,48.08
+configuration,sony,fixed,2020,5,67.74
+configuration,compaq,repairable,2019,6,67.74
+integrated screen,lenovo,unknown,2018,5,30.88
+configuration,hp,fixed,2018,1,67.74
+performance,toshiba,fixed,2018,5,62.5
+power/battery,acer,end of life,2019,10,29.47
+other,hp,repairable,2019,10,66.67
+operating system,hp,fixed,2019,10,59.72
+other,unknown,repairable,2019,3,66.67
+overheating,hp,repairable,2020,6,71.43
+overheating,hp,repairable,2018,6,71.43
+integrated optical drive,fujitsu technology solutions,repairable,2019,8,75.0
+power/battery,toshiba,end of life,2019,4,29.47
+configuration,asus,fixed,2019,5,67.74
+case/chassis,apple,repairable,2019,9,40.0
+power/battery,unknown,end of life,2019,3,29.47
+integrated keyboard,acer,repairable,2019,2,28.57
+unknown,hp,fixed,2020,20,48.08
+configuration,hp,repairable,2018,4,67.74
+case/chassis,asus,fixed,2018,2,40.0
+performance,lenovo,fixed,2019,7,62.5
+unknown,toshiba,fixed,2017,4,48.08
+unknown,medion,fixed,2018,18,48.08
+power/battery,apple,repairable,2019,4,29.47
+power/battery,acer,end of life,2018,5,29.47
+boot,sony,end of life,2018,6,31.82
+internal storage,dell,end of life,2019,8,53.33
+integrated screen,samsung,fixed,2020,11,30.88
+ports/slots/connectors,unknown,fixed,2018,10,40.0
+configuration,hp,repairable,2020,7,67.74
+performance,medion akoya,repairable,2018,13,62.5
+integrated optical drive,asus,fixed,2018,5,75.0
+internal damage,hp,fixed,2019,10,36.36
+operating system,toshiba,fixed,2017,2,59.72
+other,hp,repairable,2019,4,66.67
+integrated screen,dell,fixed,2018,10,30.88
+unknown,hp,repairable,2019,5,48.08
+unknown,acer,fixed,2020,15,48.08
+internal storage,ibm,fixed,2017,6,53.33
+ports/slots/connectors,asus,fixed,2018,5,40.0
+unknown,hp,fixed,2017,7,48.08
+unknown,apple,repairable,2019,7,48.08
+unknown,acer,fixed,2018,2,48.08
+unknown,thinkpad,end of life,2018,7,48.08
+operating system,acer,end of life,2019,5,59.72
+power/battery,apple,fixed,2017,6,29.47
+unknown,goclever,fixed,2018,2,48.08
+virus/malware,dell,repairable,2017,7,70.59
+performance,samsung,repairable,2018,6,62.5
+power/battery,apple,end of life,2018,7,29.47
+integrated screen,sony,repairable,2019,6,30.88
+boot,apple,repairable,2019,2,31.82
+internal storage,acer,fixed,2017,6,53.33
+configuration,toshiba,fixed,2020,6,67.74
+operating system,apple,fixed,2017,9,59.72
+unknown,hp compaq,fixed,2018,7,48.08
+performance,lenovo,fixed,2019,3,62.5
+system board,dell,end of life,2018,11,31.58
+virus/malware,hp,fixed,2018,0,70.59
+operating system,hp,repairable,2019,4,59.72
+integrated pointing device,dell,repairable,2019,6,50.0
+system board,unknown,end of life,2019,4,31.58
+operating system,hp,fixed,2019,4,59.72
+unknown,lg,fixed,2018,10,48.08
+internal damage,apple,end of life,2018,6,36.36
+unknown,asus,repairable,2018,8,48.08
+case/chassis,toshiba,fixed,2018,5,40.0
+boot,asus,end of life,2018,8,31.82
+performance,packard bell,fixed,2018,8,62.5
+boot,dell,end of life,2019,10,31.82
+internal damage,msi,repairable,2019,4,36.36
+unknown,unknown,repairable,2019,2,48.08
+integrated keyboard,acer,repairable,2019,2,28.57
+power/battery,asus,repairable,2018,5,29.47
+integrated screen,e-machines,repairable,2018,13,30.88
+unknown,unknown,end of life,2019,5,48.08
+power/battery,toshiba,repairable,2019,4,29.47
+overheating,unknown,fixed,2019,11,71.43
+performance,toshiba,repairable,2019,7,62.5
+integrated screen,apple,repairable,2018,5,30.88
+unknown,hp,end of life,2020,3,48.08
+ports/slots/connectors,asus,fixed,2019,7,40.0
+configuration,unknown,fixed,2019,5,67.74
+system board,apple,repairable,2019,5,31.58
+power/battery,acer,fixed,2019,7,29.47
+unknown,compaq,repairable,2017,10,48.08
+unknown,compaq,fixed,2017,5,48.08
+unknown,dell,repairable,2020,10,48.08
+virus/malware,lenovo,fixed,2020,5,70.59
+unknown,apple,repairable,2017,6,48.08
+operating system,hp,fixed,2020,3,59.72
+integrated screen,hp,end of life,2019,3,30.88
+unknown,toshiba,end of life,2018,4,48.08
+performance,lenovo,fixed,2017,15,62.5
+operating system,hp,fixed,2019,2,59.72
+integrated media component,apple,fixed,2019,10,42.86
+internal storage,apple,end of life,2019,3,53.33
+operating system,lenovo,repairable,2018,8,59.72
+operating system,asus,repairable,2019,7,59.72
+unknown,dell,repairable,2020,10,48.08
+operating system,samsung,fixed,2019,9,59.72
+system board,acer,repairable,2018,4,31.58
+unknown,hp,end of life,2019,8,48.08
+configuration,unknown,repairable,2017,5,67.74
+configuration,ibm,end of life,2019,19,67.74
+configuration,hp,fixed,2020,2,67.74
+other,acer,fixed,2019,16,66.67
+overheating,thinkpad,fixed,2019,7,71.43
+boot,sony,repairable,2019,5,31.82
+virus/malware,hp,repairable,2018,5,70.59
+configuration,hp,unknown,2019,9,67.74
+operating system,acer,fixed,2019,6,59.72
+internal storage,lenovo,fixed,2019,2,53.33
+ports/slots/connectors,asus,repairable,2018,6,40.0
+integrated screen,apple,repairable,2019,3,30.88
+operating system,hp,fixed,2019,5,59.72
+other,acer,fixed,2018,4,66.67
+operating system,lenovo,repairable,2019,11,59.72
+overheating,lenovo,fixed,2019,8,71.43
+integrated media component,hp,fixed,2019,8,42.86
+operating system,acer,repairable,2017,4,59.72
+power/battery,lenovo,unknown,2019,5,29.47
+integrated media component,apple,repairable,2019,11,42.86
+power/battery,apple,fixed,2019,5,29.47
+internal storage,unknown,fixed,2019,4,53.33
+system board,packard bell,fixed,2020,10,31.58
+multiple,toshiba,fixed,2020,13,60.0
+configuration,hp,fixed,2019,3,67.74
+power/battery,lenovo,end of life,2018,6,29.47
+performance,compaq,repairable,2019,7,62.5
+operating system,google asus,end of life,2019,5,59.72
+integrated screen,lenovo,repairable,2019,4,30.88
+boot,apple,repairable,2019,7,31.82
+internal storage,toshiba,fixed,2020,4,53.33
+operating system,toshiba,fixed,2017,7,59.72
+configuration,unknown,fixed,2019,5,67.74
+configuration,hp,fixed,2019,1,67.74
+unknown,sony,repairable,2017,3,48.08
+unknown,hp,repairable,2020,2,48.08
+unknown,asus,fixed,2018,3,48.08
+operating system,hp,fixed,2019,5,59.72
+power/battery,asus,repairable,2018,3,29.47
+power/battery,toshiba,fixed,2020,4,29.47
+overheating,hp,unknown,2018,8,71.43
+unknown,lenovo,fixed,2019,7,48.08
+integrated screen,toshiba,fixed,2019,7,30.88
+configuration,packard bell,fixed,2018,8,67.74
+performance,hp,repairable,2019,4,62.5
+unknown,acer,fixed,2019,5,48.08
+integrated keyboard,apple,fixed,2019,7,28.57
+system board,hp,repairable,2019,7,31.58
+configuration,acer,fixed,2019,4,67.74
+operating system,hp,fixed,2019,2,59.72
+unknown,unknown,repairable,2017,12,48.08
+configuration,hp,repairable,2017,5,67.74
+operating system,toshiba,repairable,2019,10,59.72
+unknown,hp,fixed,2019,3,48.08
+virus/malware,apple,fixed,2018,1,70.59
+configuration,hp,fixed,2019,1,67.74
+system board,apple,repairable,2019,3,31.58
+configuration,nec,fixed,2018,2,67.74
+integrated screen,samsung,fixed,2019,8,30.88
+power/battery,toshiba,end of life,2018,5,29.47
+unknown,dell,repairable,2020,1,48.08
+power/battery,hp,end of life,2020,6,29.47
+operating system,lenovo,fixed,2015,7,59.72
+performance,dell,fixed,2018,8,62.5
+configuration,unknown,fixed,2020,3,67.74
+operating system,compaq,fixed,2019,8,59.72
+boot,apple,fixed,2019,4,31.82
+integrated pointing device,apple,fixed,2018,7,50.0
+configuration,unknown,fixed,2020,3,67.74
+multiple,dell,fixed,2020,5,60.0
+unknown,lenovo,repairable,2019,3,48.08
+integrated screen,acer,repairable,2018,8,30.88
+configuration,lenovo,fixed,2019,2,67.74
+configuration,unknown,fixed,2020,3,67.74
+system board,asus,repairable,2019,6,31.58
+power/battery,microsoft,repairable,2020,10,29.47
+unknown,toshiba,fixed,2019,7,48.08
+unknown,goclever,fixed,2020,5,48.08
+overheating,apple,fixed,2019,10,71.43
+operating system,acer,fixed,2017,7,59.72
+configuration,acer,fixed,2019,4,67.74
+configuration,unknown,repairable,2018,5,67.74
+unknown,hp,fixed,2019,5,48.08
+integrated media component,thinkpad,fixed,2020,8,42.86
+performance,packernell,fixed,2018,6,62.5
+integrated screen,lenovo,fixed,2019,4,30.88
+unknown,lenovo,repairable,2019,3,48.08
+boot,apple,repairable,2019,5,31.82
+unknown,acer,fixed,2020,1,48.08
+configuration,lenovo,fixed,2020,1,67.74
+unknown,hp,fixed,2019,4,48.08
+unknown,dell,fixed,2019,9,48.08
+virus/malware,hp,fixed,2019,4,70.59
+boot,asus,repairable,2019,3,31.82
+integrated screen,lenovo,fixed,2019,2,30.88
+ports/slots/connectors,apple,repairable,2019,3,40.0
+boot,acer,end of life,2019,5,31.82
+performance,hp,fixed,2019,4,62.5
+configuration,sony,fixed,2019,7,67.74
+internal storage,asus,fixed,2019,3,53.33
+performance,dell,fixed,2019,6,62.5
+other,unknown,repairable,2019,5,66.67
+power/battery,dell,repairable,2018,2,29.47
+power/battery,apple,repairable,2018,5,29.47
+boot,hp,end of life,2019,7,31.82
+power/battery,hp,repairable,2018,12,29.47
+boot,hp,repairable,2018,2,31.82
+configuration,apple,fixed,2019,5,67.74
+overheating,medion akoya,end of life,2019,10,71.43
+performance,sony,fixed,2019,4,62.5
+integrated pointing device,apple,repairable,2018,3,50.0
+case/chassis,hp,fixed,2019,7,40.0
+boot,hp,repairable,2018,3,31.82
+unknown,sony,end of life,2020,10,48.08
+unknown,samsung,end of life,2017,4,48.08
+ports/slots/connectors,lenovo,fixed,2019,8,40.0
+boot,asus,unknown,2019,2,31.82
+unknown,hp,fixed,2017,5,48.08
+unknown,acer,fixed,2018,5,48.08
+unknown,gompact,fixed,2018,7,48.08
+configuration,acer,fixed,2019,6,67.74
+boot,terras,end of life,2018,7,31.82
+configuration,asus,repairable,2018,10,67.74
+configuration,unknown,fixed,2018,2,67.74
+unknown,toshiba,fixed,2019,10,48.08
+internal storage,asus,repairable,2018,3,53.33
+internal damage,asus,fixed,2019,2,36.36
+internal damage,acer,repairable,2018,4,36.36
+configuration,microsoft,repairable,2019,10,67.74
+integrated screen,hp,repairable,2019,9,30.88
+internal storage,sony,repairable,2019,6,53.33
+unknown,asus,repairable,2017,4,48.08
+case/chassis,asus,repairable,2019,2,40.0
+power/battery,lenovo,fixed,2019,1,29.47
+performance,lenovo,end of life,2019,4,62.5
+operating system,acer,repairable,2018,7,59.72
+ports/slots/connectors,acer,end of life,2019,3,40.0
+internal damage,apple,fixed,2019,6,36.36
+integrated screen,apple,fixed,2019,4,30.88
+integrated screen,lenovo,fixed,2019,3,30.88
+internal damage,apple,end of life,2019,5,36.36
+power/battery,apple,repairable,2019,4,29.47
+unknown,acer,fixed,2018,11,48.08
+case/chassis,toshiba,fixed,2020,5,40.0
+configuration,apple,fixed,2019,2,67.74
+power/battery,asus,fixed,2019,9,29.47
+operating system,compaq,repairable,2018,5,59.72
+boot,sony,repairable,2020,8,31.82
+configuration,unknown,fixed,2019,2,67.74
+unknown,hp,repairable,2017,2,48.08
+operating system,packard bell,fixed,2020,10,59.72
+performance,apple,repairable,2019,7,62.5
+power/battery,acer,fixed,2018,3,29.47
+power/battery,lenovo,fixed,2019,5,29.47
+performance,acer,repairable,2019,8,62.5
+configuration,apple,fixed,2019,4,67.74
+unknown,acer,fixed,2017,3,48.08
+integrated keyboard,hp,repairable,2019,10,28.57
+multiple,hp,repairable,2020,10,60.0
+integrated screen,lenovo,repairable,2018,0,30.88
+integrated screen,hp,repairable,2018,8,30.88
+internal storage,hp,end of life,2018,5,53.33
+operating system,acer,repairable,2017,11,59.72
+configuration,acer,repairable,2019,19,67.74
+performance,acer,fixed,2019,9,62.5
+power/battery,apple,end of life,2019,8,29.47
+operating system,sony,repairable,2019,10,59.72
+unknown,lenovo,fixed,2017,2,48.08
+unknown,compaq,repairable,2019,7,48.08
+unknown,acer,fixed,2018,6,48.08
+system board,acer,repairable,2020,3,31.58
+integrated screen,acer,repairable,2020,0,30.88
+unknown,microsoft,end of life,2018,4,48.08
+power/battery,dell,end of life,2018,8,29.47
+boot,apple,repairable,2019,8,31.82
+operating system,acer,unknown,2019,5,59.72
+internal damage,toshiba,repairable,2020,8,36.36
+performance,samsung,fixed,2019,4,62.5
+ports/slots/connectors,asus,repairable,2019,6,40.0
+integrated media component,lenovo,repairable,2019,4,42.86
+internal damage,hp,end of life,2019,5,36.36
+unknown,hp,end of life,2019,9,48.08
+unknown,hp,repairable,2017,3,48.08
+configuration,lenovo,fixed,2019,5,67.74
+configuration,lenovo,fixed,2020,5,67.74
+other,unknown,fixed,2019,10,66.67
+power/battery,toshiba,repairable,2019,7,29.47
+integrated screen,acer,repairable,2017,12,30.88
+performance,apple,repairable,2018,6,62.5
+unknown,acer,repairable,2017,3,48.08
+internal damage,hp,end of life,2017,11,36.36
+unknown,hp,fixed,2018,14,48.08
+unknown,toshiba,fixed,2020,7,48.08
+virus/malware,toshiba,fixed,2019,4,70.59
+power/battery,unknown,fixed,2018,7,29.47
+case/chassis,toshiba,repairable,2019,9,40.0
+internal storage,hp,fixed,2017,5,53.33
+configuration,sony,fixed,2018,6,67.74
+performance,sony,repairable,2019,7,62.5
+internal storage,hp,repairable,2020,5,53.33
+unknown,unknown,repairable,2019,10,48.08
+power/battery,apple,repairable,2020,16,29.47
+integrated screen,toshiba,repairable,2019,4,30.88
+performance,apple,repairable,2019,8,62.5
+internal storage,acer,repairable,2019,2,53.33
+power/battery,asus,fixed,2017,7,29.47
+integrated keyboard,unknown,repairable,2019,6,28.57
+integrated screen,acer,end of life,2017,9,30.88
+unknown,packard bell,fixed,2017,7,48.08
+unknown,toshiba,end of life,2019,7,48.08
+ports/slots/connectors,hp,fixed,2019,2,40.0
+operating system,acer,fixed,2019,6,59.72
+power/battery,hp,repairable,2019,8,29.47
+overheating,unknown,fixed,2019,6,71.43
+power/battery,samsung,repairable,2019,10,29.47
+power/battery,asus,repairable,2019,8,29.47
+performance,hp,repairable,2019,5,62.5
+unknown,asus,end of life,2019,4,48.08
+operating system,acer,fixed,2019,5,59.72
+system board,asus,repairable,2017,7,31.58
