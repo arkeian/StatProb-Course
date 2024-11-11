@@ -1,0 +1,820 @@
+fuel,state,owner,access,number_of_stations
+biodiesel,AL,government,private,8
+biodiesel,AL,private,public,2
+biodiesel,AR,government,private,1
+biodiesel,AR,private,public,16
+biodiesel,AZ,government,private,74
+biodiesel,AZ,private,public,2
+biodiesel,CA,government,private,11
+biodiesel,CA,private,public,23
+biodiesel,CO,government,private,2
+biodiesel,CO,private,public,3
+biodiesel,CT,utility company,private,1
+biodiesel,DC,government,private,9
+biodiesel,FL,government,private,6
+biodiesel,FL,private,private,1
+biodiesel,FL,private,public,1
+biodiesel,GA,government,private,3
+biodiesel,GA,private,public,1
+biodiesel,HI,government,private,1
+biodiesel,HI,private,public,5
+biodiesel,IA,private,public,272
+biodiesel,IL,government,private,6
+biodiesel,IL,private,public,104
+biodiesel,IN,government,private,6
+biodiesel,IN,private,public,8
+biodiesel,KS,private,public,11
+biodiesel,KY,government,private,1
+biodiesel,LA,government,private,1
+biodiesel,MA,private,public,1
+biodiesel,MD,government,private,25
+biodiesel,ME,private,public,1
+biodiesel,MI,government,private,4
+biodiesel,MI,private,private,1
+biodiesel,MI,private,public,4
+biodiesel,MN,private,public,246
+biodiesel,MO,private,public,14
+biodiesel,MS,government,private,1
+biodiesel,NC,government,private,108
+biodiesel,NC,private,public,2
+biodiesel,ND,private,public,1
+biodiesel,NE,private,public,24
+biodiesel,NH,government,private,2
+biodiesel,NJ,government,private,4
+biodiesel,NJ,private,public,1
+biodiesel,NM,government,private,1
+biodiesel,NV,government,private,2
+biodiesel,NY,government,private,9
+biodiesel,NY,private,private,8
+biodiesel,NY,private,public,3
+biodiesel,OH,government,private,3
+biodiesel,OH,private,public,2
+biodiesel,OK,government,private,1
+biodiesel,OK,private,public,8
+biodiesel,OR,private,public,34
+biodiesel,PA,government,private,4
+biodiesel,RI,private,private,2
+biodiesel,RI,private,public,1
+biodiesel,SC,government,private,31
+biodiesel,SC,private,private,1
+biodiesel,TN,government,private,4
+biodiesel,TN,private,public,4
+biodiesel,TX,government,private,6
+biodiesel,TX,private,public,5
+biodiesel,UT,private,public,1
+biodiesel,VA,government,private,6
+biodiesel,VA,private,public,1
+biodiesel,VT,private,public,2
+biodiesel,WA,government,private,19
+biodiesel,WA,private,public,4
+biodiesel,WI,private,public,26
+biodiesel,WV,government,private,1
+compressed natural gas,AK,private,public,1
+compressed natural gas,AL,government,private,4
+compressed natural gas,AL,government,public,2
+compressed natural gas,AL,private,private,6
+compressed natural gas,AL,private,public,1
+compressed natural gas,AL,utility company,private,14
+compressed natural gas,AL,utility company,public,3
+compressed natural gas,AR,government,private,1
+compressed natural gas,AR,private,private,3
+compressed natural gas,AR,private,public,7
+compressed natural gas,AR,utility company,private,1
+compressed natural gas,AR,utility company,public,2
+compressed natural gas,AZ,government,private,10
+compressed natural gas,AZ,government,public,1
+compressed natural gas,AZ,private,private,7
+compressed natural gas,AZ,private,public,10
+compressed natural gas,AZ,utility company,private,3
+compressed natural gas,CA,government,private,88
+compressed natural gas,CA,government,public,44
+compressed natural gas,CA,private,private,65
+compressed natural gas,CA,private,public,84
+compressed natural gas,CA,utility company,private,2
+compressed natural gas,CA,utility company,public,39
+compressed natural gas,CO,government,private,5
+compressed natural gas,CO,government,public,1
+compressed natural gas,CO,private,private,9
+compressed natural gas,CO,private,public,17
+compressed natural gas,CO,utility company,public,1
+compressed natural gas,CT,government,private,2
+compressed natural gas,CT,private,private,5
+compressed natural gas,CT,private,public,6
+compressed natural gas,CT,utility company,public,2
+compressed natural gas,DC,government,private,3
+compressed natural gas,DE,private,private,1
+compressed natural gas,DE,utility company,public,1
+compressed natural gas,FL,government,private,5
+compressed natural gas,FL,government,public,6
+compressed natural gas,FL,private,private,20
+compressed natural gas,FL,private,public,20
+compressed natural gas,FL,utility company,private,7
+compressed natural gas,GA,government,private,6
+compressed natural gas,GA,government,public,8
+compressed natural gas,GA,joint,private,2
+compressed natural gas,GA,joint,public,1
+compressed natural gas,GA,private,private,10
+compressed natural gas,GA,private,public,15
+compressed natural gas,GA,utility company,private,7
+compressed natural gas,GA,utility company,public,1
+compressed natural gas,IA,private,private,2
+compressed natural gas,IA,private,public,8
+compressed natural gas,ID,government,private,1
+compressed natural gas,ID,private,private,2
+compressed natural gas,ID,private,public,2
+compressed natural gas,ID,utility company,private,6
+compressed natural gas,IL,government,private,10
+compressed natural gas,IL,private,private,12
+compressed natural gas,IL,private,public,17
+compressed natural gas,IL,utility company,private,2
+compressed natural gas,IN,government,private,2
+compressed natural gas,IN,government,public,1
+compressed natural gas,IN,private,private,4
+compressed natural gas,IN,private,public,18
+compressed natural gas,IN,utility company,public,7
+compressed natural gas,KS,government,private,4
+compressed natural gas,KS,government,public,1
+compressed natural gas,KS,private,private,6
+compressed natural gas,KS,private,public,8
+compressed natural gas,KS,utility company,public,2
+compressed natural gas,KY,government,private,1
+compressed natural gas,KY,government,public,1
+compressed natural gas,KY,private,private,3
+compressed natural gas,KY,private,public,3
+compressed natural gas,KY,utility company,public,1
+compressed natural gas,LA,government,private,2
+compressed natural gas,LA,government,public,4
+compressed natural gas,LA,private,private,7
+compressed natural gas,LA,private,public,10
+compressed natural gas,MA,government,private,3
+compressed natural gas,MA,government,public,1
+compressed natural gas,MA,private,private,1
+compressed natural gas,MA,private,public,7
+compressed natural gas,MA,utility company,public,1
+compressed natural gas,MD,government,private,4
+compressed natural gas,MD,government,public,1
+compressed natural gas,MD,private,private,2
+compressed natural gas,MD,private,public,6
+compressed natural gas,MD,utility company,public,2
+compressed natural gas,ME,government,private,1
+compressed natural gas,ME,private,private,1
+compressed natural gas,ME,private,public,1
+compressed natural gas,MI,government,private,3
+compressed natural gas,MI,government,public,5
+compressed natural gas,MI,private,private,6
+compressed natural gas,MI,private,public,1
+compressed natural gas,MI,utility company,private,1
+compressed natural gas,MN,government,private,1
+compressed natural gas,MN,government,public,1
+compressed natural gas,MN,private,private,8
+compressed natural gas,MN,private,public,12
+compressed natural gas,MN,utility company,private,1
+compressed natural gas,MO,government,private,7
+compressed natural gas,MO,government,public,3
+compressed natural gas,MO,private,private,4
+compressed natural gas,MO,private,public,2
+compressed natural gas,MO,utility company,public,3
+compressed natural gas,MS,government,private,1
+compressed natural gas,MS,government,public,2
+compressed natural gas,MS,private,private,2
+compressed natural gas,MS,private,public,2
+compressed natural gas,MT,government,private,1
+compressed natural gas,NC,government,private,5
+compressed natural gas,NC,government,public,3
+compressed natural gas,NC,private,private,6
+compressed natural gas,NC,private,public,4
+compressed natural gas,NC,utility company,public,19
+compressed natural gas,ND,private,private,1
+compressed natural gas,NE,private,private,2
+compressed natural gas,NE,private,public,4
+compressed natural gas,NE,utility company,private,1
+compressed natural gas,NE,utility company,public,2
+compressed natural gas,NH,government,public,1
+compressed natural gas,NH,private,private,1
+compressed natural gas,NH,private,public,2
+compressed natural gas,NJ,government,private,1
+compressed natural gas,NJ,joint,public,1
+compressed natural gas,NJ,private,private,6
+compressed natural gas,NJ,private,public,4
+compressed natural gas,NJ,utility company,private,5
+compressed natural gas,NJ,utility company,public,12
+compressed natural gas,NM,government,private,1
+compressed natural gas,NM,government,public,5
+compressed natural gas,NM,private,private,2
+compressed natural gas,NM,private,public,4
+compressed natural gas,NV,government,private,1
+compressed natural gas,NV,government,public,2
+compressed natural gas,NV,private,private,2
+compressed natural gas,NY,government,private,15
+compressed natural gas,NY,government,public,2
+compressed natural gas,NY,joint,public,1
+compressed natural gas,NY,private,private,12
+compressed natural gas,NY,private,public,14
+compressed natural gas,NY,utility company,public,14
+compressed natural gas,OH,government,private,6
+compressed natural gas,OH,government,public,8
+compressed natural gas,OH,private,private,11
+compressed natural gas,OH,private,public,24
+compressed natural gas,OH,utility company,public,2
+compressed natural gas,OK,government,private,6
+compressed natural gas,OK,government,public,7
+compressed natural gas,OK,private,private,10
+compressed natural gas,OK,private,public,65
+compressed natural gas,OK,utility company,private,3
+compressed natural gas,OK,utility company,public,26
+compressed natural gas,OR,government,private,1
+compressed natural gas,OR,government,public,2
+compressed natural gas,OR,private,private,3
+compressed natural gas,OR,private,public,1
+compressed natural gas,OR,utility company,private,7
+compressed natural gas,PA,government,private,7
+compressed natural gas,PA,government,public,5
+compressed natural gas,PA,joint,private,6
+compressed natural gas,PA,joint,public,3
+compressed natural gas,PA,private,private,29
+compressed natural gas,PA,private,public,36
+compressed natural gas,PA,utility company,private,2
+compressed natural gas,RI,private,private,1
+compressed natural gas,SC,government,private,1
+compressed natural gas,SC,government,public,2
+compressed natural gas,SC,private,private,3
+compressed natural gas,SC,utility company,public,5
+compressed natural gas,TN,government,private,1
+compressed natural gas,TN,government,public,2
+compressed natural gas,TN,private,private,4
+compressed natural gas,TN,private,public,5
+compressed natural gas,TN,utility company,private,4
+compressed natural gas,TN,utility company,public,4
+compressed natural gas,TX,government,private,17
+compressed natural gas,TX,government,public,5
+compressed natural gas,TX,private,private,18
+compressed natural gas,TX,private,public,66
+compressed natural gas,UT,government,private,6
+compressed natural gas,UT,government,public,1
+compressed natural gas,UT,private,private,7
+compressed natural gas,UT,private,public,22
+compressed natural gas,UT,utility company,private,2
+compressed natural gas,UT,utility company,public,5
+compressed natural gas,VA,government,private,6
+compressed natural gas,VA,government,public,1
+compressed natural gas,VA,private,private,11
+compressed natural gas,VA,private,public,3
+compressed natural gas,VA,utility company,public,2
+compressed natural gas,VT,government,public,1
+compressed natural gas,VT,private,private,1
+compressed natural gas,VT,utility company,private,1
+compressed natural gas,WA,government,private,3
+compressed natural gas,WA,private,private,13
+compressed natural gas,WA,private,public,4
+compressed natural gas,WA,utility company,private,5
+compressed natural gas,WI,government,private,2
+compressed natural gas,WI,government,public,2
+compressed natural gas,WI,private,private,8
+compressed natural gas,WI,private,public,30
+compressed natural gas,WI,utility company,public,1
+compressed natural gas,WV,private,private,1
+compressed natural gas,WV,private,public,1
+compressed natural gas,WY,government,private,2
+compressed natural gas,WY,government,public,1
+compressed natural gas,WY,private,public,3
+compressed natural gas,WY,utility company,private,1
+compressed natural gas,WY,utility company,public,2
+electric,AK,government,private,3
+electric,AK,government,public,6
+electric,AK,private,public,37
+electric,AK,utility company,public,3
+electric,AL,government,private,15
+electric,AL,government,public,1
+electric,AL,private,private,22
+electric,AL,private,public,102
+electric,AL,utility company,private,42
+electric,AR,government,private,4
+electric,AR,government,public,8
+electric,AR,private,private,16
+electric,AR,private,public,70
+electric,AR,utility company,public,1
+electric,AZ,government,private,13
+electric,AZ,government,public,1
+electric,AZ,private,private,20
+electric,AZ,private,public,294
+electric,CA,government,private,436
+electric,CA,government,public,361
+electric,CA,private,private,316
+electric,CA,private,public,2423
+electric,CA,utility company,private,22
+electric,CA,utility company,public,40
+electric,CO,government,private,60
+electric,CO,government,public,59
+electric,CO,private,private,56
+electric,CO,private,public,277
+electric,CO,utility company,private,1
+electric,CO,utility company,public,6
+electric,CT,government,private,23
+electric,CT,government,public,106
+electric,CT,private,private,42
+electric,CT,private,public,218
+electric,CT,utility company,private,1
+electric,CT,utility company,public,2
+electric,DC,government,private,35
+electric,DC,government,public,1
+electric,DC,private,private,7
+electric,DC,private,public,62
+electric,DC,utility company,private,1
+electric,DC,utility company,public,1
+electric,DE,government,private,3
+electric,DE,government,public,4
+electric,DE,private,private,7
+electric,DE,private,public,30
+electric,FL,government,private,28
+electric,FL,government,public,32
+electric,FL,private,private,70
+electric,FL,private,public,659
+electric,FL,utility company,private,90
+electric,FL,utility company,public,31
+electric,GA,government,private,21
+electric,GA,government,public,14
+electric,GA,private,private,49
+electric,GA,private,public,398
+electric,GA,utility company,public,1
+electric,HI,government,private,15
+electric,HI,government,public,8
+electric,HI,private,private,9
+electric,HI,private,public,163
+electric,IA,government,private,10
+electric,IA,government,public,6
+electric,IA,private,private,10
+electric,IA,private,public,78
+electric,IA,utility company,public,4
+electric,ID,government,private,16
+electric,ID,government,public,8
+electric,ID,private,private,5
+electric,ID,private,public,50
+electric,ID,utility company,private,17
+electric,IL,government,private,28
+electric,IL,government,public,12
+electric,IL,private,private,51
+electric,IL,private,public,414
+electric,IL,utility company,private,36
+electric,IL,utility company,public,2
+electric,IN,government,private,10
+electric,IN,government,public,10
+electric,IN,private,private,35
+electric,IN,private,public,156
+electric,IN,utility company,private,1
+electric,IN,utility company,public,2
+electric,KS,government,private,5
+electric,KS,private,private,13
+electric,KS,private,public,48
+electric,KS,utility company,private,15
+electric,KS,utility company,public,21
+electric,KY,government,private,9
+electric,KY,government,public,1
+electric,KY,private,private,7
+electric,KY,private,public,139
+electric,KY,utility company,public,1
+electric,LA,government,private,7
+electric,LA,government,public,7
+electric,LA,private,private,9
+electric,LA,private,public,104
+electric,MA,government,private,16
+electric,MA,government,public,22
+electric,MA,private,private,68
+electric,MA,private,public,237
+electric,MA,utility company,private,12
+electric,MA,utility company,public,3
+electric,MD,government,private,58
+electric,MD,government,public,30
+electric,MD,private,private,55
+electric,MD,private,public,324
+electric,MD,utility company,private,9
+electric,MD,utility company,public,6
+electric,ME,government,private,7
+electric,ME,government,public,31
+electric,ME,private,private,10
+electric,ME,private,public,225
+electric,MI,government,private,14
+electric,MI,government,public,22
+electric,MI,private,private,54
+electric,MI,private,public,430
+electric,MI,utility company,private,14
+electric,MI,utility company,public,19
+electric,MN,government,private,15
+electric,MN,government,public,11
+electric,MN,private,private,17
+electric,MN,private,public,202
+electric,MN,utility company,public,1
+electric,MO,government,private,14
+electric,MO,government,public,1
+electric,MO,private,private,34
+electric,MO,private,public,131
+electric,MO,utility company,public,9
+electric,MS,government,private,9
+electric,MS,private,private,11
+electric,MS,private,public,72
+electric,MT,government,private,3
+electric,MT,government,public,3
+electric,MT,private,private,2
+electric,MT,private,public,56
+electric,MT,utility company,public,1
+electric,NC,government,private,20
+electric,NC,government,public,50
+electric,NC,joint,public,2
+electric,NC,private,private,72
+electric,NC,private,public,307
+electric,NC,utility company,private,19
+electric,NC,utility company,public,18
+electric,ND,government,public,1
+electric,ND,private,private,2
+electric,ND,private,public,40
+electric,ND,utility company,private,1
+electric,ND,utility company,public,2
+electric,NE,private,private,4
+electric,NE,private,public,26
+electric,NE,utility company,public,1
+electric,NH,government,private,1
+electric,NH,government,public,3
+electric,NH,private,private,24
+electric,NH,private,public,109
+electric,NH,utility company,private,1
+electric,NJ,government,private,9
+electric,NJ,government,public,26
+electric,NJ,private,private,80
+electric,NJ,private,public,213
+electric,NM,government,private,12
+electric,NM,government,public,4
+electric,NM,private,private,4
+electric,NM,private,public,44
+electric,NM,utility company,public,1
+electric,NV,government,private,12
+electric,NV,government,public,1
+electric,NV,private,private,4
+electric,NV,private,public,155
+electric,NV,utility company,private,2
+electric,NV,utility company,public,1
+electric,NY,government,private,42
+electric,NY,government,public,145
+electric,NY,joint,public,1
+electric,NY,private,private,115
+electric,NY,private,public,1173
+electric,NY,utility company,private,21
+electric,NY,utility company,public,1
+electric,OH,government,private,6
+electric,OH,government,public,39
+electric,OH,private,private,49
+electric,OH,private,public,326
+electric,OH,utility company,private,2
+electric,OK,government,private,9
+electric,OK,government,public,7
+electric,OK,private,private,21
+electric,OK,private,public,216
+electric,OR,government,private,29
+electric,OR,government,public,16
+electric,OR,private,private,50
+electric,OR,private,public,282
+electric,OR,utility company,private,2
+electric,OR,utility company,public,1
+electric,PA,government,private,25
+electric,PA,government,public,46
+electric,PA,private,private,53
+electric,PA,private,public,386
+electric,RI,government,private,9
+electric,RI,government,public,1
+electric,RI,private,private,9
+electric,RI,private,public,45
+electric,RI,utility company,private,2
+electric,SC,government,private,18
+electric,SC,government,public,63
+electric,SC,private,private,33
+electric,SC,private,public,153
+electric,SC,utility company,private,3
+electric,SC,utility company,public,9
+electric,SD,government,private,2
+electric,SD,private,private,3
+electric,SD,private,public,37
+electric,TN,government,private,43
+electric,TN,government,public,14
+electric,TN,private,private,41
+electric,TN,private,public,155
+electric,TN,utility company,public,3
+electric,TX,government,private,31
+electric,TX,government,public,7
+electric,TX,private,private,80
+electric,TX,private,public,778
+electric,TX,utility company,private,1
+electric,TX,utility company,public,13
+electric,UT,government,private,11
+electric,UT,government,public,8
+electric,UT,private,private,12
+electric,UT,private,public,138
+electric,VA,government,private,60
+electric,VA,government,public,19
+electric,VA,private,private,71
+electric,VA,private,public,497
+electric,VA,utility company,private,4
+electric,VA,utility company,public,1
+electric,VT,government,private,1
+electric,VT,government,public,14
+electric,VT,joint,public,1
+electric,VT,private,private,6
+electric,VT,private,public,108
+electric,VT,utility company,private,2
+electric,VT,utility company,public,2
+electric,WA,government,private,127
+electric,WA,government,public,19
+electric,WA,private,private,25
+electric,WA,private,public,402
+electric,WA,utility company,private,2
+electric,WA,utility company,public,4
+electric,WI,government,private,7
+electric,WI,government,public,5
+electric,WI,private,private,21
+electric,WI,private,public,137
+electric,WI,utility company,private,1
+electric,WI,utility company,public,1
+electric,WV,government,private,10
+electric,WV,government,public,11
+electric,WV,private,private,9
+electric,WV,private,public,77
+electric,WY,government,private,9
+electric,WY,government,public,8
+electric,WY,private,private,1
+electric,WY,private,public,34
+ethanol,AL,government,private,12
+ethanol,AL,private,public,20
+ethanol,AR,government,private,1
+ethanol,AR,private,public,73
+ethanol,AZ,government,private,2
+ethanol,AZ,private,public,20
+ethanol,CA,government,private,18
+ethanol,CA,private,public,289
+ethanol,CO,government,private,4
+ethanol,CO,private,public,94
+ethanol,CT,government,private,1
+ethanol,CT,private,public,2
+ethanol,DC,government,private,3
+ethanol,DC,private,public,1
+ethanol,DE,government,private,1
+ethanol,DE,private,public,1
+ethanol,FL,government,private,4
+ethanol,FL,government,public,4
+ethanol,FL,private,private,1
+ethanol,FL,private,public,138
+ethanol,GA,government,private,8
+ethanol,GA,private,private,1
+ethanol,GA,private,public,54
+ethanol,HI,government,private,1
+ethanol,IA,government,private,7
+ethanol,IA,private,public,338
+ethanol,ID,government,private,1
+ethanol,ID,private,public,3
+ethanol,IL,government,private,17
+ethanol,IL,private,public,301
+ethanol,IN,government,private,5
+ethanol,IN,private,public,243
+ethanol,KS,government,private,2
+ethanol,KS,private,private,1
+ethanol,KS,private,public,73
+ethanol,KY,government,private,3
+ethanol,KY,private,public,72
+ethanol,LA,government,private,4
+ethanol,LA,government,public,2
+ethanol,LA,private,public,13
+ethanol,MA,private,public,7
+ethanol,MD,government,private,18
+ethanol,MD,private,public,37
+ethanol,ME,private,public,1
+ethanol,MI,government,private,2
+ethanol,MI,private,public,231
+ethanol,MN,government,private,12
+ethanol,MN,private,public,427
+ethanol,MO,government,private,1
+ethanol,MO,private,public,135
+ethanol,MS,government,private,1
+ethanol,MS,private,public,4
+ethanol,MT,government,private,2
+ethanol,NC,government,private,12
+ethanol,NC,private,public,97
+ethanol,ND,government,private,1
+ethanol,ND,private,public,41
+ethanol,NE,government,private,4
+ethanol,NE,private,public,122
+ethanol,NJ,government,private,3
+ethanol,NJ,private,public,3
+ethanol,NM,government,private,4
+ethanol,NM,private,public,13
+ethanol,NV,government,private,2
+ethanol,NV,private,public,16
+ethanol,NY,government,private,6
+ethanol,NY,private,public,72
+ethanol,OH,government,private,6
+ethanol,OH,private,private,2
+ethanol,OH,private,public,201
+ethanol,OK,government,private,2
+ethanol,OK,private,public,94
+ethanol,OR,private,public,4
+ethanol,PA,government,public,1
+ethanol,PA,private,public,173
+ethanol,SC,government,private,3
+ethanol,SC,government,public,1
+ethanol,SC,private,private,1
+ethanol,SC,private,public,55
+ethanol,SD,government,private,1
+ethanol,SD,private,public,80
+ethanol,TN,government,private,2
+ethanol,TN,government,public,1
+ethanol,TN,private,private,1
+ethanol,TN,private,public,90
+ethanol,TX,government,private,6
+ethanol,TX,private,public,254
+ethanol,UT,private,public,1
+ethanol,VA,government,private,13
+ethanol,VA,private,public,61
+ethanol,WA,government,private,7
+ethanol,WA,private,private,1
+ethanol,WA,private,public,3
+ethanol,WI,private,public,262
+ethanol,WV,government,private,2
+ethanol,WV,private,public,36
+ethanol,WY,private,public,8
+hydrogen,AZ,private,private,1
+hydrogen,CA,government,private,1
+hydrogen,CA,government,public,4
+hydrogen,CA,private,private,5
+hydrogen,CA,private,public,106
+hydrogen,CO,government,private,1
+hydrogen,CT,private,private,1
+hydrogen,CT,private,public,1
+hydrogen,DE,private,private,1
+hydrogen,HI,government,private,2
+hydrogen,HI,private,private,1
+hydrogen,HI,private,public,1
+hydrogen,MA,government,private,1
+hydrogen,MA,private,private,1
+hydrogen,MA,private,public,2
+hydrogen,MI,government,private,1
+hydrogen,MI,private,private,1
+hydrogen,NY,government,private,1
+hydrogen,NY,private,public,1
+hydrogen,OH,government,private,2
+hydrogen,OH,private,private,1
+hydrogen,OH,private,public,1
+hydrogen,PA,government,private,1
+hydrogen,RI,private,public,1
+hydrogen,TX,private,private,1
+hydrogen,VA,government,private,1
+hydrogen,WA,government,private,1
+liquefied natural gas,AL,private,public,3
+liquefied natural gas,AR,private,public,2
+liquefied natural gas,AZ,government,private,4
+liquefied natural gas,AZ,private,public,3
+liquefied natural gas,CA,government,private,9
+liquefied natural gas,CA,government,public,5
+liquefied natural gas,CA,private,private,16
+liquefied natural gas,CA,private,public,11
+liquefied natural gas,CO,government,private,1
+liquefied natural gas,CO,private,public,1
+liquefied natural gas,FL,private,private,1
+liquefied natural gas,FL,private,public,2
+liquefied natural gas,GA,private,public,6
+liquefied natural gas,IA,private,public,1
+liquefied natural gas,ID,private,public,1
+liquefied natural gas,IL,private,private,1
+liquefied natural gas,IL,private,public,2
+liquefied natural gas,IN,private,private,1
+liquefied natural gas,IN,private,public,3
+liquefied natural gas,KS,private,public,3
+liquefied natural gas,KY,private,public,2
+liquefied natural gas,LA,private,public,3
+liquefied natural gas,MD,private,public,1
+liquefied natural gas,MO,private,private,1
+liquefied natural gas,MO,private,public,2
+liquefied natural gas,MS,private,private,1
+liquefied natural gas,MS,private,public,1
+liquefied natural gas,NC,private,public,2
+liquefied natural gas,NE,private,public,2
+liquefied natural gas,NM,private,public,2
+liquefied natural gas,NV,private,public,1
+liquefied natural gas,OH,government,private,1
+liquefied natural gas,OH,private,private,2
+liquefied natural gas,OH,private,public,5
+liquefied natural gas,OK,private,public,1
+liquefied natural gas,OR,private,private,1
+liquefied natural gas,OR,private,public,2
+liquefied natural gas,PA,private,private,1
+liquefied natural gas,PA,private,public,4
+liquefied natural gas,SC,private,public,2
+liquefied natural gas,TN,private,private,3
+liquefied natural gas,TN,private,public,2
+liquefied natural gas,TX,private,private,4
+liquefied natural gas,TX,private,public,16
+liquefied natural gas,UT,private,public,2
+liquefied natural gas,VA,government,private,1
+liquefied natural gas,VA,private,public,2
+liquefied natural gas,WA,private,public,1
+liquefied natural gas,WI,private,public,2
+liquefied natural gas,WY,private,public,2
+propane,AK,private,public,2
+propane,AL,government,private,1
+propane,AL,private,private,2
+propane,AL,private,public,60
+propane,AR,private,public,39
+propane,AZ,government,private,1
+propane,AZ,private,private,1
+propane,AZ,private,public,66
+propane,CA,government,private,10
+propane,CA,government,public,1
+propane,CA,private,private,28
+propane,CA,private,public,213
+propane,CA,utility company,private,1
+propane,CO,government,private,2
+propane,CO,private,private,4
+propane,CO,private,public,46
+propane,CT,private,private,1
+propane,CT,private,public,17
+propane,DC,government,private,6
+propane,DE,private,private,4
+propane,DE,private,public,8
+propane,FL,government,private,2
+propane,FL,private,private,14
+propane,FL,private,public,118
+propane,GA,government,private,2
+propane,GA,private,private,4
+propane,GA,private,public,74
+propane,HI,private,public,1
+propane,IA,private,public,34
+propane,ID,private,public,22
+propane,IL,government,private,3
+propane,IL,private,private,3
+propane,IL,private,public,81
+propane,IN,government,private,4
+propane,IN,private,public,46
+propane,KS,private,public,36
+propane,KY,private,private,1
+propane,KY,private,public,19
+propane,LA,private,private,12
+propane,LA,private,public,36
+propane,MA,private,public,30
+propane,MD,government,private,6
+propane,MD,private,private,2
+propane,MD,private,public,25
+propane,ME,government,private,1
+propane,ME,private,private,1
+propane,ME,private,public,6
+propane,MI,government,private,7
+propane,MI,private,private,9
+propane,MI,private,public,72
+propane,MN,government,private,1
+propane,MN,joint,public,1
+propane,MN,private,private,1
+propane,MN,private,public,46
+propane,MO,private,public,57
+propane,MS,private,public,69
+propane,MT,private,public,28
+propane,NC,government,private,4
+propane,NC,private,private,12
+propane,NC,private,public,61
+propane,ND,private,public,19
+propane,NE,private,public,28
+propane,NH,private,private,5
+propane,NH,private,public,11
+propane,NJ,private,public,13
+propane,NM,private,public,53
+propane,NV,government,private,1
+propane,NV,private,public,21
+propane,NY,government,private,7
+propane,NY,private,public,38
+propane,OH,government,private,1
+propane,OH,private,private,7
+propane,OH,private,public,64
+propane,OK,private,private,14
+propane,OK,private,public,100
+propane,OR,private,private,2
+propane,OR,private,public,41
+propane,PA,government,private,15
+propane,PA,private,private,13
+propane,PA,private,public,54
+propane,RI,private,public,5
+propane,SC,government,private,1
+propane,SC,private,private,1
+propane,SC,private,public,44
+propane,SD,private,public,18
+propane,TN,government,private,2
+propane,TN,private,private,6
+propane,TN,private,public,47
+propane,TX,government,private,4
+propane,TX,private,private,24
+propane,TX,private,public,338
+propane,UT,private,public,39
+propane,VA,government,private,18
+propane,VA,private,private,6
+propane,VA,private,public,61
+propane,VT,private,public,1
+propane,WA,government,private,2
+propane,WA,private,public,74
+propane,WA,utility company,public,1
+propane,WI,government,private,4
+propane,WI,private,private,2
+propane,WI,private,public,53
+propane,WV,government,private,7
+propane,WV,private,public,10
+propane,WY,private,public,16
