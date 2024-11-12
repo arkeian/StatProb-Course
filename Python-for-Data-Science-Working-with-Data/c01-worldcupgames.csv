@@ -1,0 +1,965 @@
+date,home_team,away_team,country
+1930-07-13,Belgium,United States,Uruguay
+1930-07-13,France,Mexico,Uruguay
+1930-07-14,Brazil,Yugoslavia,Uruguay
+1930-07-14,Peru,Romania,Uruguay
+1930-07-15,Argentina,France,Uruguay
+1930-07-16,Chile,Mexico,Uruguay
+1930-07-17,Bolivia,Yugoslavia,Uruguay
+1930-07-17,Paraguay,United States,Uruguay
+1930-07-18,Uruguay,Peru,Uruguay
+1930-07-19,Argentina,Mexico,Uruguay
+1930-07-19,Chile,France,Uruguay
+1930-07-20,Belgium,Paraguay,Uruguay
+1930-07-20,Bolivia,Brazil,Uruguay
+1930-07-21,Uruguay,Romania,Uruguay
+1930-07-22,Argentina,Chile,Uruguay
+1930-07-26,Argentina,United States,Uruguay
+1930-07-27,Uruguay,Yugoslavia,Uruguay
+1930-07-30,Uruguay,Argentina,Uruguay
+1934-05-27,Argentina,Sweden,Italy
+1934-05-27,Austria,France,Italy
+1934-05-27,Belgium,Germany,Italy
+1934-05-27,Brazil,Spain,Italy
+1934-05-27,Czechoslovakia,Romania,Italy
+1934-05-27,Egypt,Hungary,Italy
+1934-05-27,Italy,United States,Italy
+1934-05-27,Netherlands,Switzerland,Italy
+1934-05-31,Austria,Hungary,Italy
+1934-05-31,Czechoslovakia,Switzerland,Italy
+1934-05-31,Germany,Sweden,Italy
+1934-05-31,Italy,Spain,Italy
+1934-06-01,Italy,Spain,Italy
+1934-06-03,Czechoslovakia,Germany,Italy
+1934-06-03,Italy,Austria,Italy
+1934-06-07,Austria,Germany,Italy
+1934-06-10,Italy,Czechoslovakia,Italy
+1938-06-04,Germany,Switzerland,France
+1938-06-05,Brazil,Poland,France
+1938-06-05,Cuba,Romania,France
+1938-06-05,Czechoslovakia,Netherlands,France
+1938-06-05,France,Belgium,France
+1938-06-05,Hungary,Indonesia,France
+1938-06-05,Italy,Norway,France
+1938-06-09,Cuba,Romania,France
+1938-06-09,Germany,Switzerland,France
+1938-06-12,Brazil,Czechoslovakia,France
+1938-06-12,Cuba,Sweden,France
+1938-06-12,France,Italy,France
+1938-06-12,Hungary,Switzerland,France
+1938-06-14,Brazil,Czechoslovakia,France
+1938-06-16,Brazil,Italy,France
+1938-06-16,Hungary,Sweden,France
+1938-06-19,Brazil,Sweden,France
+1938-06-19,Hungary,Italy,France
+1950-06-24,Brazil,Mexico,Brazil
+1950-06-25,Chile,England,Brazil
+1950-06-25,Italy,Sweden,Brazil
+1950-06-25,Spain,United States,Brazil
+1950-06-25,Switzerland,Yugoslavia,Brazil
+1950-06-28,Brazil,Switzerland,Brazil
+1950-06-28,Mexico,Yugoslavia,Brazil
+1950-06-29,Chile,Spain,Brazil
+1950-06-29,England,United States,Brazil
+1950-06-29,Paraguay,Sweden,Brazil
+1950-07-01,Brazil,Yugoslavia,Brazil
+1950-07-02,Bolivia,Uruguay,Brazil
+1950-07-02,Chile,United States,Brazil
+1950-07-02,England,Spain,Brazil
+1950-07-02,Italy,Paraguay,Brazil
+1950-07-02,Mexico,Switzerland,Brazil
+1950-07-09,Brazil,Sweden,Brazil
+1950-07-09,Spain,Uruguay,Brazil
+1950-07-13,Brazil,Spain,Brazil
+1950-07-13,Sweden,Uruguay,Brazil
+1950-07-16,Brazil,Uruguay,Brazil
+1950-07-16,Spain,Sweden,Brazil
+1954-06-16,Austria,Scotland,Switzerland
+1954-06-16,Brazil,Mexico,Switzerland
+1954-06-16,Czechoslovakia,Uruguay,Switzerland
+1954-06-16,France,Yugoslavia,Switzerland
+1954-06-17,Belgium,England,Switzerland
+1954-06-17,Germany,Turkey,Switzerland
+1954-06-17,Hungary,South Korea,Switzerland
+1954-06-17,Switzerland,Italy,Switzerland
+1954-06-19,Austria,Czechoslovakia,Switzerland
+1954-06-19,Brazil,Yugoslavia,Switzerland
+1954-06-19,France,Mexico,Switzerland
+1954-06-19,Scotland,Uruguay,Switzerland
+1954-06-20,Belgium,Italy,Switzerland
+1954-06-20,Germany,Hungary,Switzerland
+1954-06-20,South Korea,Turkey,Switzerland
+1954-06-20,Switzerland,England,Switzerland
+1954-06-23,Germany,Turkey,Switzerland
+1954-06-23,Switzerland,Italy,Switzerland
+1954-06-26,England,Uruguay,Switzerland
+1954-06-26,Switzerland,Austria,Switzerland
+1954-06-27,Brazil,Hungary,Switzerland
+1954-06-27,Germany,Yugoslavia,Switzerland
+1954-06-30,Austria,Germany,Switzerland
+1954-06-30,Hungary,Uruguay,Switzerland
+1954-07-03,Austria,Uruguay,Switzerland
+1954-07-04,Germany,Hungary,Switzerland
+1958-06-08,Argentina,Germany,Sweden
+1958-06-08,Austria,Brazil,Sweden
+1958-06-08,Czechoslovakia,Northern Ireland,Sweden
+1958-06-08,England,Russia,Sweden
+1958-06-08,France,Paraguay,Sweden
+1958-06-08,Hungary,Wales,Sweden
+1958-06-08,Scotland,Yugoslavia,Sweden
+1958-06-08,Sweden,Mexico,Sweden
+1958-06-11,Argentina,Northern Ireland,Sweden
+1958-06-11,Austria,Russia,Sweden
+1958-06-11,Brazil,England,Sweden
+1958-06-11,Czechoslovakia,Germany,Sweden
+1958-06-11,France,Yugoslavia,Sweden
+1958-06-11,Mexico,Wales,Sweden
+1958-06-11,Paraguay,Scotland,Sweden
+1958-06-12,Sweden,Hungary,Sweden
+1958-06-15,Argentina,Czechoslovakia,Sweden
+1958-06-15,Austria,England,Sweden
+1958-06-15,Brazil,Russia,Sweden
+1958-06-15,France,Scotland,Sweden
+1958-06-15,Germany,Northern Ireland,Sweden
+1958-06-15,Hungary,Mexico,Sweden
+1958-06-15,Paraguay,Yugoslavia,Sweden
+1958-06-15,Sweden,Wales,Sweden
+1958-06-17,Czechoslovakia,Northern Ireland,Sweden
+1958-06-17,England,Russia,Sweden
+1958-06-17,Hungary,Wales,Sweden
+1958-06-19,Brazil,Wales,Sweden
+1958-06-19,France,Northern Ireland,Sweden
+1958-06-19,Germany,Yugoslavia,Sweden
+1958-06-19,Sweden,Russia,Sweden
+1958-06-24,Brazil,France,Sweden
+1958-06-24,Sweden,Germany,Sweden
+1958-06-28,France,Germany,Sweden
+1958-06-29,Sweden,Brazil,Sweden
+1962-05-30,Argentina,Bulgaria,Chile
+1962-05-30,Brazil,Mexico,Chile
+1962-05-30,Chile,Switzerland,Chile
+1962-05-30,Colombia,Uruguay,Chile
+1962-05-31,Czechoslovakia,Spain,Chile
+1962-05-31,England,Hungary,Chile
+1962-05-31,Germany,Italy,Chile
+1962-05-31,Russia,Yugoslavia,Chile
+1962-06-02,Argentina,England,Chile
+1962-06-02,Brazil,Czechoslovakia,Chile
+1962-06-02,Chile,Italy,Chile
+1962-06-02,Uruguay,Yugoslavia,Chile
+1962-06-03,Bulgaria,Hungary,Chile
+1962-06-03,Colombia,Russia,Chile
+1962-06-03,Germany,Switzerland,Chile
+1962-06-03,Mexico,Spain,Chile
+1962-06-06,Argentina,Hungary,Chile
+1962-06-06,Brazil,Spain,Chile
+1962-06-06,Chile,Germany,Chile
+1962-06-06,Russia,Uruguay,Chile
+1962-06-07,Bulgaria,England,Chile
+1962-06-07,Colombia,Yugoslavia,Chile
+1962-06-07,Czechoslovakia,Mexico,Chile
+1962-06-07,Italy,Switzerland,Chile
+1962-06-10,Brazil,England,Chile
+1962-06-10,Chile,Russia,Chile
+1962-06-10,Czechoslovakia,Hungary,Chile
+1962-06-10,Germany,Yugoslavia,Chile
+1962-06-13,Chile,Brazil,Chile
+1962-06-13,Czechoslovakia,Yugoslavia,Chile
+1962-06-16,Chile,Yugoslavia,Chile
+1962-06-17,Brazil,Czechoslovakia,Chile
+1966-07-11,England,Uruguay,England
+1966-07-12,Brazil,Bulgaria,England
+1966-07-12,Germany,Switzerland,England
+1966-07-12,North Korea,Russia,England
+1966-07-13,Argentina,Spain,England
+1966-07-13,Chile,Italy,England
+1966-07-13,France,Mexico,England
+1966-07-13,Hungary,Portugal,England
+1966-07-15,Brazil,Hungary,England
+1966-07-15,Chile,North Korea,England
+1966-07-15,France,Uruguay,England
+1966-07-15,Spain,Switzerland,England
+1966-07-16,Argentina,Germany,England
+1966-07-16,Bulgaria,Portugal,England
+1966-07-16,England,Mexico,England
+1966-07-16,Italy,Russia,England
+1966-07-19,Argentina,Switzerland,England
+1966-07-19,Brazil,Portugal,England
+1966-07-19,Italy,North Korea,England
+1966-07-19,Mexico,Uruguay,England
+1966-07-20,Bulgaria,Hungary,England
+1966-07-20,Chile,Russia,England
+1966-07-20,England,France,England
+1966-07-20,Germany,Spain,England
+1966-07-23,England,Argentina,England
+1966-07-23,Germany,Uruguay,England
+1966-07-23,Hungary,Russia,England
+1966-07-23,North Korea,Portugal,England
+1966-07-25,Germany,Russia,England
+1966-07-26,England,Portugal,England
+1966-07-28,Portugal,Russia,England
+1966-07-30,England,Germany,England
+1970-05-31,Mexico,Russia,Mexico
+1970-06-02,Bulgaria,Peru,Mexico
+1970-06-02,England,Romania,Mexico
+1970-06-02,Israel,Uruguay,Mexico
+1970-06-03,Belgium,El Salvador,Mexico
+1970-06-03,Brazil,Czechoslovakia,Mexico
+1970-06-03,Germany,Morocco,Mexico
+1970-06-03,Italy,Sweden,Mexico
+1970-06-06,Belgium,Russia,Mexico
+1970-06-06,Czechoslovakia,Romania,Mexico
+1970-06-06,Italy,Uruguay,Mexico
+1970-06-06,Morocco,Peru,Mexico
+1970-06-07,Brazil,England,Mexico
+1970-06-07,Bulgaria,Germany,Mexico
+1970-06-07,Israel,Sweden,Mexico
+1970-06-07,Mexico,El Salvador,Mexico
+1970-06-10,Brazil,Romania,Mexico
+1970-06-10,El Salvador,Russia,Mexico
+1970-06-10,Germany,Peru,Mexico
+1970-06-10,Sweden,Uruguay,Mexico
+1970-06-11,Bulgaria,Morocco,Mexico
+1970-06-11,Czechoslovakia,England,Mexico
+1970-06-11,Israel,Italy,Mexico
+1970-06-11,Mexico,Belgium,Mexico
+1970-06-14,Brazil,Peru,Mexico
+1970-06-14,England,Germany,Mexico
+1970-06-14,Mexico,Italy,Mexico
+1970-06-14,Russia,Uruguay,Mexico
+1970-06-17,Brazil,Uruguay,Mexico
+1970-06-17,Germany,Italy,Mexico
+1970-06-20,Germany,Uruguay,Mexico
+1970-06-21,Brazil,Italy,Mexico
+1974-06-13,Brazil,Yugoslavia,Germany
+1974-06-14,DR Congo,Scotland,Germany
+1974-06-14,German DR,Australia,Germany
+1974-06-14,Germany,Chile,Germany
+1974-06-15,Italy,Haiti,Germany
+1974-06-15,Poland,Argentina,Germany
+1974-06-15,Sweden,Bulgaria,Germany
+1974-06-15,Uruguay,Netherlands,Germany
+1974-06-18,Chile,German DR,Germany
+1974-06-18,Germany,Australia,Germany
+1974-06-18,Scotland,Brazil,Germany
+1974-06-18,Yugoslavia,DR Congo,Germany
+1974-06-19,Argentina,Italy,Germany
+1974-06-19,Bulgaria,Uruguay,Germany
+1974-06-19,Haiti,Poland,Germany
+1974-06-19,Netherlands,Sweden,Germany
+1974-06-22,Australia,Chile,Germany
+1974-06-22,DR Congo,Brazil,Germany
+1974-06-22,Germany,German DR,Germany
+1974-06-22,Scotland,Yugoslavia,Germany
+1974-06-23,Argentina,Haiti,Germany
+1974-06-23,Bulgaria,Netherlands,Germany
+1974-06-23,Poland,Italy,Germany
+1974-06-23,Sweden,Uruguay,Germany
+1974-06-26,Brazil,German DR,Germany
+1974-06-26,Germany,Yugoslavia,Germany
+1974-06-26,Netherlands,Argentina,Germany
+1974-06-26,Sweden,Poland,Germany
+1974-06-30,Argentina,Brazil,Germany
+1974-06-30,German DR,Netherlands,Germany
+1974-06-30,Germany,Sweden,Germany
+1974-06-30,Poland,Yugoslavia,Germany
+1974-07-03,Argentina,German DR,Germany
+1974-07-03,Germany,Poland,Germany
+1974-07-03,Netherlands,Brazil,Germany
+1974-07-03,Sweden,Yugoslavia,Germany
+1974-07-06,Brazil,Poland,Germany
+1974-07-07,Germany,Netherlands,Germany
+1978-06-01,Germany,Poland,Argentina
+1978-06-02,Argentina,Hungary,Argentina
+1978-06-02,France,Italy,Argentina
+1978-06-02,Mexico,Tunisia,Argentina
+1978-06-03,Austria,Spain,Argentina
+1978-06-03,Brazil,Sweden,Argentina
+1978-06-03,Iran,Netherlands,Argentina
+1978-06-03,Peru,Scotland,Argentina
+1978-06-06,Argentina,France,Argentina
+1978-06-06,Germany,Mexico,Argentina
+1978-06-06,Hungary,Italy,Argentina
+1978-06-06,Poland,Tunisia,Argentina
+1978-06-07,Austria,Sweden,Argentina
+1978-06-07,Brazil,Spain,Argentina
+1978-06-07,Iran,Scotland,Argentina
+1978-06-07,Netherlands,Peru,Argentina
+1978-06-10,Argentina,Italy,Argentina
+1978-06-10,France,Hungary,Argentina
+1978-06-10,Germany,Tunisia,Argentina
+1978-06-10,Mexico,Poland,Argentina
+1978-06-11,Austria,Brazil,Argentina
+1978-06-11,Iran,Peru,Argentina
+1978-06-11,Netherlands,Scotland,Argentina
+1978-06-11,Spain,Sweden,Argentina
+1978-06-14,Argentina,Poland,Argentina
+1978-06-14,Austria,Netherlands,Argentina
+1978-06-14,Brazil,Peru,Argentina
+1978-06-14,Germany,Italy,Argentina
+1978-06-18,Argentina,Brazil,Argentina
+1978-06-18,Austria,Italy,Argentina
+1978-06-18,Germany,Netherlands,Argentina
+1978-06-18,Peru,Poland,Argentina
+1978-06-21,Argentina,Peru,Argentina
+1978-06-21,Austria,Germany,Argentina
+1978-06-21,Brazil,Poland,Argentina
+1978-06-21,Italy,Netherlands,Argentina
+1978-06-24,Brazil,Italy,Argentina
+1978-06-25,Argentina,Netherlands,Argentina
+1982-06-13,Argentina,Belgium,Spain
+1982-06-14,Brazil,Russia,Spain
+1982-06-14,Italy,Poland,Spain
+1982-06-15,Hungary,El Salvador,Spain
+1982-06-15,Peru,Cameroon,Spain
+1982-06-15,Scotland,New Zealand,Spain
+1982-06-16,England,France,Spain
+1982-06-16,Germany,Algeria,Spain
+1982-06-16,Spain,Honduras,Spain
+1982-06-17,Chile,Austria,Spain
+1982-06-17,Czechoslovakia,Kuwait,Spain
+1982-06-17,Yugoslavia,Northern Ireland,Spain
+1982-06-18,Argentina,Hungary,Spain
+1982-06-18,Brazil,Scotland,Spain
+1982-06-18,Italy,Peru,Spain
+1982-06-19,Belgium,El Salvador,Spain
+1982-06-19,Poland,Cameroon,Spain
+1982-06-19,Russia,New Zealand,Spain
+1982-06-20,England,Czechoslovakia,Spain
+1982-06-20,Germany,Chile,Spain
+1982-06-20,Spain,Yugoslavia,Spain
+1982-06-21,Algeria,Austria,Spain
+1982-06-21,France,Kuwait,Spain
+1982-06-21,Honduras,Northern Ireland,Spain
+1982-06-22,Belgium,Hungary,Spain
+1982-06-22,Poland,Peru,Spain
+1982-06-22,Russia,Scotland,Spain
+1982-06-23,Argentina,El Salvador,Spain
+1982-06-23,Brazil,New Zealand,Spain
+1982-06-23,Italy,Cameroon,Spain
+1982-06-24,Algeria,Chile,Spain
+1982-06-24,France,Czechoslovakia,Spain
+1982-06-24,Honduras,Yugoslavia,Spain
+1982-06-25,England,Kuwait,Spain
+1982-06-25,Germany,Austria,Spain
+1982-06-25,Spain,Northern Ireland,Spain
+1982-06-28,Austria,France,Spain
+1982-06-28,Poland,Belgium,Spain
+1982-06-29,Germany,England,Spain
+1982-06-29,Italy,Argentina,Spain
+1982-07-01,Austria,Northern Ireland,Spain
+1982-07-01,Belgium,Russia,Spain
+1982-07-02,Argentina,Brazil,Spain
+1982-07-02,Spain,Germany,Spain
+1982-07-04,France,Northern Ireland,Spain
+1982-07-04,Poland,Russia,Spain
+1982-07-05,Italy,Brazil,Spain
+1982-07-05,Spain,England,Spain
+1982-07-08,Germany,France,Spain
+1982-07-08,Poland,Italy,Spain
+1982-07-10,Poland,France,Spain
+1982-07-11,Italy,Germany,Spain
+1986-05-31,Bulgaria,Italy,Mexico
+1986-06-01,Canada,France,Mexico
+1986-06-01,Spain,Brazil,Mexico
+1986-06-02,Argentina,South Korea,Mexico
+1986-06-02,Morocco,Poland,Mexico
+1986-06-02,Russia,Hungary,Mexico
+1986-06-03,Algeria,Northern Ireland,Mexico
+1986-06-03,Mexico,Belgium,Mexico
+1986-06-03,Portugal,England,Mexico
+1986-06-04,Paraguay,Iraq,Mexico
+1986-06-04,Scotland,Denmark,Mexico
+1986-06-04,Uruguay,Germany,Mexico
+1986-06-05,France,Russia,Mexico
+1986-06-05,Italy,Argentina,Mexico
+1986-06-05,South Korea,Bulgaria,Mexico
+1986-06-06,Brazil,Algeria,Mexico
+1986-06-06,England,Morocco,Mexico
+1986-06-06,Hungary,Canada,Mexico
+1986-06-07,Mexico,Paraguay,Mexico
+1986-06-07,Northern Ireland,Spain,Mexico
+1986-06-07,Poland,Portugal,Mexico
+1986-06-08,Denmark,Uruguay,Mexico
+1986-06-08,Germany,Scotland,Mexico
+1986-06-08,Iraq,Belgium,Mexico
+1986-06-09,Hungary,France,Mexico
+1986-06-09,Russia,Canada,Mexico
+1986-06-10,Argentina,Bulgaria,Mexico
+1986-06-10,South Korea,Italy,Mexico
+1986-06-11,England,Poland,Mexico
+1986-06-11,Mexico,Iraq,Mexico
+1986-06-11,Paraguay,Belgium,Mexico
+1986-06-11,Portugal,Morocco,Mexico
+1986-06-12,Algeria,Spain,Mexico
+1986-06-12,Northern Ireland,Brazil,Mexico
+1986-06-13,Denmark,Germany,Mexico
+1986-06-13,Scotland,Uruguay,Mexico
+1986-06-15,Mexico,Bulgaria,Mexico
+1986-06-15,Russia,Belgium,Mexico
+1986-06-16,Argentina,Uruguay,Mexico
+1986-06-16,Brazil,Poland,Mexico
+1986-06-17,Italy,France,Mexico
+1986-06-17,Morocco,Germany,Mexico
+1986-06-18,Denmark,Spain,Mexico
+1986-06-18,England,Paraguay,Mexico
+1986-06-21,Brazil,France,Mexico
+1986-06-21,Mexico,Germany,Mexico
+1986-06-22,Argentina,England,Mexico
+1986-06-22,Spain,Belgium,Mexico
+1986-06-25,Argentina,Belgium,Mexico
+1986-06-25,France,Germany,Mexico
+1986-06-28,France,Belgium,Mexico
+1986-06-29,Argentina,Germany,Mexico
+1990-06-08,Argentina,Cameroon,Italy
+1990-06-09,Italy,Austria,Italy
+1990-06-09,Russia,Romania,Italy
+1990-06-09,United Arab Emirates,Colombia,Italy
+1990-06-10,Brazil,Sweden,Italy
+1990-06-10,Germany,Yugoslavia,Italy
+1990-06-10,United States,Czechoslovakia,Italy
+1990-06-11,Costa Rica,Scotland,Italy
+1990-06-11,England,Republic of Ireland,Italy
+1990-06-12,Belgium,South Korea,Italy
+1990-06-12,Netherlands,Egypt,Italy
+1990-06-13,Argentina,Russia,Italy
+1990-06-13,Uruguay,Spain,Italy
+1990-06-14,Cameroon,Romania,Italy
+1990-06-14,Italy,United States,Italy
+1990-06-14,Yugoslavia,Colombia,Italy
+1990-06-15,Austria,Czechoslovakia,Italy
+1990-06-15,Germany,United Arab Emirates,Italy
+1990-06-16,Brazil,Costa Rica,Italy
+1990-06-16,England,Netherlands,Italy
+1990-06-16,Sweden,Scotland,Italy
+1990-06-17,Belgium,Uruguay,Italy
+1990-06-17,Republic of Ireland,Egypt,Italy
+1990-06-17,South Korea,Spain,Italy
+1990-06-18,Argentina,Romania,Italy
+1990-06-18,Cameroon,Russia,Italy
+1990-06-19,Austria,United States,Italy
+1990-06-19,Germany,Colombia,Italy
+1990-06-19,Italy,Czechoslovakia,Italy
+1990-06-19,Yugoslavia,United Arab Emirates,Italy
+1990-06-20,Brazil,Scotland,Italy
+1990-06-20,Sweden,Costa Rica,Italy
+1990-06-21,Belgium,Spain,Italy
+1990-06-21,England,Egypt,Italy
+1990-06-21,Republic of Ireland,Netherlands,Italy
+1990-06-21,South Korea,Uruguay,Italy
+1990-06-23,Cameroon,Colombia,Italy
+1990-06-23,Czechoslovakia,Costa Rica,Italy
+1990-06-24,Brazil,Argentina,Italy
+1990-06-24,Germany,Netherlands,Italy
+1990-06-25,Republic of Ireland,Romania,Italy
+1990-06-25,Italy,Uruguay,Italy
+1990-06-26,England,Belgium,Italy
+1990-06-26,Spain,Yugoslavia,Italy
+1990-06-30,Italy,Republic of Ireland,Italy
+1990-06-30,Yugoslavia,Argentina,Italy
+1990-07-01,Cameroon,England,Italy
+1990-07-01,Germany,Czechoslovakia,Italy
+1990-07-03,Italy,Argentina,Italy
+1990-07-04,Germany,England,Italy
+1990-07-07,Italy,England,Italy
+1990-07-08,Germany,Argentina,Italy
+1994-06-17,Germany,Bolivia,United States
+1994-06-17,Spain,South Korea,United States
+1994-06-18,Colombia,Romania,United States
+1994-06-18,Italy,Republic of Ireland,United States
+1994-06-18,United States,Switzerland,United States
+1994-06-19,Belgium,Morocco,United States
+1994-06-19,Cameroon,Sweden,United States
+1994-06-19,Norway,Mexico,United States
+1994-06-20,Brazil,Russia,United States
+1994-06-20,Netherlands,Saudi Arabia,United States
+1994-06-21,Argentina,Greece,United States
+1994-06-21,Germany,Spain,United States
+1994-06-21,Nigeria,Bulgaria,United States
+1994-06-22,Romania,Switzerland,United States
+1994-06-22,United States,Colombia,United States
+1994-06-23,Italy,Norway,United States
+1994-06-23,South Korea,Bolivia,United States
+1994-06-24,Brazil,Cameroon,United States
+1994-06-24,Mexico,Republic of Ireland,United States
+1994-06-24,Sweden,Russia,United States
+1994-06-25,Argentina,Nigeria,United States
+1994-06-25,Belgium,Netherlands,United States
+1994-06-25,Saudi Arabia,Morocco,United States
+1994-06-26,Bulgaria,Greece,United States
+1994-06-26,Switzerland,Colombia,United States
+1994-06-26,United States,Romania,United States
+1994-06-27,Bolivia,Spain,United States
+1994-06-27,Germany,South Korea,United States
+1994-06-28,Brazil,Sweden,United States
+1994-06-28,Republic of Ireland,Norway,United States
+1994-06-28,Italy,Mexico,United States
+1994-06-28,Russia,Cameroon,United States
+1994-06-29,Belgium,Saudi Arabia,United States
+1994-06-29,Morocco,Netherlands,United States
+1994-06-30,Argentina,Bulgaria,United States
+1994-06-30,Greece,Nigeria,United States
+1994-07-02,Germany,Belgium,United States
+1994-07-02,Spain,Switzerland,United States
+1994-07-03,Romania,Argentina,United States
+1994-07-03,Saudi Arabia,Sweden,United States
+1994-07-04,Netherlands,Republic of Ireland,United States
+1994-07-04,United States,Brazil,United States
+1994-07-05,Mexico,Bulgaria,United States
+1994-07-05,Nigeria,Italy,United States
+1994-07-09,Italy,Spain,United States
+1994-07-09,Netherlands,Brazil,United States
+1994-07-10,Bulgaria,Germany,United States
+1994-07-10,Romania,Sweden,United States
+1994-07-13,Bulgaria,Italy,United States
+1994-07-13,Sweden,Brazil,United States
+1994-07-16,Sweden,Bulgaria,United States
+1994-07-17,Brazil,Italy,United States
+1998-06-10,Brazil,Scotland,France
+1998-06-10,Morocco,Norway,France
+1998-06-11,Cameroon,Austria,France
+1998-06-11,Italy,Chile,France
+1998-06-12,France,South Africa,France
+1998-06-12,Paraguay,Bulgaria,France
+1998-06-12,Saudi Arabia,Denmark,France
+1998-06-13,South Korea,Mexico,France
+1998-06-13,Netherlands,Belgium,France
+1998-06-13,Spain,Nigeria,France
+1998-06-14,Argentina,Japan,France
+1998-06-14,Jamaica,Croatia,France
+1998-06-14,Serbia,Iran,France
+1998-06-15,England,Tunisia,France
+1998-06-15,Germany,United States,France
+1998-06-15,Romania,Colombia,France
+1998-06-16,Brazil,Morocco,France
+1998-06-16,Scotland,Norway,France
+1998-06-17,Chile,Austria,France
+1998-06-17,Italy,Cameroon,France
+1998-06-18,France,Saudi Arabia,France
+1998-06-18,South Africa,Denmark,France
+1998-06-19,Nigeria,Bulgaria,France
+1998-06-19,Spain,Paraguay,France
+1998-06-20,Belgium,Mexico,France
+1998-06-20,Japan,Croatia,France
+1998-06-20,Netherlands,South Korea,France
+1998-06-21,Argentina,Jamaica,France
+1998-06-21,Germany,Serbia,France
+1998-06-21,United States,Iran,France
+1998-06-22,Colombia,Tunisia,France
+1998-06-22,Romania,England,France
+1998-06-23,Brazil,Norway,France
+1998-06-23,Chile,Cameroon,France
+1998-06-23,Italy,Austria,France
+1998-06-23,Scotland,Morocco,France
+1998-06-24,France,Denmark,France
+1998-06-24,Nigeria,Paraguay,France
+1998-06-24,South Africa,Saudi Arabia,France
+1998-06-24,Spain,Bulgaria,France
+1998-06-25,Belgium,South Korea,France
+1998-06-25,Germany,Iran,France
+1998-06-25,Netherlands,Mexico,France
+1998-06-25,United States,Serbia,France
+1998-06-26,Argentina,Croatia,France
+1998-06-26,Colombia,England,France
+1998-06-26,Japan,Jamaica,France
+1998-06-26,Romania,Tunisia,France
+1998-06-27,Brazil,Chile,France
+1998-06-27,Italy,Norway,France
+1998-06-28,France,Paraguay,France
+1998-06-28,Nigeria,Denmark,France
+1998-06-29,Germany,Mexico,France
+1998-06-29,Netherlands,Serbia,France
+1998-06-30,Argentina,England,France
+1998-06-30,Romania,Croatia,France
+1998-07-03,Brazil,Denmark,France
+1998-07-03,France,Italy,France
+1998-07-04,Germany,Croatia,France
+1998-07-04,Netherlands,Argentina,France
+1998-07-07,Brazil,Netherlands,France
+1998-07-08,France,Croatia,France
+1998-07-11,Netherlands,Croatia,France
+1998-07-12,France,Brazil,France
+2002-05-31,France,Senegal,South Korea
+2002-06-01,Germany,Saudi Arabia,Japan
+2002-06-01,Republic of Ireland,Cameroon,Japan
+2002-06-01,Uruguay,Denmark,South Korea
+2002-06-02,Argentina,Nigeria,Japan
+2002-06-02,England,Sweden,Japan
+2002-06-02,Paraguay,South Africa,South Korea
+2002-06-02,Spain,Slovenia,South Korea
+2002-06-03,Brazil,Turkey,South Korea
+2002-06-03,Croatia,Mexico,Japan
+2002-06-03,Italy,Ecuador,Japan
+2002-06-04,China PR,Costa Rica,South Korea
+2002-06-04,Japan,Belgium,Japan
+2002-06-04,South Korea,Poland,South Korea
+2002-06-05,Germany,Republic of Ireland,Japan
+2002-06-05,Russia,Tunisia,Japan
+2002-06-05,United States,Portugal,South Korea
+2002-06-06,Cameroon,Saudi Arabia,Japan
+2002-06-06,Denmark,Senegal,South Korea
+2002-06-06,France,Uruguay,South Korea
+2002-06-07,Argentina,England,Japan
+2002-06-07,Spain,Paraguay,South Korea
+2002-06-07,Sweden,Nigeria,Japan
+2002-06-08,Brazil,China PR,South Korea
+2002-06-08,Italy,Croatia,Japan
+2002-06-08,South Africa,Slovenia,South Korea
+2002-06-09,Costa Rica,Turkey,South Korea
+2002-06-09,Japan,Russia,Japan
+2002-06-09,Mexico,Ecuador,Japan
+2002-06-10,South Korea,United States,South Korea
+2002-06-10,Portugal,Poland,South Korea
+2002-06-10,Tunisia,Belgium,Japan
+2002-06-11,Cameroon,Germany,Japan
+2002-06-11,Denmark,France,South Korea
+2002-06-11,Saudi Arabia,Republic of Ireland,Japan
+2002-06-11,Senegal,Uruguay,South Korea
+2002-06-12,Nigeria,England,Japan
+2002-06-12,Slovenia,Paraguay,South Korea
+2002-06-12,South Africa,Spain,South Korea
+2002-06-12,Sweden,Argentina,Japan
+2002-06-13,Costa Rica,Brazil,South Korea
+2002-06-13,Ecuador,Croatia,Japan
+2002-06-13,Mexico,Italy,Japan
+2002-06-13,Turkey,China PR,South Korea
+2002-06-14,Belgium,Russia,Japan
+2002-06-14,Japan,Tunisia,Japan
+2002-06-14,South Korea,Portugal,South Korea
+2002-06-14,Poland,United States,South Korea
+2002-06-15,Denmark,England,Japan
+2002-06-15,Germany,Paraguay,South Korea
+2002-06-16,Spain,Republic of Ireland,South Korea
+2002-06-16,Sweden,Senegal,Japan
+2002-06-17,Brazil,Belgium,Japan
+2002-06-17,Mexico,United States,South Korea
+2002-06-18,Japan,Turkey,Japan
+2002-06-18,South Korea,Italy,South Korea
+2002-06-21,England,Brazil,Japan
+2002-06-21,Germany,United States,South Korea
+2002-06-22,South Korea,Spain,South Korea
+2002-06-22,Senegal,Turkey,Japan
+2002-06-25,South Korea,Germany,South Korea
+2002-06-26,Brazil,Turkey,Japan
+2002-06-29,South Korea,Turkey,South Korea
+2002-06-30,Germany,Brazil,Japan
+2006-06-09,Germany,Costa Rica,Germany
+2006-06-09,Poland,Ecuador,Germany
+2006-06-10,Argentina,Ivory Coast,Germany
+2006-06-10,England,Paraguay,Germany
+2006-06-10,Trinidad and Tobago,Sweden,Germany
+2006-06-11,Angola,Portugal,Germany
+2006-06-11,Mexico,Iran,Germany
+2006-06-11,Serbia,Netherlands,Germany
+2006-06-12,Australia,Japan,Germany
+2006-06-12,Italy,Ghana,Germany
+2006-06-12,United States,Czech Republic,Germany
+2006-06-13,Brazil,Croatia,Germany
+2006-06-13,France,Switzerland,Germany
+2006-06-13,South Korea,Togo,Germany
+2006-06-14,Germany,Poland,Germany
+2006-06-14,Spain,Ukraine,Germany
+2006-06-14,Tunisia,Saudi Arabia,Germany
+2006-06-15,Ecuador,Costa Rica,Germany
+2006-06-15,England,Trinidad and Tobago,Germany
+2006-06-15,Sweden,Paraguay,Germany
+2006-06-16,Argentina,Serbia,Germany
+2006-06-16,Mexico,Angola,Germany
+2006-06-16,Netherlands,Ivory Coast,Germany
+2006-06-17,Czech Republic,Ghana,Germany
+2006-06-17,Italy,United States,Germany
+2006-06-17,Portugal,Iran,Germany
+2006-06-18,Brazil,Australia,Germany
+2006-06-18,France,South Korea,Germany
+2006-06-18,Japan,Croatia,Germany
+2006-06-19,Saudi Arabia,Ukraine,Germany
+2006-06-19,Spain,Tunisia,Germany
+2006-06-19,Togo,Switzerland,Germany
+2006-06-20,Costa Rica,Poland,Germany
+2006-06-20,Germany,Ecuador,Germany
+2006-06-20,Paraguay,Trinidad and Tobago,Germany
+2006-06-20,Sweden,England,Germany
+2006-06-21,Iran,Angola,Germany
+2006-06-21,Ivory Coast,Serbia,Germany
+2006-06-21,Netherlands,Argentina,Germany
+2006-06-21,Portugal,Mexico,Germany
+2006-06-22,Croatia,Australia,Germany
+2006-06-22,Czech Republic,Italy,Germany
+2006-06-22,Ghana,United States,Germany
+2006-06-22,Japan,Brazil,Germany
+2006-06-23,Saudi Arabia,Spain,Germany
+2006-06-23,Switzerland,South Korea,Germany
+2006-06-23,Togo,France,Germany
+2006-06-23,Ukraine,Tunisia,Germany
+2006-06-24,Argentina,Mexico,Germany
+2006-06-24,Germany,Sweden,Germany
+2006-06-25,England,Ecuador,Germany
+2006-06-25,Portugal,Netherlands,Germany
+2006-06-26,Italy,Australia,Germany
+2006-06-26,Switzerland,Ukraine,Germany
+2006-06-27,Brazil,Ghana,Germany
+2006-06-27,Spain,France,Germany
+2006-06-30,Germany,Argentina,Germany
+2006-06-30,Italy,Ukraine,Germany
+2006-07-01,Brazil,France,Germany
+2006-07-01,England,Portugal,Germany
+2006-07-04,Germany,Italy,Germany
+2006-07-05,Portugal,France,Germany
+2006-07-08,Germany,Portugal,Germany
+2006-07-09,Italy,France,Germany
+2010-06-11,South Africa,Mexico,South Africa
+2010-06-11,Uruguay,France,South Africa
+2010-06-12,Argentina,Nigeria,South Africa
+2010-06-12,England,United States,South Africa
+2010-06-12,South Korea,Greece,South Africa
+2010-06-13,Algeria,Slovenia,South Africa
+2010-06-13,Germany,Australia,South Africa
+2010-06-13,Serbia,Ghana,South Africa
+2010-06-14,Italy,Paraguay,South Africa
+2010-06-14,Japan,Cameroon,South Africa
+2010-06-14,Netherlands,Denmark,South Africa
+2010-06-15,Brazil,North Korea,South Africa
+2010-06-15,Ivory Coast,Portugal,South Africa
+2010-06-15,New Zealand,Slovakia,South Africa
+2010-06-16,Honduras,Chile,South Africa
+2010-06-16,South Africa,Uruguay,South Africa
+2010-06-16,Spain,Switzerland,South Africa
+2010-06-17,Argentina,South Korea,South Africa
+2010-06-17,France,Mexico,South Africa
+2010-06-17,Greece,Nigeria,South Africa
+2010-06-18,England,Algeria,South Africa
+2010-06-18,Germany,Serbia,South Africa
+2010-06-18,Slovenia,United States,South Africa
+2010-06-19,Cameroon,Denmark,South Africa
+2010-06-19,Ghana,Australia,South Africa
+2010-06-19,Netherlands,Japan,South Africa
+2010-06-20,Brazil,Ivory Coast,South Africa
+2010-06-20,Italy,New Zealand,South Africa
+2010-06-20,Slovakia,Paraguay,South Africa
+2010-06-21,Chile,Switzerland,South Africa
+2010-06-21,Portugal,North Korea,South Africa
+2010-06-21,Spain,Honduras,South Africa
+2010-06-22,Greece,Argentina,South Africa
+2010-06-22,Mexico,Uruguay,South Africa
+2010-06-22,Nigeria,South Korea,South Africa
+2010-06-22,South Africa,France,South Africa
+2010-06-23,Australia,Serbia,South Africa
+2010-06-23,Ghana,Germany,South Africa
+2010-06-23,Slovenia,England,South Africa
+2010-06-23,United States,Algeria,South Africa
+2010-06-24,Cameroon,Netherlands,South Africa
+2010-06-24,Denmark,Japan,South Africa
+2010-06-24,Paraguay,New Zealand,South Africa
+2010-06-24,Slovakia,Italy,South Africa
+2010-06-25,Chile,Spain,South Africa
+2010-06-25,North Korea,Ivory Coast,South Africa
+2010-06-25,Portugal,Brazil,South Africa
+2010-06-25,Switzerland,Honduras,South Africa
+2010-06-26,Uruguay,South Korea,South Africa
+2010-06-26,United States,Ghana,South Africa
+2010-06-27,Argentina,Mexico,South Africa
+2010-06-27,Germany,England,South Africa
+2010-06-28,Brazil,Chile,South Africa
+2010-06-28,Netherlands,Slovakia,South Africa
+2010-06-29,Paraguay,Japan,South Africa
+2010-06-29,Spain,Portugal,South Africa
+2010-07-02,Netherlands,Brazil,South Africa
+2010-07-02,Uruguay,Ghana,South Africa
+2010-07-03,Argentina,Germany,South Africa
+2010-07-03,Paraguay,Spain,South Africa
+2010-07-06,Uruguay,Netherlands,South Africa
+2010-07-07,Germany,Spain,South Africa
+2010-07-10,Uruguay,Germany,South Africa
+2010-07-11,Netherlands,Spain,South Africa
+2014-06-12,Brazil,Croatia,Brazil
+2014-06-13,Chile,Australia,Brazil
+2014-06-13,Mexico,Cameroon,Brazil
+2014-06-13,Spain,Netherlands,Brazil
+2014-06-14,Colombia,Greece,Brazil
+2014-06-14,England,Italy,Brazil
+2014-06-14,Ivory Coast,Japan,Brazil
+2014-06-14,Uruguay,Costa Rica,Brazil
+2014-06-15,Argentina,Bosnia and Herzegovina,Brazil
+2014-06-15,France,Honduras,Brazil
+2014-06-15,Switzerland,Ecuador,Brazil
+2014-06-16,Germany,Portugal,Brazil
+2014-06-16,Ghana,United States,Brazil
+2014-06-16,Iran,Nigeria,Brazil
+2014-06-17,Belgium,Algeria,Brazil
+2014-06-17,Brazil,Mexico,Brazil
+2014-06-17,Russia,South Korea,Brazil
+2014-06-18,Australia,Netherlands,Brazil
+2014-06-18,Cameroon,Croatia,Brazil
+2014-06-18,Spain,Chile,Brazil
+2014-06-19,Colombia,Ivory Coast,Brazil
+2014-06-19,Japan,Greece,Brazil
+2014-06-19,Uruguay,England,Brazil
+2014-06-20,Honduras,Ecuador,Brazil
+2014-06-20,Italy,Costa Rica,Brazil
+2014-06-20,Switzerland,France,Brazil
+2014-06-21,Argentina,Iran,Brazil
+2014-06-21,Germany,Ghana,Brazil
+2014-06-21,Nigeria,Bosnia and Herzegovina,Brazil
+2014-06-22,Belgium,Russia,Brazil
+2014-06-22,South Korea,Algeria,Brazil
+2014-06-22,United States,Portugal,Brazil
+2014-06-23,Australia,Spain,Brazil
+2014-06-23,Brazil,Cameroon,Brazil
+2014-06-23,Croatia,Mexico,Brazil
+2014-06-23,Netherlands,Chile,Brazil
+2014-06-24,Costa Rica,England,Brazil
+2014-06-24,Greece,Ivory Coast,Brazil
+2014-06-24,Italy,Uruguay,Brazil
+2014-06-24,Japan,Colombia,Brazil
+2014-06-25,Bosnia and Herzegovina,Iran,Brazil
+2014-06-25,Ecuador,France,Brazil
+2014-06-25,Honduras,Switzerland,Brazil
+2014-06-25,Nigeria,Argentina,Brazil
+2014-06-26,Algeria,Russia,Brazil
+2014-06-26,South Korea,Belgium,Brazil
+2014-06-26,Portugal,Ghana,Brazil
+2014-06-26,United States,Germany,Brazil
+2014-06-28,Brazil,Chile,Brazil
+2014-06-28,Colombia,Uruguay,Brazil
+2014-06-29,Costa Rica,Greece,Brazil
+2014-06-29,Netherlands,Mexico,Brazil
+2014-06-30,France,Nigeria,Brazil
+2014-06-30,Germany,Algeria,Brazil
+2014-07-01,Argentina,Switzerland,Brazil
+2014-07-01,Belgium,United States,Brazil
+2014-07-04,Brazil,Colombia,Brazil
+2014-07-04,France,Germany,Brazil
+2014-07-05,Argentina,Belgium,Brazil
+2014-07-05,Netherlands,Costa Rica,Brazil
+2014-07-08,Brazil,Germany,Brazil
+2014-07-09,Netherlands,Argentina,Brazil
+2014-07-12,Brazil,Netherlands,Brazil
+2014-07-13,Germany,Argentina,Brazil
+2018-06-14,Russia,Saudi Arabia,Russia
+2018-06-15,Egypt,Uruguay,Russia
+2018-06-15,Morocco,Iran,Russia
+2018-06-15,Portugal,Spain,Russia
+2018-06-16,France,Australia,Russia
+2018-06-16,Argentina,Iceland,Russia
+2018-06-16,Peru,Denmark,Russia
+2018-06-16,Croatia,Nigeria,Russia
+2018-06-17,Costa Rica,Serbia,Russia
+2018-06-17,Germany,Mexico,Russia
+2018-06-17,Brazil,Switzerland,Russia
+2018-06-18,Sweden,South Korea,Russia
+2018-06-18,Belgium,Panama,Russia
+2018-06-18,Tunisia,England,Russia
+2018-06-19,Colombia,Japan,Russia
+2018-06-19,Poland,Senegal,Russia
+2018-06-19,Russia,Egypt,Russia
+2018-06-20,Portugal,Morocco,Russia
+2018-06-20,Uruguay,Saudi Arabia,Russia
+2018-06-20,Iran,Spain,Russia
+2018-06-21,Denmark,Australia,Russia
+2018-06-21,France,Peru,Russia
+2018-06-21,Argentina,Croatia,Russia
+2018-06-22,Brazil,Costa Rica,Russia
+2018-06-22,Nigeria,Iceland,Russia
+2018-06-22,Serbia,Switzerland,Russia
+2018-06-23,Belgium,Tunisia,Russia
+2018-06-23,South Korea,Mexico,Russia
+2018-06-23,Germany,Sweden,Russia
+2018-06-24,England,Panama,Russia
+2018-06-24,Japan,Senegal,Russia
+2018-06-24,Poland,Colombia,Russia
+2018-06-25,Russia,Uruguay,Russia
+2018-06-25,Saudi Arabia,Egypt,Russia
+2018-06-25,Spain,Morocco,Russia
+2018-06-25,Iran,Portugal,Russia
+2018-06-26,Australia,Peru,Russia
+2018-06-26,Denmark,France,Russia
+2018-06-26,Nigeria,Argentina,Russia
+2018-06-26,Iceland,Croatia,Russia
+2018-06-27,South Korea,Germany,Russia
+2018-06-27,Mexico,Sweden,Russia
+2018-06-27,Serbia,Brazil,Russia
+2018-06-27,Switzerland,Costa Rica,Russia
+2018-06-28,Japan,Poland,Russia
+2018-06-28,Senegal,Colombia,Russia
+2018-06-28,Panama,Tunisia,Russia
+2018-06-28,England,Belgium,Russia
+2018-06-30,France,Argentina,Russia
+2018-06-30,Uruguay,Portugal,Russia
+2018-07-01,Russia,Spain,Russia
+2018-07-01,Croatia,Denmark,Russia
+2018-07-02,Brazil,Mexico,Russia
+2018-07-02,Belgium,Japan,Russia
+2018-07-03,Sweden,Switzerland,Russia
+2018-07-03,Colombia,England,Russia
+2018-07-06,Uruguay,France,Russia
+2018-07-06,Brazil,Belgium,Russia
+2018-07-07,Sweden,England,Russia
+2018-07-07,Russia,Croatia,Russia
+2018-07-10,France,Belgium,Russia
+2018-07-11,Croatia,England,Russia
+2018-07-14,Belgium,England,Russia
+2018-07-15,France,Croatia,Russia
+2022-11-20,Qatar,Ecuador,Qatar
+2022-11-21,Senegal,Netherlands,Qatar
+2022-11-21,England,Iran,Qatar
+2022-11-21,United States,Wales,Qatar
+2022-11-22,Argentina,Saudi Arabia,Qatar
+2022-11-22,Mexico,Poland,Qatar
+2022-11-22,Denmark,Tunisia,Qatar
+2022-11-22,France,Australia,Qatar
+2022-11-23,Germany,Japan,Qatar
+2022-11-23,Spain,Costa Rica,Qatar
+2022-11-23,Morocco,Croatia,Qatar
+2022-11-23,Belgium,Canada,Qatar
+2022-11-24,Switzerland,Cameroon,Qatar
+2022-11-24,Brazil,Serbia,Qatar
+2022-11-24,Uruguay,South Korea,Qatar
+2022-11-24,Portugal,Ghana,Qatar
+2022-11-25,Qatar,Senegal,Qatar
+2022-11-25,Netherlands,Ecuador,Qatar
+2022-11-25,Wales,Iran,Qatar
+2022-11-25,England,United States,Qatar
+2022-11-26,Poland,Saudi Arabia,Qatar
+2022-11-26,Argentina,Mexico,Qatar
+2022-11-26,Tunisia,Australia,Qatar
+2022-11-26,France,Denmark,Qatar
+2022-11-27,Japan,Costa Rica,Qatar
+2022-11-27,Spain,Germany,Qatar
+2022-11-27,Belgium,Morocco,Qatar
+2022-11-27,Croatia,Canada,Qatar
+2022-11-28,Cameroon,Serbia,Qatar
+2022-11-28,Brazil,Switzerland,Qatar
+2022-11-28,South Korea,Ghana,Qatar
+2022-11-28,Portugal,Uruguay,Qatar
+2022-11-29,Ecuador,Senegal,Qatar
+2022-11-29,Qatar,Netherlands,Qatar
+2022-11-29,Wales,England,Qatar
+2022-11-29,Iran,United States,Qatar
+2022-11-30,Poland,Argentina,Qatar
+2022-11-30,Saudi Arabia,Mexico,Qatar
+2022-11-30,Australia,Denmark,Qatar
+2022-11-30,Tunisia,France,Qatar
+2022-12-01,Japan,Spain,Qatar
+2022-12-01,Costa Rica,Germany,Qatar
+2022-12-01,Croatia,Belgium,Qatar
+2022-12-01,Canada,Morocco,Qatar
+2022-12-02,Serbia,Switzerland,Qatar
+2022-12-02,Cameroon,Brazil,Qatar
+2022-12-02,Ghana,Uruguay,Qatar
+2022-12-02,South Korea,Portugal,Qatar
+2022-12-03,Netherlands,United States,Qatar
+2022-12-03,Argentina,Australia,Qatar
+2022-12-04,France,Poland,Qatar
+2022-12-04,England,Senegal,Qatar
+2022-12-05,Japan,Croatia,Qatar
+2022-12-05,Brazil,South Korea,Qatar
+2022-12-06,Morocco,Spain,Qatar
+2022-12-06,Portugal,Switzerland,Qatar
+2022-12-09,Croatia,Brazil,Qatar
+2022-12-09,Netherlands,Argentina,Qatar
+2022-12-10,Morocco,Portugal,Qatar
+2022-12-10,England,France,Qatar
+2022-12-13,Argentina,Croatia,Qatar
+2022-12-14,France,Morocco,Qatar
+2022-12-17,Croatia,Morocco,Qatar
+2022-12-18,Argentina,France,Qatar

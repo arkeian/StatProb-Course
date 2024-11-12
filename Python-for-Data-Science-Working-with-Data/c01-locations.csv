@@ -1,0 +1,2139 @@
+id,city,country
+0,Glasgow,Scotland
+1,London,England
+2,Wrexham,Wales
+3,Blackburn,England
+4,Belfast,Ireland
+5,Liverpool,England
+6,Sheffield,England
+7,Manchester,England
+8,Newark,United States
+9,Crewe,England
+10,Edinburgh,Scotland
+11,Stoke-on-Trent,England
+12,Shrewsbury,England
+13,Paisley,Scotland
+14,Sunderland,England
+15,Wolverhampton,England
+16,Bangor,Wales
+17,Birmingham,England
+18,Richmond,England
+19,Swansea,Wales
+20,Kilmarnock,Scotland
+21,Derby,England
+22,Cardiff,Wales
+23,Dundee,Scotland
+24,Nottingham,England
+25,Llandudno,Wales
+26,Motherwell,Scotland
+27,Bristol,England
+28,Aberdeen,Scotland
+29,Dublin,Ireland
+30,Southampton,England
+31,Newcastle,England
+32,Greenock,Scotland
+33,Montevideo,Uruguay
+34,Vienna,Austria
+35,Portsmouth,England
+36,Budapest,Hungary
+37,Buenos Aires,Argentina
+38,Brussels,Belgium
+39,Paris,France
+40,Middlesbrough,England
+41,Antwerp,Belgium
+42,Rotterdam,Netherlands
+43,Saint-Cloud,France
+44,Prague,Bohemia
+45,Haarlem,Netherlands
+46,Geneva,Switzerland
+47,Basel,Switzerland
+48,Aberdare,Wales
+49,Colombes,France
+50,Gothenburg,Sweden
+51,The Hague,Netherlands
+52,Bradford,England
+53,Karlsruhe,Germany
+54,Gentilly,France
+55,Arnhem,Netherlands
+56,Milan,Italy
+57,Duisburg,Germany
+58,Viña del Mar,Chile
+59,Kristiania,Norway
+60,Kleve,Germany
+61,Maisons-Alfort,France
+62,Zürich,Switzerland
+63,Stuttgart,Germany
+64,Dordrecht,Netherlands
+65,Saint-Ouen,France
+66,Liège,Belgium
+67,Uccle,Belgium
+68,La Chaux-de-Fonds,Switzerland
+69,Solna,Sweden
+70,Dresden,Germany
+71,Helsinki,Finland
+72,Hamburg,Germany
+73,Luxembourg,Luxembourg
+74,Munich,Germany
+75,Turin,Italy
+76,Zwolle,Netherlands
+77,St. Gallen,Switzerland
+78,Stockholm,Sweden
+79,Moscow,Russia
+80,Avellaneda,Argentina
+81,Copenhagen,Denmark
+82,Leipzig,Germany
+83,Barcelona,Spain
+84,Genoa,Italy
+85,Freiburg,Germany
+86,Verviers,Belgium
+87,Lille,France
+88,Amsterdam,Netherlands
+89,Berne,Switzerland
+90,Bilbao,Spain
+91,Madrid,Spain
+92,Tokyo,Japan
+93,Helsingborg,Sweden
+94,Rio de Janeiro,Brazil
+95,Asunción,Paraguay
+96,Oslo,Norway
+97,Berlin,Germany
+98,Marseille,France
+99,Forest,Belgium
+100,Shanghai,China PR
+101,Montréal,Canada
+102,Tallinn,Estonia
+103,Guatemala,Guatemala
+104,Prague,Czechoslovakia
+105,Vincennes,France
+106,Rennes,France
+107,Frankfurt am Main,Germany
+108,Le Bouscat,France
+109,Kraków,Poland
+110,Bergen,Norway
+111,Belgrade,Yugoslavia
+112,Dunedin,New Zealand
+113,Wellington,New Zealand
+114,Zagreb,Yugoslavia
+115,Bochum,Germany
+116,Auckland,New Zealand
+117,Cernăuţi,Romania
+118,Fredrikstad,Norway
+119,Riga,Latvia
+120,West Bromwich,England
+121,São Paulo,Brazil
+122,Vigo,Spain
+123,Bologna,Italy
+124,Lisbon,Portugal
+125,Seville,Spain
+126,San Sebastián,Spain
+127,Esch-sur-Alzette,Luxembourg
+128,Belfast,Northern Ireland
+129,Lausanne,Switzerland
+130,Osaka,Japan
+131,Brisbane,Australia
+132,Bucharest,Romania
+133,Sydney,Australia
+134,Gävle,Sweden
+135,Kaunas,Lithuania
+136,Newcastle,Australia
+137,Cluj,Romania
+138,Lwów,Poland
+139,Istanbul,Turkey
+140,Mexico City,Mexico
+141,Montrouge,France
+142,Nuremberg,Germany
+143,Oranjestad,Aruba
+144,Le Havre,France
+145,Warsaw,Poland
+146,Łódź,Poland
+147,Adelaide,Australia
+148,Moscow,Soviet Union
+149,Port-au-Prince,Haiti
+150,Ankara,Turkey
+151,Manila,Philippines
+152,Sofia,Bulgaria
+153,Valencia,Spain
+154,Aarhus,Denmark
+155,Padua,Italy
+156,New York,United States
+157,Kingston,Jamaica
+158,Toulouse,France
+159,Düsseldorf,Germany
+160,Nairobi,Kenya
+161,Prague,Czech Republic
+162,Poznań,Poland
+163,Santiago,Chile
+164,Porto,Portugal
+165,Santander,Spain
+166,Norrköping,Sweden
+167,Christchurch,New Zealand
+168,Altona,Germany
+169,Lima,Peru
+170,Tegucigalpa,Honduras
+171,Cologne,Germany
+172,Burnley,England
+173,Georgetown,British Guyana
+174,Rome,Italy
+175,Arad,Romania
+176,Kampala,Uganda
+177,Gijón,Spain
+178,Katowice,Poland
+179,San Salvador,El Salvador
+180,Mannheim,Germany
+181,Zaragoza,Spain
+182,Bridgetown,Barbados
+183,Dublin,Irish Free State
+184,Landskrona,Sweden
+185,Malmö,Sweden
+186,Port of Spain,Trinidad and Tobago
+187,Athens,Greece
+188,Willemstad,Curaçao
+189,Klaipėda,Lithuania
+190,Breslau,Germany
+191,Sandviken,Sweden
+192,Västerås,Sweden
+193,Hanover,Germany
+194,Naples,Italy
+195,Cairo,Egypt
+196,Roseau,Dominica
+197,Oviedo,Spain
+198,Liepāja,Latvia
+199,Blackpool,England
+200,Florence,Italy
+201,Magdeburg,Germany
+202,Basse-Terre,Guadeloupe
+203,Tel Aviv,Palestine
+204,Trieste,Italy
+205,Girona,Spain
+206,Paramaribo,Netherlands Guyana
+207,Dortmund,Germany
+208,Erfurt,Germany
+209,Stettin,Germany
+210,Königsberg,Germany
+211,Cayenne,French Guiana
+212,Krefeld,Germany
+213,Chorzów,Poland
+214,Turku,Finland
+215,Wuppertal,Germany
+216,Havana,Cuba
+217,Strasbourg,France
+218,Reims,France
+219,Bordeaux,France
+220,Antibes,France
+221,Bogotá,Colombia
+222,Basseterre,Saint Kitts and Nevis
+223,Chemnitz,Germany
+224,Dublin,Éire
+225,Melbourne,Australia
+226,Cork,Éire
+227,Differdange,Luxembourg
+228,Brest,France
+229,Bremen,Germany
+230,Karlstad,Sweden
+231,Panama City,Panama
+232,Prague,Bohemia and Moravia
+233,Bratislava,Slovakia
+234,Xinjing,Manchuria
+235,San Martín,Argentina
+236,Zagreb,Croatia
+237,Vienna,Germany
+238,Nishinomiya,Japan
+239,Kaunas,Soviet Union
+240,Riga,Soviet Union
+241,San José,Costa Rica
+242,Kabul,Afghanistan
+243,Fort-de-France,Martinique
+244,Beuthen,Germany
+245,Tallinn,Soviet Union
+246,Oeiras,Portugal
+247,La Coruña,Spain
+248,Vilnius,Soviet Union
+249,Charleroi,Belgium
+250,Salisbury,Southern Rhodesia
+251,Reykjavík,Iceland
+252,Shkodër,Albania
+253,Tirana,Albania
+254,Huddersfield,England
+255,Antananarivo,Madagascar
+256,Kitwe,Northern Rhodesia
+257,Borås,Sweden
+258,Dar es Salaam,Tanganyika
+259,Tehran,Iran
+260,San Fernando,Trinidad and Tobago
+261,Guayaquil,Ecuador
+262,Djibouti,French Somaliland
+263,Bari,Italy
+264,Brazzaville,Belgian Congo
+265,Curepipe,Mauritius
+266,East Rutherford,United States
+267,Bratislava,Czechoslovakia
+268,Pointe-à-Pitre,Guadeloupe
+269,So Kon Po,Hong Kong
+270,Saigon,Vietnam
+271,Macau,Macau
+272,Dublin,Republic of Ireland
+273,Santos,Brazil
+274,Addis Ababa,Ethiopia
+275,Belo Horizonte,Brazil
+276,Paramaribo,Suriname
+277,San Juan,Puerto Rico
+278,Saint-Pierre,Réunion
+279,Debrecen,Hungary
+280,Tel Aviv,Israel
+281,Freetown,Sierra Leone
+282,Ostrava,Czechoslovakia
+283,Zanzibar Town,Zanzibar
+284,Zanzibar,Zanzibar
+285,La Paz,Bolivia
+286,Wan Chai,Hong Kong
+287,Wrocław,Poland
+288,Accra,Gold Coast
+289,Bulawayo,Southern Rhodesia
+290,Durban,South Africa
+291,Curitiba,Brazil
+292,Porto Alegre,Brazil
+293,Johannesburg,South Africa
+294,Recife,Brazil
+295,Port Elizabeth,South Africa
+296,Cape Town,South Africa
+297,Willemstad,Netherlands Antilles
+298,Trondheim,Norway
+299,Nouméa,New Caledonia
+300,Suva,Fiji
+301,Lagos,Nigeria
+302,Lugano,Switzerland
+303,Caracas,Venezuela
+304,Essen,Germany
+305,Oranjestad,Netherlands Antilles
+306,Colombo,Ceylon
+307,Lautoka,Fiji
+308,Pirae,French Polynesia
+309,Augsburg,Germany
+310,Ludwigshafen,Germany
+311,Palermo,Italy
+312,Banjul,Gambia
+313,Kallang,Singapore
+314,Bathurst,Gambia
+315,Bissau,Portuguese Guinea
+316,Dresden,German DR
+317,Port Vila,New Hebrides
+318,Byton,Poland
+319,Cornwall,England
+320,Yangon,Burma
+321,Saarbrücken,Saarland
+322,Skopje,Yugoslavia
+323,Ramat-Gan,Israel
+324,Berlin,German DR
+325,Victoria,Hong Kong
+326,Kalmar,Sweden
+327,Rostock,German DR
+328,Sarajevo,Yugoslavia
+329,Phnom Penh,Cambodia
+330,Calcutta,India
+331,Beirut,Lebanon
+332,Brno,Czechoslovakia
+333,Papeete,French Polynesia
+334,Dhaka,Pakistan
+335,Kuala Lumpur,Malaya
+336,Seoul,South Korea
+337,Saigon,Vietnam Republic
+338,New Delhi,India
+339,Karl-Marx-Stadt,German DR
+340,Beijing,China PR
+341,Paysandú,Uruguay
+342,Lomé,Togo
+343,Jakarta,Indonesia
+344,Khartoum,Sudan
+345,Gżira,Malta
+346,Long Beach,United States
+347,Leipzig,German DR
+348,Damascus,Syria
+349,Nantes,France
+350,Tunis,Tunisia
+351,Tampere,Finland
+352,Toronto,Canada
+353,Medellín,Colombia
+354,St. Louis,United States
+355,Blantyre,Nyasaland
+356,Singapore,Singapore
+357,Accra,Ghana
+358,Casablanca,Morocco
+359,Uddevalla,Sweden
+360,Halmstad,Sweden
+361,Örebro,Sweden
+362,Eskilstuna,Sweden
+363,Eindhoven,Netherlands
+364,Cairo,United Arab Republic
+365,George Town,Malaya
+366,Los Angeles,United States
+367,Pyongyang,North Korea
+368,Cotonou,Dahomey
+369,Ernakulam,India
+370,Bissau,Guinea-Bissau
+371,Kumasi,Ghana
+372,Surakarta,Indonesia
+373,Alexandria,United Arab Republic
+374,Esbjerg,Denmark
+375,Bamako,Mali Federation
+376,Bamako,Mali
+377,Ibadan,Nigeria
+378,Hanoi,Vietnam DR
+379,Nicosia,Cyprus
+380,Baghdad,Iraq
+381,Castries,Saint Lucia
+382,Erfurt,German DR
+383,Mombasa,Kenya
+384,Barranquilla,Colombia
+385,Dakar,Senegal
+386,Tripoli,Libya
+387,Cali,Colombia
+388,Rancagua,Chile
+389,Arica,Chile
+390,Libreville,Gabon
+391,Bangkok,Thailand
+392,Cochabamba,Bolivia
+393,Odense,Denmark
+394,Brazzaville,Congo
+395,Dar es Salaam,Tanzania
+396,St. George's,Grenada
+397,Conakry,Guinea
+398,Bangui,Central African Republic
+399,Yaoundé,Cameroon
+400,Algiers,Algeria
+401,Kuwait City,Kuwait
+402,Peshawar,Pakistan
+403,Benin City,Nigeria
+404,Lahore,Pakistan
+405,Karachi,Pakistan
+406,Abidjan,Ivory Coast
+407,Santa Ana,El Salvador
+408,Semarang,Indonesia
+409,Oran,Algeria
+410,Suva,Lautoka
+411,Magdeburg,German DR
+412,Szczecin,Poland
+413,Monrovia,Liberia
+414,Niš,Yugoslavia
+415,Haifa,Israel
+416,Jaffa,Israel
+417,Jerusalem,Israel
+418,Zomba,Nyasaland
+419,Kuala Lumpur,Malaysia
+420,Ipoh,Malaysia
+421,Zanzibar,Tanzania
+422,Lusaka,Northern Rhodesia
+423,Luanshya,Northern Rhodesia
+424,Chingola,Northern Rhodesia
+425,Ndola,Northern Rhodesia
+426,San Pedro Sula,Honduras
+427,Amman,Jordan
+428,Luleå,Sweden
+429,Varna,Bulgaria
+430,Ndola,Zambia
+431,Kitwe,Zambia
+432,Lusaka,Zambia
+433,Piraeus,Greece
+434,Famagusta,Cyprus
+435,Sousse,Tunisia
+436,Sfax,Tunisia
+437,Bizerte,Tunisia
+438,Kingstown,Saint Vincent and the Grenadines
+439,Hamilton,Bermuda
+440,Niamey,Niger
+441,Titograd,Yugoslavia
+442,Habbaniyah,Iraq
+443,Kut,Iraq
+444,Vilnius,Lithuania
+445,Blantyre,Malawi
+446,Lilongwe,Malawi
+447,Kinshasa,DR Congo
+448,Stavanger,Norway
+449,Gera,German DR
+450,Salonica,Greece
+451,Bruges,Belgium
+452,Ploiești,Romania
+453,Guadalajara,Mexico
+454,Ouagadougou,Upper Volta
+455,Leningrad,Soviet Union
+456,Volgograd,Soviet Union
+457,Minsk,Soviet Union
+458,Tbilisi,Soviet Union
+459,Taipei,Taiwan
+460,Georgetown,Guyana
+461,Nouakchott,Mauritania
+462,Cosenza,Italy
+463,Salisbury,Rhodesia
+464,Port Louis,Mauritius
+465,Riyadh,Saudi Arabia
+466,Cagliari,Italy
+467,Asmara,Ethiopia
+468,León,Mexico
+469,İzmir,Turkey
+470,Linz,Austria
+471,Mbabane,Eswatini
+472,Maputo,Mozambique
+473,Mufulira,Zambia
+474,Philadelphia,United States
+475,Waregem,Belgium
+476,Mbale,Uganda
+477,Lyon,France
+478,Atlanta,United States
+479,Kansas City,United States
+480,Rosario,Argentina
+481,Douala,Cameroon
+482,Mar del Plata,Argentina
+483,Zomba,Malawi
+484,Las Palmas,Spain
+485,Split,Yugoslavia
+486,Agadir,Morocco
+487,San Diego,United States
+488,Växjö,Sweden
+489,La Plata,Argentina
+490,Halle,German DR
+491,Aalborg,Denmark
+492,Port Moresby,Papua New Guinea
+493,Kyiv,Soviet Union
+494,La Línea de la Concepción,Spain
+495,Wad Madani,Sudan
+496,Puebla,Mexico
+497,Isa Town,Bahrain
+498,Rouen,France
+499,Quito,Ecuador
+500,Toluca,Mexico
+501,El Progreso,Honduras
+502,Jena,German DR
+503,George Town,Malaysia
+504,Benghazi,Libya
+505,Nice,France
+506,Graz,Austria
+507,Porto-Novo,Dahomey
+508,Maseru,Lesotho
+509,Lucerne,Switzerland
+510,Novi Sad,Yugoslavia
+511,Granada,Spain
+512,Arima,Trinidad and Tobago
+513,Kisumu,Kenya
+514,Nakuru,Kenya
+515,Mogadishu,Somalia
+516,Kingston upon Hull,England
+517,Plzeň,Czechoslovakia
+518,Salta,Argentina
+519,Natal,Brazil
+520,Campo Grande,Brazil
+521,Salvador,Brazil
+522,Manaus,Brazil
+523,Kinshasa,Zaïre
+524,Vaasa,Finland
+525,St. John's,Canada
+526,Baltimore,United States
+527,Craiova,Romania
+528,Colombo,Sri Lanka
+529,Bydgoszcz,Poland
+530,St. John's,Antigua and Barbuda
+531,Akdoğan,Cyprus
+532,Rabat,Morocco
+533,Málaga,Spain
+534,Tétouan,Morocco
+535,Plovdiv,Bulgaria
+536,Coventry,England
+537,Klaksvík,Faroe Islands
+538,Chicago,United States
+539,Windsor,Canada
+540,Monterrey,Mexico
+541,San Francisco,United States
+542,New Britain,United States
+543,Deventer,Netherlands
+544,Hartford,United States
+545,Gelsenkirchen,Germany
+546,Beer Sheva,Israel
+547,Morphou,Cyprus
+548,Doha,Qatar
+549,Manama,Bahrain
+550,El Mahalla El Kubra,Egypt
+551,Alexandria,Egypt
+552,Damanhur,Egypt
+553,Zalaegerszeg,Hungary
+554,Zenica,Yugoslavia
+555,Brasília,Brazil
+556,Aden,Yemen DPR
+557,Odessa,Soviet Union
+558,Székesfehérvár,Hungary
+559,Oulu,Finland
+560,Tórshavn,Faroe Islands
+561,Bujumbura,Burundi
+562,Dallas,United States
+563,Frankfurt an der Oder,German DR
+564,Szolnok,Hungary
+565,Goiânia,Brazil
+566,Fez,Morocco
+567,Kaolack,Senegal
+568,Limassol,Cyprus
+569,Seattle,United States
+570,Oruro,Bolivia
+571,Ottawa,Canada
+572,Tamuning,Guam
+573,La Chorrera,Panama
+574,Nijmegen,Netherlands
+575,Szombathely,Hungary
+576,Chingola,Zambia
+577,Setúbal,Portugal
+578,N'Djamena,Chad
+579,Podgorica,Yugoslavia
+580,Luanda,Angola
+581,Dire Dawa,Ethiopia
+582,Košice,Czechoslovakia
+583,Santo Domingo,Dominican Republic
+584,Banja Luka,Yugoslavia
+585,Cottbus,German DR
+586,Lens,France
+587,Veliko Tărnovo,Bulgaria
+588,Kuopio,Finland
+589,New Haven,United States
+590,Mahé,Seychelles
+591,Victoria,Seychelles
+592,São Tomé,São Tomé and Príncipe
+593,Canberra,Australia
+594,Gosford,Australia
+595,Vejle,Denmark
+596,Patras,Greece
+597,Vancouver,Canada
+598,Gaborone,Botswana
+599,Dammam,Saudi Arabia
+600,Sliven,Bulgaria
+601,Kavála,Greece
+602,Jeddah,Saudi Arabia
+603,Kyrenia,Cyprus
+604,Acarigua,Venezuela
+605,Brikama,Gambia
+606,Bouaké,Ivory Coast
+607,Capesterre-Belle-Eau,Guadeloupe
+608,Ba,Fiji
+609,Alicante,Spain
+610,Funchal,Portugal
+611,Shiraz,Iran
+612,Salzburg,Austria
+613,Hong Kong,Hong Kong
+614,Busan,South Korea
+615,Daegu,South Korea
+616,Pointe-à-Pierre,Trinidad and Tobago
+617,Linden,Guyana
+618,Monterey Park,United States
+619,Washington,United States
+620,Potsdam,German DR
+621,Faro,Portugal
+622,Porto-Novo,Benin
+623,Marrakech,Morocco
+624,Saint-Pierre,Martinique
+625,Yerevan,Soviet Union
+626,Villeneuve-d'Ascq,France
+627,Nagoya,Japan
+628,Mendoza,Argentina
+629,Córdoba,Argentina
+630,Lobamba,Eswatini
+631,Lokeren,Belgium
+632,Saint-Denis,Réunion
+633,Arusha,Tanzania
+634,Constantine,Algeria
+635,Salamanca,Spain
+636,Kigali,Rwanda
+637,Larnaca,Cyprus
+638,Burgas,Bulgaria
+639,Bursa,Turkey
+640,Dhaka,Bangladesh
+641,Simferopol,Soviet Union
+642,Cotonou,Benin
+643,Mohammedia,Morocco
+644,Lubumbashi,Zaïre
+645,San Cristóbal,Venezuela
+646,Słupsk,Poland
+647,Mikkeli,Finland
+648,Nausori,Fiji
+649,Nyíregyháza,Hungary
+650,Chungju,South Korea
+651,Incheon,South Korea
+652,Abu Dhabi,United Arab Emirates
+653,Titova Mitrovica,Yugoslavia
+654,Cádiz,Spain
+655,Udine,Italy
+656,Texcoco,Mexico
+657,Khobar,Saudi Arabia
+658,Meknès,Morocco
+659,Bulawayo,Zimbabwe
+660,Salisbury,Zimbabwe
+661,Borovo,Yugoslavia
+662,Medan,Indonesia
+663,Guangzhou,China PR
+664,Akureyri,Iceland
+665,Santa Cruz,Bolivia
+666,Sauðárkrókur,Iceland
+667,Húsavík,Iceland
+668,Vitoria-Gasteiz,Spain
+669,Al Ain,United Arab Emirates
+670,Chuncheon,South Korea
+671,Fortaleza,Brazil
+672,Daejeon,South Korea
+673,Gwangju,South Korea
+674,Edmonton,Canada
+675,Ljubljana,Yugoslavia
+676,Fort Lauderdale,United States
+677,Port Sudan,Sudan
+678,Fès,Morocco
+679,Harare,Zimbabwe
+680,Maldonado,Uruguay
+681,Cuiabá,Brazil
+682,Valencia,Venezuela
+683,Naruto,Japan
+684,Kuantan,Malaysia
+685,Muscat,Oman
+686,Groningen,Netherlands
+687,Lahti,Finland
+688,Ribeirão Preto,Brazil
+689,Subotica,Yugoslavia
+690,Gwelo,Zimbabwe
+691,Umtali,Zimbabwe
+692,Pleven,Bulgaria
+693,Senftenberg,German DR
+694,Malabo,Equatorial Guinea
+695,Saitama,Japan
+696,Jeonju,South Korea
+697,Nchalo,Malawi
+698,Saint-Paul,Réunion
+699,Surabaya,Indonesia
+700,Kotka,Finland
+701,Barquisimeto,Venezuela
+702,Kenitra,Morocco
+703,Calabar,Nigeria
+704,Sharjah,United Arab Emirates
+705,Chonburi,Thailand
+706,Dodoma,Tanzania
+707,Haskovo,Bulgaria
+708,Bobo Dioulasso,Upper Volta
+709,Praia,Cape Verde
+710,Balzers,Liechtenstein
+711,Kathmandu,Nepal
+712,Ruse,Bulgaria
+713,Hunedoara,Romania
+714,São Luís,Brazil
+715,Uberlândia,Brazil
+716,Hiroshima,Japan
+717,Messina,Italy
+718,Vaduz,Liechtenstein
+719,Elche,Spain
+720,Valladolid,Spain
+721,Hammam Lif,Tunisia
+722,Gøta,Faroe Islands
+723,Kota Bharu,Malaysia
+724,Győr,Hungary
+725,Jinja,Uganda
+726,Aachen,Germany
+727,Ioannina,Greece
+728,Attard,Malta
+729,Marsa,Malta
+730,Lárisa,Greece
+731,Guimarães,Portugal
+732,Kaduna,Nigeria
+733,Târgu Mureș,Romania
+734,Timişoara,Romania
+735,Coimbra,Portugal
+736,Utrecht,Netherlands
+737,Suwon,South Korea
+738,Nuuk,Greenland
+739,Alajuela,Costa Rica
+740,Saint-Denis,France
+741,Port Vila,Vanuatu
+742,Njarðvík,Iceland
+743,Antofagasta,Chile
+744,Nadi,Fiji
+745,Apia,Western Samoa
+746,Neuchâtel,Switzerland
+747,Seremban,Malaysia
+748,Saarbrücken,Germany
+749,Morelia,Mexico
+750,Irapuato,Mexico
+751,Belmopan,Belize
+752,Perugia,Italy
+753,Bakau,Gambia
+754,Yamoussoukro,Ivory Coast
+755,Port Said,Egypt
+756,Bandar Seri Begawan,Brunei
+757,Djibouti,Djibouti
+758,Verona,Italy
+759,Oradea,Romania
+760,Ettelbruck,Luxembourg
+761,Kouvola,Finland
+762,Pori,Finland
+763,Sapporo,Japan
+764,Saint-Étienne,France
+765,Colón,Panama
+766,Mzuzu,Malawi
+767,Sandefjord,Norway
+768,Iași,Romania
+769,Buzău,Romania
+770,Fuglafjørður,Faroe Islands
+771,Solo,Indonesia
+772,Drammen,Norway
+773,Johor Bahru,Malaysia
+774,Zwickau,German DR
+775,Aue,German DR
+776,Mwanza,Tanzania
+777,Nezahualcóyotl,Mexico
+778,Zabrze,Poland
+779,Mielec,Poland
+780,Antalya,Turkey
+781,Ouagadougou,Burkina Faso
+782,Jubail,Saudi Arabia
+783,Petah Tikva,Israel
+784,Hempstead,United States
+785,Miami,United States
+786,Pescara,Italy
+787,Ismaila,Egypt
+788,Gweru,Zimbabwe
+789,Querétaro,Mexico
+790,Mashhad,Iran
+791,Tampa,United States
+792,Ambato,Ecuador
+793,Siu Sai Wan,Hong Kong
+794,Acapulco,Mexico
+795,Batna,Algeria
+796,Montego Bay,Jamaica
+797,Sibiu,Romania
+798,Palma de Mallorca,Spain
+799,Sion,Switzerland
+800,Sana'a,Yemen AR
+801,Tsévié,Togo
+802,Ascoli Piceno,Italy
+803,Portland,United States
+804,Riffa,Bahrain
+805,Victoria,Canada
+806,Pereira,Colombia
+807,David,Panama
+808,Opole,Poland
+809,Dubai,United Arab Emirates
+810,Torrance,United States
+811,Nampo,North Korea
+812,Cork,Republic of Ireland
+813,Mount Maunganui,New Zealand
+814,Gisborne,New Zealand
+815,Taif,Saudi Arabia
+816,Mindelo,Cape Verde
+817,Keflavík,Iceland
+818,Akranes,Iceland
+819,Bin Ghashir,Libya
+820,Kobe,Japan
+821,Heerenveen,Netherlands
+822,Ramat Gan,Israel
+823,Lae,Papua New Guinea
+824,San Jose,United States
+825,Lecce,Italy
+826,The Valley,Anguilla
+827,Adana,Turkey
+828,Leiria,Portugal
+829,Trivandrum,India
+830,Avellino,Italy
+831,Portimão,Portugal
+832,Braga,Portugal
+833,Nitra,Czechoslovakia
+834,Islamabad,Pakistan
+835,Gagny,France
+836,Matsuyama,Japan
+837,Burnaby,Canada
+838,Paynesville,Liberia
+839,Parramatta,Australia
+840,Innsbruck,Austria
+841,Managua,Nicaragua
+842,Pokhara,Nepal
+843,Mascara,Algeria
+844,Portalegre,Portugal
+845,Calicut,India
+846,Bergamo,Italy
+847,George Town,Cayman Islands
+848,Rybnik,Poland
+849,Bellinzona,Switzerland
+850,Machala,Ecuador
+851,Azogues,Ecuador
+852,Braşov,Romania
+853,Gdańsk,Poland
+854,Leeuwarden,Netherlands
+855,Brandenburg,German DR
+856,Aarau,Switzerland
+857,Gangneung,South Korea
+858,Masan,South Korea
+859,Cheongju,South Korea
+860,Florianópolis,Brazil
+861,Lubin,Poland
+862,Lower Hutt,New Zealand
+863,Pisa,Italy
+864,Castellón de la Plana,Spain
+865,Vlorë,Albania
+866,Rhodes,Greece
+867,Annaba,Algeria
+868,Monaco,Monaco
+869,Armenia,Colombia
+870,Ciudad Victoria,Mexico
+871,Trnava,Czechoslovakia
+872,Kaiserslautern,Germany
+873,Hangzhou,China PR
+874,San Marcos,Guatemala
+875,Stockton,United States
+876,Brescia,Italy
+877,Fresno,United States
+878,Albuquerque,United States
+879,Houston,United States
+880,Fort Worth,United States
+881,San Antonio,United States
+882,Berat,Albania
+883,Białystok,Poland
+884,La Serena,Chile
+885,Constanţa,Romania
+886,Bendigo,Australia
+887,Honiara,Solomon Islands
+888,Concepción,Chile
+889,Speers Point,Australia
+890,Enugu,Nigeria
+891,Margao,India
+892,Mazatenango,Guatemala
+893,Bejaia,Algeria
+894,Latakia,Syria
+895,Maturín,Venezuela
+896,Teresina,Brazil
+897,Taranto,Italy
+898,Philipsburg,Sint Maarten
+899,Okayama,Japan
+900,Windhoek,Namibia
+901,Vágur,Faroe Islands
+902,Sandavágur,Faroe Islands
+903,Sandur,Faroe Islands
+904,Shenyang,China PR
+905,Tlemcen,Algeria
+906,Cesena,Italy
+907,Vicenza,Italy
+908,João Pessoa,Brazil
+909,Cocoa Beach,United States
+910,Santa Cruz de Tenerife,Spain
+911,Bauchi,Nigeria
+912,Palo Alto,United States
+913,Montpellier,France
+914,Marigot,Saint Martin
+915,Campinas,Brazil
+916,Piscataway,United States
+917,Hershey,United States
+918,Nîmes,France
+919,Eschen,Liechtenstein
+920,Kuusankoski,Finland
+921,Ndjamena,Chad
+922,High Point,United States
+923,Belém,Brazil
+924,Serravalle,San Marino
+925,Vólos,Greece
+926,Maia,Portugal
+927,Rijeka,Croatia
+928,Terni,Italy
+929,Olomouc,Czechoslovakia
+930,Veracruz,Mexico
+931,Cáceres,Spain
+932,Salerno,Italy
+933,Denver,United States
+934,Savanna-la-Mar,Jamaica
+935,Radom,Poland
+936,Foxborough,United States
+937,Tendo,Japan
+938,Murska Sobota,Slovenia
+939,Åland,Finland
+940,Pasadena,United States
+941,Chișinău,Moldova
+942,Valparaíso,Chile
+943,Nagasaki,Japan
+944,Aosta,Italy
+945,Sucoma,Malawi
+946,Stara Zagora,Bulgaria
+947,Gdynia,Poland
+948,Varginha,Brazil
+949,Kretinga,Lithuania
+950,Leverkusen,Germany
+951,Foggia,Italy
+952,Ziguinchor,Senegal
+953,Torres Novas,Portugal
+954,Miami Gardens,United States
+955,Pontiac,United States
+956,Bat Yam,Israel
+957,Ciudad Madero,Mexico
+958,Uzhhorod,Ukraine
+959,Sittard,Netherlands
+960,Jastrzębie-Zdrój,Poland
+961,Almaty,Kazakhstan
+962,Gifu,Japan
+963,Brøndby,Denmark
+964,Toftir,Faroe Islands
+965,Orlando,United States
+966,Dushanbe,Tajikistan
+967,Tashkent,Uzbekistan
+968,Ashgabat,Turkmenistan
+969,Irbid,Jordan
+970,Jakobstad,Finland
+971,Trabzon,Turkey
+972,Xiaogan,China PR
+973,Saint John,Canada
+974,Aleppo,Syria
+975,Gurjaani,Georgia
+976,Paranavaí,Brazil
+977,Bishkek,Kyrgyzstan
+978,Greensboro,United States
+979,Yerevan,Armenia
+980,Anyang,South Korea
+981,Qyzylorda,Kazakhstan
+982,Manzini,Eswatini
+983,Minsk,Belarus
+984,Onomichi,Japan
+985,Kingston,Saint Vincent and the Grenadines
+986,Iława,Poland
+987,Campina Grande,Brazil
+988,Pointe-Noire,Congo
+989,Béja,Tunisia
+990,Madras,India
+991,Puerto Ordaz,Venezuela
+992,Tempe,United States
+993,Santa Barbara,United States
+994,Vantaa,Finland
+995,Fukuoka,Japan
+996,Coquitlam,Canada
+997,Dunajská Streda,Slovakia
+998,Brzeszcze,Poland
+999,Ljubljana,Slovenia
+1000,Kyoto,Japan
+1001,Yokohama,Japan
+1002,Costa Mesa,United States
+1003,Changwon,South Korea
+1004,Odessa,Ukraine
+1005,Ostrava,Czech Republic
+1006,Ulsan,South Korea
+1007,St. Sampson,Guernsey
+1008,Créteil,France
+1009,Napier,New Zealand
+1010,Fullerton,United States
+1011,Palmerston North,New Zealand
+1012,Gəncə,Azerbaijan
+1013,Mission Viejo,United States
+1014,Košice,Slovakia
+1015,Arequipa,Peru
+1016,Chengdu,China PR
+1017,Cuenca,Ecuador
+1018,Portoviejo,Ecuador
+1019,Pärnu,Estonia
+1020,Moanda,Gabon
+1021,Isle of Wight,England
+1022,Mapou,Mauritius
+1023,Caen,France
+1024,Maceió,Brazil
+1025,Oakland,United States
+1026,Kranj,Slovenia
+1027,Bethlehem,United States
+1028,Prievidza,Slovakia
+1029,Barinas,Venezuela
+1030,Kowloon,Hong Kong
+1031,Ashdod,Israel
+1032,West Bay,Cayman Islands
+1033,Paralímni,Cyprus
+1034,Skopje,North Macedonia
+1035,Villavicencio,Colombia
+1036,Cannes,France
+1037,Jacksonville,United States
+1038,Toulon,France
+1039,Tilburg,Netherlands
+1040,Davidson,United States
+1041,Mafikeng,South Africa
+1042,Chula Vista,United States
+1043,Maribor,Slovenia
+1044,St. Helier,Jersey
+1045,Tetovo,North Macedonia
+1046,Kyiv,Ukraine
+1047,Parma,Italy
+1048,Pomona,United States
+1049,Wakefield,United States
+1050,Duncanville,United States
+1051,Tbilisi,Georgia
+1052,Klagenfurt,Austria
+1053,Grassau,Austria
+1054,Ozolnieki,Latvia
+1055,Pretoria,South Africa
+1056,Ho Chi Minh City,Vietnam
+1057,Kalamáta,Greece
+1058,Tauranga,New Zealand
+1059,Jerez de la Frontera,Spain
+1060,Brno,Czech Republic
+1061,Ostrowiec Świętokrzyski,Poland
+1062,Plymouth,Montserrat
+1063,Sucre,Bolivia
+1064,Strumica,North Macedonia
+1065,Temuco,Chile
+1066,Toyama,Japan
+1067,Leeds,England
+1068,Valera,Venezuela
+1069,Coquimbo,Chile
+1070,Perth,Australia
+1071,Beira,Mozambique
+1072,Rivera,Uruguay
+1073,Quilmes,Argentina
+1074,Neskaupstaður,Iceland
+1075,Gibraltar,Gibraltar
+1076,Siófok,Hungary
+1077,Auxerre,France
+1078,Split,Croatia
+1079,Yangon,Myanmar
+1080,Diriamba,Nicaragua
+1081,Heraklion,Greece
+1082,Reggio Emilia,Italy
+1083,Mmabatho,South Africa
+1084,Hermosillo,Mexico
+1085,Palo Seco,Trinidad and Tobago
+1086,Anaheim,United States
+1087,Bloemfontein,South Africa
+1088,Vitrolles,France
+1089,Chalcis,Greece
+1090,Wollongong,Australia
+1091,Bourj Hammoud,Lebanon
+1092,Púla,Cyprus
+1093,Neiva,Colombia
+1094,Varaždin,Croatia
+1095,São José do Rio Preto,Brazil
+1096,Danlí,Honduras
+1097,Prilep,North Macedonia
+1098,Nitra,Slovakia
+1099,Baku,Azerbaijan
+1100,Osijek,Croatia
+1101,Zenica,Bosnia and Herzegovina
+1102,Trnava,Slovakia
+1103,Samsun,Turkey
+1104,Bayamón,Puerto Rico
+1105,Tabriz,Iran
+1106,Shizuoka,Japan
+1107,Rose Hill,Mauritius
+1108,Maladzečna,Belarus
+1109,Cremona,Italy
+1110,Belize City,Belize
+1111,Cap-Haïtien,Haiti
+1112,Narva,Estonia
+1113,Fürth,Germany
+1114,Bełchatów,Poland
+1115,Settat,Morocco
+1116,Jablonec nad Nisou nad Nisou,Czech Republic
+1117,Saint-Louis,Senegal
+1118,Teplice,Czech Republic
+1119,Wodzisław Śląski,Poland
+1120,Tripoli,Lebanon
+1121,Dhahran,Saudi Arabia
+1122,Sarajevo,Bosnia and Herzegovina
+1123,San Isidro de El General,Costa Rica
+1124,Richmond,United States
+1125,Nuku'alofa,Tonga
+1126,Nukuʻalofa,Tonga
+1127,Sant Julià de Lòria,Andorra
+1128,Celle Ligure,Italy
+1129,Kassala,Sudan
+1130,Cartago,Costa Rica
+1131,Mérida,Venezuela
+1132,Kunming,China PR
+1133,Denizli,Turkey
+1134,Agía Nápa,Cyprus
+1135,Dherynia,Cyprus
+1136,Heredia,Costa Rica
+1137,Jwaneng,Botswana
+1138,Muharraq,Bahrain
+1139,Shah Alam,Malaysia
+1140,San Ignacio,Belize
+1141,Kochi,India
+1142,Sana'a,Yemen
+1143,Bobo Dioulasso,Burkina Faso
+1144,Viljandi,Estonia
+1145,Jericho,Palestine
+1146,Batumi,Georgia
+1147,Sendai,Japan
+1148,Kuressaare,Estonia
+1149,St. Clement,Jersey
+1150,Grouville,Jersey
+1151,St. Peter,Jersey
+1152,St. Lawrence,Jersey
+1153,Maracaibo,Venezuela
+1154,Höfn,Iceland
+1155,Chililabombwe,Zambia
+1156,Tartu,Estonia
+1157,Obuasi,Ghana
+1158,Saint Petersburg,Russia
+1159,Dalian,China PR
+1160,Bandung,Indonesia
+1161,Olsztyn,Poland
+1162,Aswan,Egypt
+1163,Nicoya,Costa Rica
+1164,Garoua,Cameroon
+1165,Catania,Italy
+1166,Saint Croix,United States Virgin Islands
+1167,Olomouc,Czech Republic
+1168,Montecatini Terme,Italy
+1169,Bastia,France
+1170,Molde,Norway
+1171,Montélimar,France
+1172,Avignon,France
+1173,Baiersbronn,Germany
+1174,Valga,Estonia
+1175,Karksi-Nuia,Estonia
+1176,Koror,Palau
+1177,Bata,Equatorial Guinea
+1178,Abovyan,Armenia
+1179,Ponta Delgada,Portugal
+1180,Kohtla-Järve,Estonia
+1181,Hanoi,Vietnam
+1182,Avarua,Cook Islands
+1183,Tangier,Morocco
+1184,Luganville,Vanuatu
+1185,Kumanovo,North Macedonia
+1186,Songkhla,Thailand
+1187,Road Town,British Virgin Islands
+1188,Umm al-Fahm,Israel
+1189,Asmara,Eritrea
+1190,Abeokuta,Nigeria
+1191,Nassau,Bahamas
+1192,Mabopane,South Africa
+1193,Ancona,Italy
+1194,Luque,Paraguay
+1195,Pedro Juan Caballero,Paraguay
+1196,Tula,Russia
+1197,Dubnica nad Váhom,Slovakia
+1198,Macoya,Trinidad and Tobago
+1199,Hagätña,Guam
+1200,Vila-real,Spain
+1201,Manizales,Colombia
+1202,Ciudad del Este,Paraguay
+1203,Les Avirons,Réunion
+1204,Visby,Sweden
+1205,Gutavallen,Sweden
+1206,Dalhem,Sweden
+1207,Fardhem,Sweden
+1208,Väskinde,Sweden
+1209,Fårösund,Sweden
+1210,Norrbacka,Sweden
+1211,Samarqand,Uzbekistan
+1212,Colonia,Micronesia
+1213,San Bernardino,United States
+1214,Drnovice,Czech Republic
+1215,Badajoz,Spain
+1216,Albacete,Spain
+1217,Kilkís,Greece
+1218,Kozáni,Greece
+1219,Agilat,Libya
+1220,Vieux Fort,Saint Lucia
+1221,Tríkala,Greece
+1222,El Jadida,Morocco
+1223,Kano,Nigeria
+1224,Cartagena,Spain
+1225,Paphos,Cyprus
+1226,San Cristóbal,Dominican Republic
+1227,Zarqa,Jordan
+1228,Birmingham,United States
+1229,Frederiksted,United States Virgin Islands
+1230,Morogoro,Tanzania
+1231,Ashkelon,Israel
+1232,Omdurman,Sudan
+1233,Orange Walk,Belize
+1234,Reggio di Calabria,Italy
+1235,Rustenburg,South Africa
+1236,Malé,Maldives
+1237,Zahlé,Lebanon
+1238,Winnipeg,Canada
+1239,Seongnam,South Korea
+1240,Chaves,Portugal
+1241,Port Harcourt,Nigeria
+1242,Rifu,Japan
+1243,Tosu,Japan
+1244,Witbank,South Africa
+1245,Quetzaltenango,Guatemala
+1246,Leicester,England
+1247,Viseu,Portugal
+1248,Abha,Saudi Arabia
+1249,Columbus,United States
+1250,Sidon,Lebanon
+1251,Chiang Mai,Thailand
+1252,Xánthi,Greece
+1253,Córdoba,Spain
+1254,Beit She'an,Israel
+1255,Jönköping,Sweden
+1256,Balchik,Bulgaria
+1257,Herzliyya,Israel
+1258,Koper,Slovenia
+1259,Mumias,Kenya
+1260,Uitvlugt,Guyana
+1261,Coffs Harbour,Australia
+1262,Bangalore,India
+1263,Xi'an,China PR
+1264,Gaziantep,Turkey
+1265,Kutaisi,Georgia
+1266,Vélez-Málaga,Spain
+1267,Vientiane,Laos
+1268,Puerto Cortés,Honduras
+1269,Pasig City,Philippines
+1270,Kashima,Japan
+1271,Niigata,Japan
+1272,North Shore,New Zealand
+1273,Cabinda,Angola
+1274,Belize,Belize
+1275,Ōita,Japan
+1276,Castletown,Isle of Man
+1277,Douglas,Isle of Man
+1278,Peel,Isle of Man
+1279,Port Erin,Isle of Man
+1280,Ramsey,Isle of Man
+1281,Braddan,Isle of Man
+1282,Bihać,Bosnia and Herzegovina
+1283,Évreux,France
+1284,Fukuroi,Japan
+1285,Mondercange,Luxembourg
+1286,Lleida,Spain
+1287,Piacenza,Italy
+1288,Trenčín,Slovakia
+1289,Lviv,Ukraine
+1290,Ségou,Mali
+1291,Sikasso,Mali
+1292,Paola,Malta
+1293,Huelva,Spain
+1294,Seogwipo,South Korea
+1295,Mopti,Mali
+1296,Kayes,Mali
+1297,Breda,Netherlands
+1298,Pégeia,Cyprus
+1299,Hesperange,Luxembourg
+1300,Phoenix,United States
+1301,Apia,Samoa
+1302,Kurunegala,Sri Lanka
+1303,Pistoia,Italy
+1304,Kalutara,Sri Lanka
+1305,Rostock,Germany
+1306,Mhlume,Eswatini
+1307,Big Bend,Eswatini
+1308,Jaffna,Sri Lanka
+1309,Murcia,Spain
+1310,Ventspils,Latvia
+1311,Smederevo,Yugoslavia
+1312,Kerkrade,Netherlands
+1313,Pécs,Hungary
+1314,Prešov,Slovakia
+1315,Bodø,Norway
+1316,Tottori,Japan
+1317,Kumamoto,Japan
+1318,Wakayama,Japan
+1319,Thimphu,Bhutan
+1320,Baie-Mahault,Guadeloupe
+1321,Blida,Algeria
+1322,Radès,Tunisia
+1323,Polokwane,South Africa
+1324,Watford,England
+1325,Misrata,Libya
+1326,Rivière-Pilote,Martinique
+1327,Centre de Flacq,Mauritius
+1328,Volgograd,Russia
+1329,Logroño,Spain
+1330,Albano Laziale,Italy
+1331,Independencia,Chile
+1332,Petaling Jaya,Malaysia
+1333,Santa Ana,United States
+1334,Šibenik,Croatia
+1335,Châteauroux,France
+1336,Bastia Umbra,Italy
+1337,Podgorica,Serbia and Montenegro
+1338,Nova Gorica,Slovenia
+1339,Wuhan,China PR
+1340,Kruševac,Serbia and Montenegro
+1341,Tiraspol,Moldova
+1342,León,Spain
+1343,Amiens,France
+1344,Žilina,Slovakia
+1345,Abuja,Nigeria
+1346,Wolfsburg,Germany
+1347,Saint-Brieuc,France
+1348,Campobasso,Italy
+1349,Ghent,Belgium
+1350,Carson,United States
+1351,St. Martin,Guernsey
+1352,Alderney,Guernsey
+1353,St. Peter Port,Guernsey
+1354,East London,South Africa
+1355,Mamoudzou,Mayotte
+1356,Tianjin,China PR
+1357,Ipswich,England
+1358,Belgrade,Serbia and Montenegro
+1359,Donets'k,Ukraine
+1360,Dinard,France
+1361,Reading,England
+1362,Potchefstroom,South Africa
+1363,Hyderabad,India
+1364,Balkanabat,Turkmenistan
+1365,Aveiro,Portugal
+1366,Płock,Poland
+1367,Ulaanbaatar,Mongolia
+1368,Selebi-Phikwe,Botswana
+1369,Houmet Souk,Tunisia
+1370,Az Zawiyah,Libya
+1371,Yiwu,China PR
+1372,Monastir,Tunisia
+1373,Suzhou,China PR
+1374,Spanish Town,British Virgin Islands
+1375,West Palm Beach,United States
+1376,Shenzhen,China PR
+1377,Ta' Qali,Malta
+1378,Achna,Cyprus
+1379,Al Wakrah,Qatar
+1380,San Fernando,Spain
+1381,Charlotte Amalie,United States Virgin Islands
+1382,Hialeah,United States
+1383,Estelí,Nicaragua
+1384,Tuxtla Gutiérrez,Mexico
+1385,Blairmont,Guyana
+1386,Lookout,Montserrat
+1387,Jounieh,Lebanon
+1388,Celje,Slovenia
+1389,Nam Định,Vietnam
+1390,La Ceiba,Honduras
+1391,Peralada,Spain
+1392,Clermont-Ferrand,France
+1393,Chambéry,France
+1394,Águeda,Portugal
+1395,San Carlos,Costa Rica
+1396,Getafe,Spain
+1397,Bacolet,Trinidad and Tobago
+1398,Homs,Syria
+1399,Kingston,Canada
+1400,Aguascalientes,Mexico
+1401,Chongqing,China PR
+1402,Chiclayo,Peru
+1403,Hohhot,China PR
+1404,Trujillo,Peru
+1405,Piura,Peru
+1406,Tacna,Peru
+1407,Jinan,China PR
+1408,Cusco,Peru
+1409,Al Rayyan,Qatar
+1410,Krasnodar,Russia
+1411,Hải Phòng,Vietnam
+1412,Babahoyo,Ecuador
+1413,Scarborough,Trinidad and Tobago
+1414,Grodzisk Wielkopolski,Poland
+1415,Almería,Spain
+1416,Culiacán,Mexico
+1417,Barcelos,Portugal
+1418,Toyota,Japan
+1419,Metz,France
+1420,Liberec,Czech Republic
+1421,Salt Lake City,United States
+1422,Mönchengladbach,Germany
+1423,Arles,France
+1424,Quetta,Pakistan
+1425,Changsha,China PR
+1426,Shetland,Scotland
+1427,Loja,Ecuador
+1428,Mutare,Zimbabwe
+1429,Lubumbashi,DR Congo
+1430,Port-Gentil,Gabon
+1431,San Luis Potosí,Mexico
+1432,Dnipropetrovs'k,Ukraine
+1433,Vitsebsk,Belarus
+1434,Le Mans,France
+1435,Nanjing,China PR
+1436,Clairfontaine,France
+1437,Phang Nga,Thailand
+1438,Santiago de Compostela,Spain
+1439,Phuket,Thailand
+1440,Viry-Châtillon,France
+1441,Nicosia,Northern Cyprus
+1442,Ayutthaya,Thailand
+1443,Frisco,United States
+1444,Chittagong,Bangladesh
+1445,Cary,United States
+1446,Cap-d'Ail,France
+1447,La Calera,Chile
+1448,Wronki,Poland
+1449,Les Abymes,Guadeloupe
+1450,Nashville,United States
+1451,Genk,Belgium
+1452,Terrassa,Spain
+1453,Cleveland,United States
+1454,Altenkirchen,Germany
+1455,Évora,Portugal
+1456,East Hartford,United States
+1457,Vittel,France
+1458,Jablonec nad Nisou,Czech Republic
+1459,Dornbirn,Austria
+1460,Offenbach am Main,Germany
+1461,Bondoufle,France
+1462,Gossau,Switzerland
+1463,Ulm,Germany
+1464,Aix-en-Provence,France
+1465,Brentford,England
+1466,Uherské Hradiště,Czech Republic
+1467,Livorno,Italy
+1468,Tours,France
+1469,Narbonne,France
+1470,Maracay,Venezuela
+1471,Belgrade,Serbia
+1472,Saint-Marc,Haiti
+1473,Grand Bay,Dominica
+1474,Montbéliard,France
+1475,Black Rock,Barbados
+1476,Bacolod,Philippines
+1477,La Courneuve,France
+1478,Kyrenia,Northern Cyprus
+1479,Güzelyurt,Northern Cyprus
+1480,Lefkoşa,Northern Cyprus
+1481,Costebelle,France
+1482,Gazimağusa,Northern Cyprus
+1483,Hyères,France
+1484,Saint-Joseph,Martinique
+1485,Sainte-Marie,Martinique
+1486,Le Lamentin,Martinique
+1487,Couva,Trinidad and Tobago
+1488,Cúcuta,Colombia
+1489,Domžale,Slovenia
+1490,Glendale,United States
+1491,Qarshi,Uzbekistan
+1492,Shymkent,Kazakhstan
+1493,Belle Vue,Mauritius
+1494,Le Gosier,Guadeloupe
+1495,Podgorica,Montenegro
+1496,Woumé,Togo
+1497,Oleai,Northern Mariana Islands
+1498,Talca,Chile
+1499,Kielce,Poland
+1500,Piatra Neamţ,Romania
+1501,Osorno,Chile
+1502,Morne-à-l'Eau,Guadeloupe
+1503,Masvingo,Zimbabwe
+1504,Matsumoto,Japan
+1505,Salmiya,Kuwait
+1506,Táchira,Venezuela
+1507,Paju,South Korea
+1508,Puerto la Cruz,Venezuela
+1509,Palembang,Indonesia
+1510,Orapa,Botswana
+1511,Creil,France
+1512,Commerce City,United States
+1513,Warri,Nigeria
+1514,Atteridgeville,South Africa
+1515,Homel,Belarus
+1516,Ciudad Juárez,Mexico
+1517,Siena,Italy
+1518,Foshan,China PR
+1519,Gianyar,Indonesia
+1520,Gangtok,India
+1521,Melun,France
+1522,Moroni,Comoros
+1523,Évry/Bondoufle,France
+1524,Modena,Italy
+1525,Jerez,Spain
+1526,Estepona,Spain
+1527,Alverca do Ribatejo,Portugal
+1528,Umlazi,South Africa
+1529,Zhongshan,China PR
+1530,Sekondi,Ghana
+1531,Tamale,Ghana
+1532,Providenciales,Turks and Caicos Islands
+1533,Germiston,South Africa
+1534,Kópavogur,Iceland
+1535,Aubervilliers,France
+1536,Nanterre,France
+1537,Pernis,Netherlands
+1538,Herning,Denmark
+1539,Latacunga,Ecuador
+1540,Iquitos,Peru
+1541,Zlaté Moravce,Slovakia
+1542,Susupe,Northern Mariana Islands
+1543,Bucaramanga,Colombia
+1544,Iloilo City,Philippines
+1545,Barotac Nuevo,Philippines
+1546,Nizwa,Oman
+1547,Bielefeld,Germany
+1548,Alcochete,Portugal
+1549,Kunshan,China PR
+1550,Reutlingen,Germany
+1551,Grenoble,France
+1552,Chennai,India
+1553,Burghausen,Germany
+1554,Jūrmala,Latvia
+1555,Falmouth,Jamaica
+1556,Providence,Guyana
+1557,Gällivare,Sweden
+1558,Malmberget,Sweden
+1559,Secunda,South Africa
+1560,Bushbuckridge,South Africa
+1561,Mantes-la-Ville,France
+1562,Le Touquet-Paris-Plage,France
+1563,Dreux,France
+1564,Chantilly,France
+1565,Marijampolė,Lithuania
+1566,Urziceni,Romania
+1567,Nyon,Switzerland
+1568,İzmit,Turkey
+1569,Mainz,Germany
+1570,Montreal,Canada
+1571,Bridgeview,United States
+1572,Franconville,France
+1573,Bonneuil-sur-Marne,France
+1574,Poissy,France
+1575,Kharkiv,Ukraine
+1576,Arad,Bahrain
+1577,Al-Ram,Palestine
+1578,Compiègne,France
+1579,Gama,Brazil
+1580,Palmira,Colombia
+1581,Fort Pierce,United States
+1582,Albufeira,Portugal
+1583,Bois-Guillaume,France
+1584,Le Petit-Quevilly,France
+1585,Vila Real de Santo António,Portugal
+1586,Yona,Guam
+1587,Keetmanshoop,Namibia
+1588,Olhão,Portugal
+1589,Espargos,Cape Verde
+1590,Dundo,Angola
+1591,Santa Fe,Argentina
+1592,Chiba,Japan
+1593,Llanelli,Wales
+1594,Qinhuangdao,China PR
+1595,Kayseri,Turkey
+1596,Hrodna,Belarus
+1597,Ajaccio,France
+1598,Barysaw,Belarus
+1599,Ha'ateiho,Tonga
+1600,Mahajanga,Madagascar
+1601,Novara,Italy
+1602,Varese,Italy
+1603,Mariehamn,Sweden
+1604,Hammarland,Sweden
+1605,Eckerö,Sweden
+1606,Jomala,Sweden
+1607,Sund,Sweden
+1608,Saltvik,Sweden
+1609,Finström,Sweden
+1610,Oxnard,United States
+1611,Erbil,Iraq
+1612,Arlington,United States
+1613,Dieppe,France
+1614,Blois,France
+1615,Limerick,Republic of Ireland
+1616,Salalah,Oman
+1617,Kaohsiung,Taiwan
+1618,Lənkəran,Azerbaijan
+1619,Enschede,Netherlands
+1620,Sandy City,United States
+1621,Mérida,Spain
+1622,Kimberley,South Africa
+1623,Brest,Belarus
+1624,Guingamp,France
+1625,Miyagi,Japan
+1626,Astana,Kazakhstan
+1627,Saint-Gratien,France
+1628,Al-Jahra,Kuwait
+1629,Talcahuano,Chile
+1630,Nonthaburi,Thailand
+1631,Vinkovci,Croatia
+1632,Sedan,France
+1633,Tete,Mozambique
+1634,Jiangyin,China PR
+1635,Benguela,Angola
+1636,Lubango,Angola
+1637,Nakhon Ratchasima,Thailand
+1638,San Juan,Argentina
+1639,Vieux-Habitants,Guadeloupe
+1640,Torreón,Mexico
+1641,Charlotte,United States
+1642,Taunusstein,Germany
+1643,Cutral Có,Argentina
+1644,Iquique,Chile
+1645,Nelspruit,South Africa
+1646,Schwaz,Austria
+1647,Harrison,United States
+1648,Covilhã,Portugal
+1649,Altach,Austria
+1650,Wattens,Austria
+1651,Seekirchen am Wallersee,Austria
+1652,Calama,Chile
+1653,Villach,Austria
+1654,Bischofshofen,Austria
+1655,Anif,Austria
+1656,Kufstein,Austria
+1657,Chillán,Chile
+1658,Grenville,Grenada
+1659,Bayreuth,Germany
+1660,Milton Keynes,England
+1661,Thonon-les-Bains,France
+1662,Xewkija,Malta
+1663,Sannat,Malta
+1664,Roodepoort,South Africa
+1665,Zell am See,Austria
+1666,Winterthur,Switzerland
+1667,Sankt Veit an der Glan,Austria
+1668,Durrës,Albania
+1669,Senlis,France
+1670,Nanning,China PR
+1671,Marignane,France
+1672,Zhengzhou,China PR
+1673,Zapopan,Mexico
+1674,Quartier d'Orléans,Saint Martin
+1675,Bry-sur-Marne,France
+1676,Gennevilliers,France
+1677,Villemomble,France
+1678,Levallois-Perret,France
+1679,Longjumeau,France
+1680,Pune,India
+1681,Mitsamiouli,Comoros
+1682,San José,Guatemala
+1683,Ciudad Quesada,Costa Rica
+1684,Chester,United States
+1685,Lobatse,Botswana
+1686,Korçë,Albania
+1687,Kennesaw,United States
+1688,Voronezh,Russia
+1689,Aden,Yemen
+1690,Zinjibar,Yemen
+1691,Zhuhai,China PR
+1692,Sulaymaniyah,Iraq
+1693,6th of October City,Egypt
+1694,Valence,France
+1695,Moquegua,Peru
+1696,Lagos,Portugal
+1697,Óbidos,Portugal
+1698,Pula,Croatia
+1699,Amadora,Portugal
+1700,Maun,Botswana
+1701,Gurgaon,India
+1702,České Budějovice,Czech Republic
+1703,Resistencia,Argentina
+1704,Sinsheim,Germany
+1705,Saint-Nazaire,France
+1706,Franceville,Gabon
+1707,Detroit,United States
+1708,Guiyang,China PR
+1709,Las Vegas,United States
+1710,Al-Khader,Palestine
+1711,Brading,England
+1712,Cowes,England
+1713,Newport,England
+1714,East Cowes,England
+1715,Rookley,England
+1716,Freshwater,England
+1717,Shanklin,England
+1718,Oakfield,England
+1719,Tursunzoda,Tajikistan
+1720,San Salvador de Jujuy,Argentina
+1721,Buriram,Thailand
+1722,Hawalli,Kuwait
+1723,Hefei,China PR
+1724,Saint-Leu-la-Forêt,France
+1725,Navua,Fiji
+1726,Boulari,New Caledonia
+1727,Osbourn,Antigua and Barbuda
+1728,Goyang,South Korea
+1729,Panama,Panama
+1730,Guatemala City,Guatemala
+1731,Gros Islet,Saint Lucia
+1732,Koné,New Caledonia
+1733,Lifou,New Caledonia
+1734,Wiesbaden,Germany
+1735,Guwahati,India
+1736,Mayagüez,Puerto Rico
+1737,Chamazi,Tanzania
+1738,Bitam,Gabon
+1739,Belek,Turkey
+1740,Seeb,Oman
+1741,Xuçand,Tajikistan
+1742,Karaj,Iran
+1743,Amanvillers,France
+1744,Würzburg,Germany
+1745,Valenciennes,France
+1746,Cascais,Portugal
+1747,Kelsterbach,Germany
+1748,Port el-Kantaoui,Tunisia
+1749,Võru,Estonia
+1750,Ingolstadt,Germany
+1751,Salahaddin,Iraq
+1752,Duhok,Iraq
+1753,Juba,South Sudan
+1754,Molepolole,Botswana
+1755,Bakıxanov,Azerbaijan
+1756,Lauderhill,United States
+1757,Kecskemét,Hungary
+1758,Jurong,Singapore
+1759,Pontevedra,Spain
+1760,Novi Sad,Serbia
+1761,Versailles,France
+1762,Issy-les-Moulineaux,France
+1763,Corbeil-Essonnes,France
+1764,Sukhumi,Georgia
+1765,Saint-Ouen-l'Aumône,France
+1766,Clairefontaine-en-Yvelines,France
+1767,Plzeň,Czech Republic
+1768,al-Ahsa,Saudi Arabia
+1769,Choa Chu Kang,Singapore
+1770,Stepanakert,Azerbaijan
+1771,Estoril,Portugal
+1772,Hwaseong,South Korea
+1773,Cebu City,Philippines
+1774,North Sound,Antigua and Barbuda
+1775,Al Farwaniyah,Kuwait
+1776,Roche Caiman,Seychelles
+1777,Sur,Oman
+1778,Sohar,Oman
+1779,Cornellà de Llobregat,Spain
+1780,Marbella,Spain
+1781,Netanya,Israel
+1782,Manisa,Turkey
+1783,Boca Raton,United States
+1784,Qurghonteppa,Tajikistan
+1785,Antigua Guatemala,Guatemala
+1786,Sandy,United States
+1787,Marcory,Ivory Coast
+1788,Dolisie,Congo
+1789,Zhodzina,Belarus
+1790,el-Gouna,Egypt
+1791,Sintra,Portugal
+1792,Jalan Besar,Singapore
+1793,Khujand,Tajikistan
+1794,Aïn Draham,Tunisia
+1795,Kazan,Russia
+1796,Oliva,Spain
+1797,Cheonan,South Korea
+1798,Jagodina,Serbia
+1799,Siliguri,India
+1800,Mersin,Turkey
+1801,Hougang,Singapore
+1802,Machakos,Kenya
+1803,Selayang,Malaysia
+1804,Martigues,France
+1805,Mitrovica,Kosovo
+1806,Alzira,Spain
+1807,Cebu,Philippines
+1808,Kapfenberg,Austria
+1809,Addu City,Maldives
+1810,Ritzing,Austria
+1811,Senec,Slovakia
+1812,Lancy,Switzerland
+1813,Hartberg,Austria
+1814,Carouge,Switzerland
+1815,Mauer,Austria
+1816,Olmaliq,Uzbekistan
+1817,Rieti,Italy
+1818,Yverdon-les-Bains,Switzerland
+1819,Östersund,Sweden
+1820,Meyrin,Switzerland
+1821,Landover,United States
+1822,Malang,Indonesia
+1823,Thủ Dầu Một,Vietnam
+1824,Dededo,Guam
+1825,Saint-Laurent-du-Maroni,French Guiana
+1826,Matrei in Osttirol,Austria
+1827,Khimki,Russia
+1828,Tuzla,Bosnia and Herzegovina
+1829,Anshan,China PR
+1830,Bucheon,South Korea
+1831,Santa Clara,United States
+1832,Pristina,Kosovo
+1833,Harbin,China PR
+1834,Yogyakarta,Indonesia
+1835,Sidoarjo,Indonesia
+1836,Elbasan,Albania
+1837,Taipa,Macau
+1838,Jessore,Bangladesh
+1839,Rajshahi,Bangladesh
+1840,Yishun,Singapore
+1841,Nanchang,China PR
+1842,Perivólia,Greece
+1843,Uyo,Nigeria
+1844,Chenzhou,China PR
+1845,al-Hamriyah,United Arab Emirates
+1846,South Geelong,Australia
+1847,Robina,Australia
+1848,Ballarat,Australia
+1849,Penrith,Australia
+1850,Ebebiyín,Equatorial Guinea
+1851,Mongomo,Equatorial Guinea
+1852,Dili,East Timor
+1853,Ulan Bator,Mongolia
+1854,Santiago de los Caballeros,Dominican Republic
+1855,Beauvais,France
+1856,Sankt Pölten,Austria
+1857,Chōfu,Japan
+1858,Moruleng-Saulspoort,South Africa
+1859,Phokeng,South Africa
+1860,Samut Sakhon,Thailand
+1861,Jurong West,Singapore
+1862,Viborg,Denmark
+1863,Mons,Belgium
+1864,Thun,Switzerland
+1865,Bocaue,Philippines
+1866,Owando,Congo
+1867,Devonshire,Bermuda
+1868,Daşoguz,Turkmenistan
+1869,Bahir Dar,Ethiopia
+1870,St. John,Jersey
+1871,St. Ouen,Jersey
+1872,St. Brelade,Jersey
+1873,Kertepe,Turkey
+1874,‘Atele,Tonga
+1875,Konya,Turkey
+1876,Francistown,Botswana
+1877,Pathum Thani,Thailand
+1878,Visé,Belgium
+1879,Ciudad Guayana,Venezuela
+1880,Troyes,France
+1881,Rostov-on-Don,Russia
+1882,Hawassa,Ethiopia
+1883,Juticalpa,Honduras
+1884,Thiruvananthapuram,India
+1885,Gisenyi,Rwanda
+1886,Njeru,Uganda
+1887,Butare,Rwanda
+1888,Giurgiu,Romania
+1889,Ansan,South Korea
+1890,Limbé,Cameroon
+1891,Krubong,Malaysia
+1892,Hebron,Palestine
+1893,Serowe,Botswana
+1894,Como,Italy
+1895,Užice,Serbia
+1896,Bad Erlach,Austria
+1897,Koprivnica,Croatia
+1898,Wels,Austria
+1899,Gagra,Georgia
+1900,Thanh Hóa,Vietnam
+1901,Rohrbach an der Lafnitz,Austria
+1902,Suita,Japan
+1903,Bad Waltersdorf,Austria
+1904,Paroi,Malaysia
+1905,Mladá Boleslav,Czech Republic
+1906,Horsens,Denmark
+1907,Bombay,India
+1908,Sleman,Indonesia
+1909,Kuching,Malaysia
+1910,Bishan,Singapore
+1911,Groznyy,Russia
+1912,Gabès,Tunisia
+1913,Naypyidaw,Myanmar
+1914,Bogor,Indonesia
+1915,Sidi Moussa,Algeria
+1916,Oyem,Gabon
+1917,Cibinong,Indonesia
+1918,Ústí nad Labem,Czech Republic
+1919,Paya Rumput,Malaysia
+1920,Eskişehir,Turkey
+1921,Molenbeek,Belgium
+1922,Sochi,Russia
+1923,Pirae,Tahiti
+1924,Belle Vue Maurel,Mauritius
+1925,Empoli,Italy
+1926,Basra,Iraq
+1927,Salé,Morocco
+1928,New Cairo,Egypt
+1929,Morphou,Northern Cyprus
+1930,Famagusta,Northern Cyprus
+1931,Yacuiba,Bolivia
+1932,Ras al-Khaimah,United Arab Emirates
+1933,al-Ubayyid,Sudan
+1934,Moruleng,South Africa
+1935,Stenkyrka,Sweden
+1936,Hemse,Sweden
+1937,Säve,Sweden
+1938,Sauteurs,Grenada
+1939,Saulspoort,South Africa
+1940,Zouérat,Mauritania
+1941,Obeid,Sudan
+1942,Burton on Trent,England
+1943,Bekasi,Indonesia
+1944,Lalitpur,Nepal
+1945,Mandalay,Myanmar
+1946,La Marsa,Tunisia
+1947,Pak Kret,Thailand
+1948,Salon-de-Provence,France
+1949,Biel,Switzerland
+1950,Hisor,Tajikistan
+1951,Gori,Georgia
+1952,Karbala,Iraq
+1953,Jenin,Palestine
+1954,Cikarang,Indonesia
+1955,Banda Aceh,Indonesia
+1956,Kakamega,Kenya
+1957,Fitzwilliam,England
+1958,Limeil-Brévannes,France
+1959,San Pedro de Alcántara,Spain
+1960,Razgrad,Bulgaria
+1961,San Pedro del Pinatar,Spain
+1962,Santiago,Dominican Republic
+1963,Felcsút,Hungary
+1964,Kuwait,Kuwait
+1965,Rakvere,Estonia
+1966,Sutton,England
+1967,Bromley,England
+1968,Enfield,England
+1969,Haringey,England
+1970,Carshalton,England
+1971,Slough,England
+1972,Mumbai,India
+1973,Bracknell,England
+1974,Évian-les-Bains,France
+1975,Almada,Portugal
+1976,Rotherhithe,England
+1977,Bedfont,England
+1978,Kematen,Austria
+1979,Aveley,England
+1980,Schwechat,Austria
+1981,Grödig,Austria
+1982,Ekaterinburg,Russia
+1983,Saransk,Russia
+1984,Kaliningrad,Russia
+1985,Samara,Russia
+1986,Nizhny Novgorod,Russia
+1987,San Pedro,Belize
+1988,Nilphamari Sadar,Bangladesh
+1989,East Riffa,Bahrain
+1990,Faro-Loulé,Portugal
+1991,Llagostera,Trinidad and Tobago
+1992,Leonora,Guyana
+1993,Luxembourg City,Luxembourg
+1994,Kira,Uganda
+1995,Bradenton,United States
+1996,Andorra la Vella,Andorra
+1997,Llagostera,Laos
+1998,Georgetown,Saint Vincent and the Grenadines
+1999,San Nicolás de los Garza,Mexico
+2000,Rize,Turkey
+2001,Suphan Buri,Thailand
+2002,Malacca City,Malaysia
+2003,Ossett,England
+2004,Eupen,Belgium
+2005,Al-Ain,Iraq
+2006,Asaba,Nigeria
+2007,Villa Tunari,Bolivia
+2008,Al Ahmadi,Kuwait
+2009,Nur-Sultan,Kazakhstan
+2010,Arnos Vale,Saint Vincent and the Grenadines
+2011,Thiès,Senegal
+2012,Cluj-Napoca,Romania
+2013,Athersley,England
+2014,Bodmin,England
+2015,Kent,United States
+2016,Alanya,Turkey
+2017,Askeran,Azerbaijan
+2018,Martakert,Azerbaijan
+2019,Martuni,Azerbaijan
+2020,Harrogate,England
+2021,Toyota City,Japan
+2022,Zhuhai,Macau
+2023,Boulogne-Sur-Mer,Ivory Coast
+2024,Bondoufle,Kenya
+2025,Borisov,Belarus
+2026,Penafiel,Angola
+2027,Majadahonda,Cameroon
+2028,Cincinnati,United States
+2029,Anglesey,Wales
+2030,San José,Jamaica
+2031,Saint Paul,United States
+2032,Suez,Egypt
+2033,New Jersey,United States
+2034,Ahmedabad,India
+2035,Soweto,South Africa
+2036,Xianghe,Egypt
+2037,Caen,Egypt
+2038,Berrechid,Egypt
+2039,Gijon,Egypt
+2040,Dnipro,Ukraine
+2041,Mekele,Ethiopia
+2042,Belle Vue Harel,Mauritius
+2043,Fos-sur-Mer,Cape Verde
+2044,Thanyaburi,Thailand
+2045,Buraidah,Saudi Arabia
+2046,Morocco,Morocco
+2047,Guinea,Guinea
+2048,Ivory Coast,Ivory Coast
+2049,Benin,Benin
+2050,Equatorial Guinea,Equatorial Guinea
+2051,Ethiopia,Ethiopia
+2052,Kenya,Kenya
+2053,Lesotho,Lesotho
+2054,Niger,Niger
+2055,Saint Kitts and Nevis,Saint Kitts and Nevis
+2056,Grenada,Grenada
+2057,Rwanda,Rwanda
+2058,Villeneuve D'Ascq,Algeria
+2059,Kolkota,India
+2060,Uganda,Uganda
+2061,Berkane,Morocco
+2062,Namibia,Namibia
+2063,Zambia,Zambia
+2064,Nigeria,Nigeria
+2065,Congo,Congo
+2066,DR Congo,DR Congo
+2067,Libya,Libya
+2068,Mali,Mali
+2069,Burkina Faso,Burkina Faso
+2070,Cape Coast,Ghana
+2071,Zaporizhia,Ukraine
+2072,Kasarani,Kenya
+2073,Willemstad,Aruba
+2074,Frankfurt,Germany
+2075,Upper Bethlehem,United States Virgin Islands
+2076,Irvine,United States
+2077,Sivas,Turkey
+2078,Rimini,Italy
+2079,Parchal,Portugal
+2080,Comayagua,Honduras
+2081,Tychy,Poland
+2082,Aksu,Turkey
+2083,Rio Maior,Portugal
+2084,Leuven,Belgium
+2085,Brondbyvester,Denmark
+2086,Maria Enzersdorf,Austria
+2087,Zaprešić,Croatia
+2088,Wiener Neustadt,Austria
+2089,Eibar,Spain
+2090,Lublin,Poland
+2091,Benina,Libya
+2092,Thessaloniki,Greece
+2093,Toamasina,Madagascar
+2094,Velika Gorica,Croatia
+2095,Ried im Innkreis,Austria
+2096,São João da Venda,Portugal
+2097,Paderborn,Germany
+2098,Arad,Iran
+2099,Santiago del Estero,Argentina
+2100,Miki,Japan
+2101,Leganés,Spain
+2102,Djibouti City,Djibouti
+2103,Austin,United States
+2104,Entebbe,Uganda
+2105,Manavgat,Turkey
+2106,Sapanca,Turkey
+2107,Al Khor,Qatar
+2108,Bafoussam,Cameroon
+2109,Hamilton,Canada
+2110,Saint Pierre,Mauritius
+2111,Orléans,France
+2112,Kortrijk,Belgium
+2113,Namangan,Uzbekistan
+2114,Mbombela,South Africa
+2115,Diamniadio,Senegal
+2116,Guayana,Venezuela
+2117,Sylhet,Bangladesh
+2118,Anderlecht,Belgium
+2119,Sisaket,Thailand
+2120,Adama,Ethiopia
+2121,Soreang,Indonesia
+2122,Sevilla,Spain
+2123,Tortola,British Virgin Islands
+2124,Devonshire Parish,Bermuda
+2125,Santiago,Cuba
+2126,Pamplona,Spain
+2127,Mardakan,Azerbaijan
+2128,Fort de France,Martinique
+2129,Linares,Chile
+2130,Almere,Netherlands
+2131,Carriacou,Grenada
+2132,Bačka Topola,Serbia
+2133,Lorca,Spain
+2134,Al Hamriyah,United Arab Emirates
+2135,Malaga,Spain
+2136,Diyarbakir,Turkey
+2137,Lusail,Qatar
