@@ -1,0 +1,73 @@
+index,Park,Location,AnnualPassPrice,Area,ParkType,Year2021,Year2020,Year2019
+1,Great Smoky Mountains,"Gatlinburg, TN",40,816.3 sqmi,National park,14161548,12095720,12547743
+2,Zion,"Springdale, UT",70,229.1 sqmi,National park,5039835,3591254,4488268
+3,Yellowstone,"Jackson, WY",70,3468.4 sqmi,National park,4860242,3806306,4020288
+4,Grand Canyon,"Grand Canyon Village, AZ",80,1902.0 sqmi,National park,4532677,2897098,5974411
+5,Rocky Mountain,"Estes Park, CO",70,414.8 sqmi,National park,4434848,3305199,4670053
+6,Acadia,"Bar Harbor, ME",55,76.7 sqmi,National park,4069098,2669034,3437286
+7,Grand Teton,"Moose, WY",70,485.0 sqmi,National park,3885230,3289638,3405614
+8,Yosemite,"Yosemite Valley, CA",70,1169.0 sqmi,National park,3287595,2268313,4422861
+9,Indiana Dunes,"Porter, IN",45,23.5 sqmi,National park,3177210,2293106,2134285
+10,Glacier,"Browning, MT",80,1583.4 sqmi,National park,3081656,1698864,3049839
+11,Joshua Tree,"Joshua Tree, CA",55,1242.4 sqmi,National park,3064400,2399542,2988547
+12,Olympic,"Port Angeles, WA",55,1442.0 sqmi,National park,2718925,2499177,3245806
+13,Cuyahoga Valley,"Peninsula, OH",80,50.9 sqmi,National park,2575275,2755628,2237997
+14,Big Cypress,"Ochopee, FL",0,1125.9 sqmi,National preserve,2563810,1181930,1007471
+15,Hot Springs,"Hot Springs National Park, AR",80,8.7 sqmi,National park,2162884,1348215,1467153
+16,Bryce Canyon,"Bryce Canyon City, UT",70,56.2 sqmi,National park,2104600,1464655,2594904
+17,Arches,"Moab, UT",55,119.8 sqmi,National park,1806865,1238083,1659702
+18,New River Gorge,"Lansing, WV",0,114.1 sqmi,National park and preserve,1682720,1054374,1195721
+19,Mount Rainier,"Ashford, WA",55,369.3 sqmi,National park,1670063,1160754,1501621
+20,Shenandoah,"Luray, VA",55,311.2 sqmi,National park,1592312,1666265,1425507
+21,Capitol Reef,"Torrey, UT",80,378.0 sqmi,National park,1405353,981038,1226519
+22,Hawaii Volcanoes,"Volcano, HI",55,505.4 sqmi,National park,1262747,589775,1368376
+23,Badlands,"Interior, SD",55,379.3 sqmi,National park,1224226,916932,970998
+24,Death Valley,"Furnace Creek, CA",55,5270.0 sqmi,National park,1146551,820023,1740945
+25,Gateway Arch,"St. Louis, MO",80,0.1 sqmi,National park,1145081,486021,2055309
+26,Saguaro,"Tucson, AZ",45,143.3 sqmi,National park,1079786,762226,1020226
+27,Sequoia,"Three Rivers, CA",70,631.4 sqmi,National park,1059548,796086,1246053
+28,Everglades,"Homestead, FL",55,2356.6 sqmi,National park,942130,702319,1118300
+29,Canyonlands,"Moab, UT",55,527.5 sqmi,National park,911594,493914,733996
+30,Mojave,"Kelso, CA",0,2410.4 sqmi,National preserve,866635,608633,841516
+31,Little River Canyon,"Fort Payne, AL",35,23.9 sqmi,National preserve,862606,802375,649986
+32,Haleakala,"Kula, HI",55,52.0 sqmi,National park,853181,319147,994394
+33,Theodore Roosevelt,"Belfield, ND",55,110.1 sqmi,National park,796085,551303,691658
+34,White Sands,"Alamogordo, NM",45,227.8 sqmi,National park,782469,415383,608785
+35,Wind Cave,"Hot Springs, SD",0,52.88 sqmi,National park,709001,448405,615350
+36,Biscayne,"Homestead, FL",0,270.3 sqmi,National park,705655,402770,708522
+37,Crater Lake,"Crater Lake, OR",55,286.3 sqmi,National park,647751,670500,704512
+38,Great Sand Dunes,"Mosca, CO",45,232.9 sqmi,National park & preserve,602613,461532,527546
+39,Petrified Forest,"Petrified Forest National Park, AZ",45,229.6 sqmi,National park,590334,384483,643588
+40,Big Bend,"Big Bend National Park, TX",55,1251.8 sqmi,National park,581220,393907,463832
+41,Kings Canyon,"Grant Grove Village, CA",70,721.7 sqmi,National park,562918,415077,632110
+42,Mesa Verde,"Mancos, CO",55,81.3 sqmi,National park,548477,287477,556203
+43,Mammoth Cave,"Mammoth Cave, KY",0,82.6 sqmi,National park,515774,290392,551590
+44,Redwood,"Hiouchi, CA",0,30.7 sqmi,National park,435879,265177,504722
+45,Kenai Fjords,"Seward, AK",0,1046.9 sqmi,National park,411782,115882,356601
+46,Lassen Volcanic,"Mineral, CA",55,166.3 sqmi,National park,359635,542274,517039
+47,Carlsbad Caverns,"Carlsbad, NM",80,73.1 sqmi,National park,349244,183835,440691
+48,Pinnacles,"Paicines, CA",55,41.6 sqmi,National park,348857,165740,177224
+49,Virgin Islands,"St. John, VI",0,23.0 sqmi,National park,323999,167540,133398
+50,Channel Islands,"Ventura, CA",0,389.9 sqmi,National park,319252,167290,409630
+51,Black Canyon of the Gunnison,"Montrose, CO",55,48.0 sqmi,National park,308910,341620,432818
+52,Big Thicket,"Kountze, TX",0,176.8 sqmi,National preserve,290837,309053,255926
+53,Wolf Trap NP for the Performing Arts,"Vienna, VA",0,0.2 sqmi,National park,247862,30073,402580
+54,Guadalupe Mountains,"Salt Flat, TX",35,134.9 sqmi,National park,243291,151256,188833
+55,Voyageurs,"International Falls, MN",0,340.9 sqmi,National park,243042,263091,232974
+56,Denali,"Denali Park, AK",45,9492.0 sqmi,National park and preserve,229521,54850,601152
+57,Congaree,"Hopkins, SC",0,41.1 sqmi,National park,215181,119306,159445
+58,Great Basin,"Baker, NV",0,120.6 sqmi,National park,144875,120248,131802
+59,Glacier Bay,"Gustavus, AK",0,5129.0 sqmi,National park and preserve,89768,5748,672087
+60,Dry Tortugas,"Key West, FL",80,101.0 sqmi,National park,83817,48543,79200
+61,Valles Caldera,"Jemez Springs, NM",45,140.3 sqmi,National preserve,76578,30434,
+62,Wrangell-St. Elias,"Copper Center, AK",0,20587.2 sqmi,National park & preserve,50189,16655,74518
+63,Tallgrass Prairie,"Cottonwood Falls, KS",0,17.0 sqmi,National preserve,35001,29009,33750
+64,Isle Royale,"Windigo, MI",60,893.0 sqmi,National park,25844,6493,26410
+65,Katmai,"King Salmon, AK",0,6395.4 sqmi,National park and preserve,24764,51511,84167
+66,Lake Clark,"Port Alsworth, AK",0,6296.9 sqmi,National park & preserve,18278,4948,17157
+67,North Cascades,"Marblemount, WA",0,788.5 sqmi,National park,17855,30885,38208
+68,Noatak,"Kotzebue, AK",0,10265.5 sqmi,National preserve,12891,12533,17216
+69,Kobuk Valley,"Kotzebue, AK",0,2735.5 sqmi,National park,11540,11185,15766
+70,Gates of the Arctic,"Bettles, AK",0,13238.3 sqmi,National park & preserve,7362,2872,10518
+71,Bering Land Bridge,"Nome, AK",0,4214.7 sqmi,National preserve,2642,2642,2642
+72,Yukon-Charley Rivers,"Fairbanks, AK",0,3946.1 sqmi,National preserve,629,666,1114
